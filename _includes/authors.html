@@ -1,0 +1,31 @@
+<div class="row">
+    <div class="col-lg-6">
+      <h4>Authors</h4>
+      <ul class="list-inline">
+      {% for author in include.authors %}
+      {% assign fullname = author.name | split: ',' | reverse | join: ' ' %}
+      <li>
+          {% if author.url %}
+          <a href="{{ author.url }}">{{ fullname }}</a>
+          {% else %}
+          {{ fullname }}
+          {% endif %}
+          <sup>{{ author.affiliations | join: ',' }}</sup></li>
+      {% endfor %}
+      </ul>
+    </div>
+    <div class="col-lg-6">
+      <h4>Affiliations</h4>
+      <ul class="list-inline">
+      {% for affil in include.affiliations %}
+      <li>
+          {% if affil.url %}
+          <a href="{{ affil.url }}">{{ affil.name }}</a>
+          {% else %}
+          {{ affil.name }}
+          {% endif %}
+          <sup>{{ forloop.index }}</sup></li>
+      {% endfor %}
+      </ul>
+    </div>
+</div>

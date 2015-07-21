@@ -1,0 +1,33 @@
+<figure class="well">
+<div class="row">
+{% for image in include.images %}
+{% case include.columns %}
+    {% when 4 %}
+    <div class="col-sm-6 col-md-4 col-lg-3">
+    {% when 3 %}
+    <div class="col-sm-6 col-md-4 col-lg-4">
+    {% when 2 %}
+    <div class="col-sm-12 col-md-12 col-lg-6">
+    {% else %}
+    <div class="col-lg-12">
+{% endcase %}
+        <img src="{{ image.url }}" alt="{{ image.alt }}" class="img-responsive">
+    </div>
+
+{% assign indexmod2 = forloop.index | modulo: 2 %}
+{% assign indexmod3 = forloop.index | modulo: 3 %}
+{% assign indexmod4 = forloop.index | modulo: 4 %}
+{% case include.columns %}
+    {% when 4 %}
+    {% if indexmod2 == 4 %}<div class="clearfix visible-lg"></div>{% endif %}
+    {% when 3 %}
+    {% if indexmod2 == 3 %}<div class="clearfix visible-lg"></div>{% endif %}
+    {% when 2 %}
+    {% if indexmod2 == 0 %}<div class="clearfix visible-lg"></div>{% endif %}
+    {% else %}
+    <div class="clearfix visible-lg"></div>
+{% endcase %}
+{% endfor %}
+</div>
+<figcaption>{{ include.caption }}</figcaption>
+</figure>

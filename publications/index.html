@@ -1,0 +1,69 @@
+---
+layout: default
+---
+<section id="publications">
+    <div class="container text-center">
+        <h1>Publications</h1>
+    </div>
+
+    <div class="container-fluid">
+        <div class="row">
+        {% assign publications = site.publications | sort: 'date' | reverse %}
+        {% for p in publications %}
+            <div class="publication text-center col-sm-6 col-md-4 col-lg-3">
+                <div class="well">
+                    <img class="img-responsive" src="{{ '/thumb.jpg' | prepend: p.url | prepend: site.baseurl }}" alt="{{ p.title }}">
+                    <h4>{{ p.title }}</h4>
+                    <p class="text-muted">{{ p.publication }}</p>
+
+                    <p class="text-muted">
+                        <ul class="authors">
+                            {% for author in p.authors %}
+                            {% if author.name %}
+                            <li>{{ author.name | split: ',' | first }}</a></li>
+                            {% endif %}
+                            {% endfor %}
+                        </ul>
+                    </p>
+
+                    <div>
+                        {%if p.abstract %}
+                        <button
+                            class="btn btn-default"
+                            type="button"
+                            data-toggle="collapse"
+                            data-target="#abstract{{ forloop.index }}"
+                            aria-expanded="false"
+                            aria-controls="abstract{{ forloop.index }}">Abstract</button>
+                        {% endif %}
+                        {% if p.layout == "publication" %}<a href="{{ p.url }}" class="btn btn-default">Project</a>{% endif %}
+                        {% if p.project %}<a href="{{ p.project }}" class="btn btn-default">Project</a>{% endif %}
+                        {% if p.paper %}<a href="{{ p.paper }}" class="btn btn-default">Paper</a>{% endif %}
+                        {% if p.bibtex %}
+                        <button
+                            class="btn btn-default"
+                            type="button"
+                            data-toggle="collapse"
+                            data-target="#bibtex{{ forloop.index }}"
+                            aria-expanded="false"
+                            aria-controls="bibtex{{ forloop.index }}">BibTeX</button>
+                        {% endif %}
+                    </div>
+                    {%if p.abstract %}
+                    <div class="collapse" id="abstract{{ forloop.index }}"><div class="text-left">{{ p.abstract }}</div></div>
+                    {% endif %}
+                    {%if p.bibtex %}
+                    <div class="collapse" id="bibtex{{ forloop.index }}"><div class="text-left"><pre>{{ p.bibtex }}</pre></div></div>
+                    {% endif %}
+                </div>
+            </div>
+            {% assign indexmod2 = forloop.index | modulo: 2 %}
+            {% assign indexmod3 = forloop.index | modulo: 3 %}
+            {% assign indexmod4 = forloop.index | modulo: 4 %}
+            {% if indexmod2 == 0 %}<div class="clearfix visible-xs visible-sm"></div>{% endif %}
+            {% if indexmod3 == 0 %}<div class="clearfix visible-md"></div>{% endif %}
+            {% if indexmod4 == 0 %}<div class="clearfix visible-lg"></div>{% endif %}
+        {% endfor %}
+        </div>
+    </div>
+</section>

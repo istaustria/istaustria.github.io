@@ -1,0 +1,22 @@
+---
+image: DBSTaT.png
+title: "Double Bubbles Sans Toil and Trouble: Discrete Circulation-Preserving Vortex Sheets for Soap Films and Foams"
+
+authors:
+  - name: Da, Fang
+  - name: Batty, Christopher
+  - name: Wojtan, Chris
+    affiliations: [1]
+    id: chriswojtan
+    url: http://pub.ist.ac.at/group_wojtan/
+  - name: Grinspun, Eitan
+
+affiliations:
+  - name: IST Austria
+    url: http://ist.ac.at
+
+publication: ACM Transactions on Graphics 35(4) (SIGGRAPH 2015)
+date: 2015-08
+project: http://www.cs.columbia.edu/cg/doublebubbles/
+paper: http://pub.ist.ac.at/group_wojtan/projects/2015_Da_DoubleBubbles/doublebubbles.pdf
+---

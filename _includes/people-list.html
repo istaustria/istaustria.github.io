@@ -1,0 +1,33 @@
+<div class="row">
+{% assign people = site.people | sort: 'name' %}
+{% for p in people %}
+{% assign fullname = p.name | split: ',' | reverse | join: ' ' %}
+{% if p.type == include.type %}
+    <!-- <div class="person col-sm-6 col-md-4 col-lg-3"> -->
+    <div class="person col-sm-6 col-md-4">
+        <div class="row">
+            <div class="col-sm-5">
+                <img class="img-circle img-responsive" src="{{ '/people/' | prepend: site.baseurl | append: p.id | append: '.jpg' }}" alt="Stock Image">
+            </div>
+            <div class="col-sm-7">
+                <h4>{{ fullname }}</h4>
+                <dl>
+                    {%if p.room %}<dt>Room</dt><dd>{{ p.room}}</dd>{% endif %}
+                    {%if p.phone %}<dt>Phone</dt><dd>{{ p.phone }}</dd>{% endif %}
+                    {%if p.email %}<dt>E-mail</dt><dd><a href="mailto:{{p.email}}">{{ p.email }}</a></dd>{% endif %}
+                    {%if p.url %}<dt>Webpage</dt><dd><a href="{{ p.url }}">{{ p.url }}</a></dd>{% endif %}
+                    {%if p.topics %}<dt>Research</dt><dd>{{ p.topics }}</dd>{% endif %}
+                </dl>
+            </div>
+        </div>
+    </div>
+
+    {% assign indexmod2 = forloop.index | modulo: 2 %}
+    {% assign indexmod3 = forloop.index | modulo: 3 %}
+    {% assign indexmod4 = forloop.index | modulo: 4 %}
+    {% if indexmod2 == 0 %}<div class="clearfix visible-xs visible-sm"></div>{% endif %}
+    {% if indexmod3 == 0 %}<div class="clearfix visible-md visible-lg"></div>{% endif %}
+    <!-- {% if indexmod4 == 0 %}<div class="clearfix visible-lg"></div>{% endif %} -->
+{% endif %}
+{% endfor %}
+</div>

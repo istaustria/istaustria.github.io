@@ -1,0 +1,25 @@
+markdown: kramdown
+permalink: pretty
+
+collections:
+  people:
+    output: false
+    permalink: /:collection/:path/
+  publications:
+    output: true
+    permalink: /:collection/:path/
+
+social:
+  - title: twitter
+    url: https://twitter.com/istaustria
+  - title: facebook
+    url: https://www.facebook.com/ISTAustria
+  - title: github
+    url: http://github.com/istaustria
+  - title: youtube
+    url: https://www.youtube.com/user/ISTAustria
+
+title: Visual Computing @ IST Austria
+url: https://istaustria.github.io
+email: mortenbh@ist.ac.at
+description: "Visual Computing @ IST Austria"
