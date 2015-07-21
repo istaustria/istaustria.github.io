@@ -1,3 +1,4 @@
+---
 id: berndbickel
 name: Bickel, Bernd
 room: Central Building, 3rd floor, 54
@@ -6,3 +7,4 @@ email: bernd.bickel@ist.ac.at
 topics: Computational Fabrication
 webpage: http://berndbickel.com/
 type: faculty
+---

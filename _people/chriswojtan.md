@@ -1,3 +1,4 @@
+---
 id: chriswojtan
 name: Wojtan, Chris
 room: Central Building, 3rd floor
@@ -6,3 +7,4 @@ email: wojtan@ist.ac.at
 topics: Physics Simulation, Geometry Processing
 webpage: http://pub.ist.ac.at/group_wojtan/
 type: faculty
+---
