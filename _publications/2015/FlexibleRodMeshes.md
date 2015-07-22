@@ -1,24 +1,31 @@
 ---
 layout: publication
-title: Flexible Rod Meshes
+title: Design and Fabrication of Flexible Rod Meshes
 
-authors: 
-  - name: Martin, Tobias
-    url: https://graphics.ethz.ch/~martint/
+authors:  
+  - name: Perez, Jesus
     affiliations: [1]
-  - name: Umetani, Nobuyuki
-    url: http://www.nobuyuki-umetani.com/
+  - name: Thomaszewski, Bernhard
     affiliations: [2]
-  - name: Bickel, Bernd
-    url: http://berndbickel.com/
+  - name: Coros, Stelian
     affiliations: [3]
+  - name: Bickel, Bernd
+    affiliations: [4]
+  - name: Canabal, Jose A.
+    affiliations: [1]
+  - name: Sumner, Robert
+    affiliations: [2]
+  - name: Otaduy, Miguel
+    affiliations: [1]
 
 
 affiliations:
-  - name: ETH Zurich
-    url: http://www.ethz.ch/
+  - name: URJC Madrid
+    url: https://www.urjc.es/
   - name: Disney Research Zurich
     url: http://www.disneyresearch.com/research-labs/disney-research-zurich/
+  - name: Carnegie Mellon University
+    url: http://www.cmu.edu/
   - name: IST Austria
     url: http://ist.ac.at
 
@@ -27,12 +34,11 @@ publication: ACM Transactions on Graphics 35(4) (SIGGRAPH 2015)
 date: 2015-08
 
 abstract: |
-  This paper introduces OmniAD, a novel data-driven pipeline to model and acquire the aerodynamics of three-dimensional rigid objects. 
-  Traditionally, aerodynamics are examined through elaborate wind tunnel experiments or expensive fluid dynamics computations, and are only measured for a small number of discrete wind directions. OmniAD allows the evaluation of aerodynamic forces, such as drag and lift, for any incoming wind direction using a novel representation based on spherical harmonics. Our data-driven technique acquires the aerodynamic properties of an object simply by capturing its falling motion using a single camera. Once model parameters are estimated, OmniAD enables realistic real-time simulation of rigid bodies, such as the tumbling and gliding of leaves, without simulating the surrounding air. In addition, we propose an intuitive user interface based on OmniAD to interactively design three-dimensional kites that actually fly. Various non-traditional kites were designed to demonstrate the physical validity of our model.
+  We present a computational tool for fabrication-oriented design of flexible rod meshes. Given a deformable surface and a set of deformed poses as input, our method automatically computes a printable rod mesh that, once manufactured, closely matches the input poses under the same boundary conditions. The core of our method is formed by an optimization scheme that adjusts the cross-sectional profiles of the rods and their rest centerline in order to best approximate the target deformations. This approach allows us to locally control the bending and stretching resistance of the surface with a single material, yielding high design flexibility and low fabrication cost.
 
 teaser:
   image:
-    - url: OmniAD.jpg
+    - url: teaser.jpg
       alt: OmniAD Data-driven Omni-directional Aerodynamics
 ---
 
