@@ -10,7 +10,7 @@ authors:
     url: http://www.nobuyuki-umetani.com/
     affiliations: [2]
   - name: Bickel, Bernd
-    url: http://berndbickel.com
+    url: http://berndbickel.com/
     affiliations: [3]
 
 
