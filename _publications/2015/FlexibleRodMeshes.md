@@ -1,68 +1,39 @@
 ---
 layout: publication
-title: Design and Fabrication of Flexible Rod Meshes
+title: Flexible Rod Meshes
 
-authors:
-  - name: Klehm, Oliver
-    url: https://people.mpi-inf.mpg.de/~oklehm/
-    affiliations: [1,2]
-  - name: Rousselle, Fabrice
+authors: 
+  - name: Martin, Tobias
+    url: https://graphics.ethz.ch/~martint/
     affiliations: [1]
-  - name: Papas, Marios
-    affiliations: [1]
-  - name: Bradley, Derek
-    affiliations: [1]
-  - name: Hery, Christophe
-    affiliations: [3]
+  - name: Umetani, Nobuyuki
+    url: http://www.nobuyuki-umetani.com/
+    affiliations: [2]
   - name: Bickel, Bernd
-    affiliations: [1,4]
-    url: http://berndbickel.com
-    id: berndbickel
-  - name: Jarosz, Wojciech
-    affiliations: [1]
-  - name: Beeler, Thabo
-    affiliations: [1]
+    url: http://berndbickel.com/
+    affiliations: [3]
+
 
 affiliations:
+  - name: ETH Zurich
+    url: http://www.ethz.ch/
   - name: Disney Research Zurich
     url: http://www.disneyresearch.com/research-labs/disney-research-zurich/
-  - name: MPI Informatik
-    url: http://www.mpi-inf.mpg.de/
-  - name: Pixar Animation Studios
-    url: http://www.pixar.com
   - name: IST Austria
     url: http://ist.ac.at
 
-publication: Computer Graphics Forum 34(2) (Eurographics 2015)
-date: 2015-05
-paper: http://www.disneyresearch.com/wp-content/uploads/Recent-Advances-in-Facial-Appearance-Capture-Paper.pdf
+
+publication: ACM Transactions on Graphics 35(4) (SIGGRAPH 2015)
+date: 2015-08
 
 abstract: |
-  Facial appearance capture is now firmly established within academic research
-  and used extensively across various application domains, perhaps most
-  prominently in the entertainment industry through the design of virtual
-  characters in video games and films. While significant progress has occurred
-  over the last two decades, no single survey currently exists that discusses the
-  similarities, differences, and practical considerations of the available
-  appearance capture techniques as applied to human faces. A central difficulty
-  of facial appearance capture is the way light interacts with skin—which has a
-  complex multi-layered structure—and the interactions that occur below the skin
-  surface can, by definition, only be observed indirectly. In this report, we
-  distinguish between two broad strategies for dealing with this complexity.
-  “Image-based methods” try to exhaustively capture the exact face appearance
-  under different lighting and viewing conditions, and then render the face
-  through weighted image combinations. “Parametric methods” instead fit the
-  captured reflectance data to some parametric appearance model used during
-  rendering, allowing for a more lightweight and flexible representation but at
-  the cost of potentially increased rendering complexity or inexact reproduction.
-  The goal of this report is to provide an overview that can guide practitioners
-  and researchers in assessing the tradeoffs between current approaches and
-  identifying directions for future advances in facial appearance capture.
+  This paper introduces OmniAD, a novel data-driven pipeline to model and acquire the aerodynamics of three-dimensional rigid objects. 
+  Traditionally, aerodynamics are examined through elaborate wind tunnel experiments or expensive fluid dynamics computations, and are only measured for a small number of discrete wind directions. OmniAD allows the evaluation of aerodynamic forces, such as drag and lift, for any incoming wind direction using a novel representation based on spherical harmonics. Our data-driven technique acquires the aerodynamic properties of an object simply by capturing its falling motion using a single camera. Once model parameters are estimated, OmniAD enables realistic real-time simulation of rigid bodies, such as the tumbling and gliding of leaves, without simulating the surrounding air. In addition, we propose an intuitive user interface based on OmniAD to interactively design three-dimensional kites that actually fly. Various non-traditional kites were designed to demonstrate the physical validity of our model.
 
 teaser:
   image:
-    - url: teaser.png
-      alt: Recent Advances in Facial Appearance Capture
+    - url: OmniAD.jpg
+      alt: OmniAD Data-driven Omni-directional Aerodynamics
 ---
 
 # {{ page.title }}
@@ -77,4 +48,4 @@ teaser:
 
 ## Links
 
-![Paper](paper.jpg) Paper [PDF, 12.9MB]
+![Paper](paper.jpg) Paper [PDF, coming soon]
