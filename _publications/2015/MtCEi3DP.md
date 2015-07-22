@@ -36,7 +36,7 @@ abstract: |
   We propose a method for fabricating deformable objects with spatially varying elasticity using 3D printing.
   Using a single, relatively stiff printer material, our method designs an assembly of small-scale 
   microstructures that have the effect of a softer material at the object scale, with properties depending
-  on the microstructure used in each part of the object.  We build on work in the area of metamaterials,  
+  on the microstructure used in each part of the object. We build on work in the area of metamaterials,
   using numerical optimization to design tiled microstructures with desired properties, but with the key
   difference that our method designs families of related structures that can be interpolated to smoothly
   vary the material properties over a wide range. To create an object with spatially varying elastic
