@@ -12,7 +12,7 @@ authors:
   - name: Bradley, Derek
     affiliations: [2]
   - name: Bickel, Bernd
-    affiliations: [3]
+    affiliations: [2,3]
   - name: Gross, Markus
     affiliations: [1,2]
 
