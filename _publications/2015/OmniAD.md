@@ -32,7 +32,7 @@ abstract: |
 
 teaser:
   image:
-    - url: OmniAD.jpg
+    - url: OmniAD.JPG
       alt: OmniAD Data-driven Omni-directional Aerodynamics
 ---
 
