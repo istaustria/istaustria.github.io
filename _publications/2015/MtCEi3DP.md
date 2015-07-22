@@ -47,7 +47,7 @@ abstract: |
 
 teaser:
   image:
-    - url: MtCEi3DP.png
+    - url: MtCEi3DP.jpg
       alt: Microstructures to Control Elasticity in 3D Printing
 ---
 
@@ -63,4 +63,4 @@ teaser:
 
 ## Links
 
-![Paper](paper.jpg) Paper [PDF, 12.9MB]
+![Paper](paper.jpg) Paper [PDF, coming soon]
