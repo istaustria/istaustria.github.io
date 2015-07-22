@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: OmniAD: Data-driven Omni-directional Aerodynamics
+title: OmniAD Data-driven Omni-directional Aerodynamics
 
 authors: 
   - name: Martin, Tobias
@@ -33,7 +33,7 @@ Traditionally, aerodynamics are examined through elaborate wind tunnel experimen
 teaser:
   image:
     - url: OmniAD.jpg
-      alt: OmniAD: Data-driven Omni-directional Aerodynamics
+      alt: OmniAD Data-driven Omni-directional Aerodynamics
 ---
 
 # {{ page.title }}
