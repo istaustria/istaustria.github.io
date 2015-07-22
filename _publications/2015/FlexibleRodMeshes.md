@@ -1,4 +1,4 @@
-Ôªø---
+---
 layout: publication
 title: Design and Fabrication of Flexible Rod Meshes
 
@@ -45,13 +45,13 @@ abstract: |
   over the last two decades, no single survey currently exists that discusses the
   similarities, differences, and practical considerations of the available
   appearance capture techniques as applied to human faces. A central difficulty
-  of facial appearance capture is the way light interacts with skin‚Äîwhich has a
-  complex multi-layered structure‚Äîand the interactions that occur below the skin
+  of facial appearance capture is the way light interacts with skinówhich has a
+  complex multi-layered structureóand the interactions that occur below the skin
   surface can, by definition, only be observed indirectly. In this report, we
   distinguish between two broad strategies for dealing with this complexity.
-  ‚ÄúImage-based methods‚Äù try to exhaustively capture the exact face appearance
+  ìImage-based methodsî try to exhaustively capture the exact face appearance
   under different lighting and viewing conditions, and then render the face
-  through weighted image combinations. ‚ÄúParametric methods‚Äù instead fit the
+  through weighted image combinations. ìParametric methodsî instead fit the
   captured reflectance data to some parametric appearance model used during
   rendering, allowing for a more lightweight and flexible representation but at
   the cost of potentially increased rendering complexity or inexact reproduction.
