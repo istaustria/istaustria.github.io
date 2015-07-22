@@ -1,6 +1,7 @@
 ---
-image: MtCEi3DP.png
+layout: publication
 title: Microstructures to Control Elasticity in 3D Printing
+
 authors: 
   - name: Schumacher, Christian
     url: 
@@ -39,3 +40,17 @@ teaser:
     - url: MtCEi3DP.png
       alt: Microstructures to Control Elasticity in 3D Printing
 ---
+
+# {{ page.title }}
+
+{% include figure.html images=page.teaser.image %}
+
+{% include authors.html authors=page.authors affiliations=page.affiliations %}
+
+## Abstract
+
+{{ page.abstract }}
+
+## Links
+
+![Paper](paper.jpg) Paper [PDF, 12.9MB]
