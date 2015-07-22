@@ -4,7 +4,7 @@ title: Microstructures to Control Elasticity in 3D Printing
 
 authors: 
   - name: Schumacher, Christian
-    url: 
+    url: https://graphics.ethz.ch/~chschuma/
     affiliations: [1,2]
   - name: Bickel, Bernd
     url: http://berndbickel.com
@@ -33,7 +33,17 @@ publication: ACM Transactions on Graphics 35(4) (SIGGRAPH 2015)
 date: 2015-08
 
 abstract: |
-  We propose a method for fabricating deformable objects with spatially varying elasticity using 3D   printing.   Using a single, relatively stiff printer material, our method designs an assembly of small-scale   microstructures that have the effect of a softer material at the object scale, with properties depending    on the microstructure used in each part of the object.  We build on work in the area of metamaterials,     using numerical optimization to design tiled microstructures with desired properties, but with the key     difference that our method designs families of related structures that can be interpolated to smoothly     vary the material properties over a wide range.  To create an object with spatially varying elastic     properties, we tile the object's interior with microstructures drawn from these families, generating a   different microstructure for each cell using an efficient algorithm to select compatible structures for   neighboring cells.  We show results computed for both 2D and 3D objects, validating several 2D and 3D   printed structures using standard material tests as well as demonstrating various example applications.
+  We propose a method for fabricating deformable objects with spatially varying elasticity using 3D printing.
+  Using a single, relatively stiff printer material, our method designs an assembly of small-scale 
+  microstructures that have the effect of a softer material at the object scale, with properties depending
+  on the microstructure used in each part of the object.  We build on work in the area of metamaterials,  
+  using numerical optimization to design tiled microstructures with desired properties, but with the key
+  difference that our method designs families of related structures that can be interpolated to smoothly
+  vary the material properties over a wide range. To create an object with spatially varying elastic
+  properties, we tile the object's interior with microstructures drawn from these families, generating a
+  different microstructure for each cell using an efficient algorithm to select compatible structures for
+  neighboring cells. We show results computed for both 2D and 3D objects, validating several 2D and 3D
+  printed structures using standard material tests as well as demonstrating various example applications.
 
 teaser:
   image:
