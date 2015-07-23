@@ -1,5 +1,4 @@
 ---
-layout: publication
 image: WWAvWPI.jpg
 title: Water Wave Animation via Wavefront Parameter Interpolation
 
