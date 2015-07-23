@@ -1,4 +1,5 @@
 ---
+layout: publication
 image: WWAvWPI.jpg
 title: Water Wave Animation via Wavefront Parameter Interpolation
 
@@ -20,7 +21,7 @@ date: 2015-05
 project: http://pub.ist.ac.at/group_wojtan/projects/2015_Jeschke_WWAvWPI
 paper: http://pub.ist.ac.at/group_wojtan/projects/wavefront_preprint.pdf
 
---- 
+
 abstract: |
   We present an efficient wavefront tracking algorithm for animating 
   bodies of water that interact with their environment. Our contributions 
@@ -45,3 +46,5 @@ bibtex: |
   number = {3},
   pages = {1--14}
   }
+
+--- 
