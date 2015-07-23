@@ -38,7 +38,7 @@ bibtex: |
   title =      "Learning Shape Placements by Example",
   author =     "Paul Guerrero and Stefan Jeschke and Michael Wimmer and Peter Wonka",
   year =       "2015",
-  pages =      "%1--14",
+  pages =      "1--13",
   month =      aug,
   event =      "ACM SIGGRAPH 2015",
   journal =    "ACM Transactions on Graphics",
