@@ -34,7 +34,9 @@ section h1 {
     background: transparent;
 }
 
-.jumbotron h1, .jumbotron h2, .jumbotron h3, .jumbotron h4, .jumbotron h5, .jumbotron h6 {
+.jumbotron span {
+    padding: 0 30px;
+    margin: 0 -30px;
     background-color: rgba(54, 54, 54, .5);
 }
 
