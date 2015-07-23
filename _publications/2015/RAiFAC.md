@@ -77,4 +77,4 @@ teaser:
 
 ## Links
 
-![Paper](paper.jpg) Paper [PDF, 12.9MB]
+![Paper](paper.jpg) Paper [PDF, 12.9MB](page.paper)
