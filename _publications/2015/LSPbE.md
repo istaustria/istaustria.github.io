@@ -32,4 +32,17 @@ abstract: |
   modeling session to large scenes without additional user interaction. These
   concepts allow us to generate complex scenes with thousands of objects with
   relatively little user interaction.
+  
+bibtex: |
+  @article{guerrero-2015-lsp,
+  title =      "Learning Shape Placements by Example",
+  author =     "Paul Guerrero and Stefan Jeschke and Michael Wimmer and Peter Wonka",
+  year =       "2015",
+  pages =      "%1--14",
+  month =      aug,
+  event =      "ACM SIGGRAPH 2015",
+  journal =    "ACM Transactions on Graphics",
+  location =   "Los Angeles, CA",
+  keywords =   "complex model generation, modeling by example",
+}
 ---
