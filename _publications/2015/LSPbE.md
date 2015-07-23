@@ -44,5 +44,5 @@ bibtex: |
   journal =    "ACM Transactions on Graphics",
   location =   "Los Angeles, CA",
   keywords =   "complex model generation, modeling by example",
-}
+  }
 ---
