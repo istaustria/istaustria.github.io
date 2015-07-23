@@ -72,30 +72,30 @@ teaser:
     alt: Teaser #4
 ---
 
-# {{ page.title }}
+## {{ page.title }}
 
 {% include figure.html caption=page.teaser.caption images=page.teaser.images columns=4 %}
 
 {% include authors.html authors=page.authors affiliations=page.affiliations %}
 
-## Supplementary video
+### Supplementary video
 
 {% include youtube.html id='JaBBQDx2BBk' %}
 
-## Fast-forward
+### Fast-forward
 
 {% include youtube.html id='OQOK3pJ_JAA' %}
 
-## Links
+### Links
 
 * [Paper]({{ page.paper }}) (5 MB)
 * [Supplementary video]({{ page.video }}) (212 MB)
 
-## Citation
+### Citation
 
 {% include citation.html citation=page.bibtex %}
 
-## Acknowledgements
+### Acknowledgements
 
 We would like to thank [Xiaochen
 Hu](http://www.linkedin.com/pub/xiaochen-hu/22/678/7a) for implementing mesh

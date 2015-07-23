@@ -36,16 +36,16 @@ teaser:
       alt: OmniAD Data-driven Omni-directional Aerodynamics
 ---
 
-# {{ page.title }}
+## {{ page.title }}
 
 {% include figure.html images=page.teaser.image %}
 
 {% include authors.html authors=page.authors affiliations=page.affiliations %}
 
-## Abstract
+### Abstract
 
 {{ page.abstract }}
 
-## Links
+### Links
 
 ![Paper](paper.jpg) Paper [PDF, coming soon]

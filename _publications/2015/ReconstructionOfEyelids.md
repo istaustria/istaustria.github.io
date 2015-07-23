@@ -38,16 +38,16 @@ teaser:
       alt: Detailed Spatio-Temporal Reconstruction of Eyelids
 ---
 
-# {{ page.title }}
+## {{ page.title }}
 
 {% include figure.html images=page.teaser.image %}
 
 {% include authors.html authors=page.authors affiliations=page.affiliations %}
 
-## Abstract
+### Abstract
 
 {{ page.abstract }}
 
-## Links
+### Links
 
 ![Paper](paper.jpg) Paper [PDF, coming soon]

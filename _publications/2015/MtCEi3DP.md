@@ -51,16 +51,16 @@ teaser:
       alt: Microstructures to Control Elasticity in 3D Printing
 ---
 
-# {{ page.title }}
+## {{ page.title }}
 
 {% include figure.html images=page.teaser.image %}
 
 {% include authors.html authors=page.authors affiliations=page.affiliations %}
 
-## Abstract
+### Abstract
 
 {{ page.abstract }}
 
-## Links
+### Links
 
 ![Paper](paper.jpg) Paper [PDF, coming soon]

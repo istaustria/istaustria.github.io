@@ -68,34 +68,34 @@ teaser:
     alt: With our method (zoom)
 ---
 
-# {{ page.title }}
+## {{ page.title }}
 
 {% include figure.html caption=page.teaser.caption images=page.teaser.images columns=2 %}
 
 {% include authors.html authors=page.authors affiliations=page.affiliations %}
 
-## Abstract
+### Abstract
 
 {{ page.abstract }}
 
-## Supplementary video
+### Supplementary video
 
 {% include youtube.html id='a0U36AM1M08' %}
 
-## Fast-forward
+### Fast-forward
 
 {% include youtube.html id='UN0IVcwiNSM' %}
 
-## Links
+### Links
 
 * [Paper]({{ page.paper }}) (6 MB)
 * [Supplementary video]({{ page.video }}) (134 MB)
 
-## Citation
+### Citation
 
 {% include citation.html citation=page.bibtex %}
 
-## Acknowledgements
+### Acknowledgements
 
 The authors would like to thank [Keenan Crane](http://keenan.is/here) for
 helpful discussions about energy gradients, as well as the anonymous reviewers
