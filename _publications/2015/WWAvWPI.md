@@ -48,17 +48,3 @@ bibtex: |
   }
 
 --- 
-
-# {{ page.title }}
-
-{% include figure.html images=page.teaser.image %}
-
-{% include authors.html authors=page.authors affiliations=page.affiliations %}
-
-## Abstract
-
-{{ page.abstract }}
-
-## Links
-
-![Paper](paper.jpg) Paper [PDF, coming soon]
