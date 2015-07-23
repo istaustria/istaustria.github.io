@@ -46,29 +46,38 @@ section h2 {
  */
 
 #people h3 {
-    margin-bottom: 1.5em;
+    margin-top: 2em;
+    margin-bottom: 2em;
 }
 
-#people dt {
-	float: left;
-        padding-right: 0.0em;
+#people div.person {
+    margin-bottom: 1em;
 }
 
-#people dt:after {
-    content: ':\00a0'; /* &nbsp; */
+#people ul.bio li {
+    margin-bottom: 0.2em;
+}
+
+#people ul.bio .glyphicon {
+    margin-right: 0.5em;
+}
+
+#people ul.bio .btn-link {
+    padding: 0;
+}
+
+#people div.topics {
+    border-top: 1px solid #aaa;
+    margin-top: 0.75em;
+    padding-top: 0.75em;
 }
 
 /*
  * publications
  */
 
-#publications ul.authors {
-    margin: 0;
-    padding: 0;
-}
-
 #publications ul.authors li {
-    display: inline;
+    padding: 0;
 }
 
 #publications ul.authors li:after {
@@ -77,4 +86,8 @@ section h2 {
 
 #publications ul.authors li:last-child:after {
     content: '';
+}
+
+#publications ul.buttons li {
+    padding: 0;
 }

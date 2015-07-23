@@ -1,33 +1,82 @@
 <div class="row">
 {% assign people = site.people | sort: 'name' %}
+{% assign i = 1 %}
 {% for p in people %}
-{% assign fullname = p.name | split: ',' | reverse | join: ' ' %}
 {% if p.type == include.type %}
-    <!-- <div class="person col-sm-6 col-md-4 col-lg-3"> -->
-    <div class="person col-sm-6 col-md-4">
+{% assign fullname = p.name | split: ',' | reverse | join: ' ' %}
+    <div class="person col-sm-6 col-lg-4">
         <div class="row">
-            <div class="col-sm-5">
-                <img class="img-circle img-responsive" src="{{ '/people/' | prepend: site.baseurl | append: p.id | append: '.jpg' }}" alt="Stock Image">
+            <div class="col-xs-4">
+                <img class="img-circle img-responsive"
+                style="max-width: 120px"
+                src="{{ '/people/' | prepend: site.baseurl | append: p.id | append: '.jpg' }}"
+                alt="{{ fullname }}">
             </div>
-            <div class="col-sm-7">
+            <div class="col-xs-8">
                 <h4>{{ fullname }}</h4>
-                <dl>
-                    {%if p.room %}<dt>Room</dt><dd>{{ p.room}}</dd>{% endif %}
-                    {%if p.phone %}<dt>Phone</dt><dd>{{ p.phone }}</dd>{% endif %}
-                    {%if p.email %}<dt>E-mail</dt><dd><a href="mailto:{{p.email}}">{{ p.email }}</a></dd>{% endif %}
-                    {%if p.webpage %}<dt>Webpage</dt><dd><a href="{{ p.webpage }}">{{ p.webpage }}</a></dd>{% endif %}
-                    {%if p.topics %}<dt>Research</dt><dd>{{ p.topics }}</dd>{% endif %}
-                </dl>
+                <ul class="bio list-unstyled">
+                {% if p.room %}
+                    <li>
+                        <span class="glyphicon glyphicon-map-marker" aria-hidden="true"></span>
+                        {{ p.room }}
+                    </li>
+                {% endif %}
+                {% if p.email %}
+                    <li>
+                        <span class="glyphicon glyphicon-envelope" aria-hidden="true"></span>
+                        <a href="mailto:{{ p.email }}">{{ p.email | truncate: 25, '..' }}</a>
+                    </li>
+                {% endif %}
+                {% if p.phone %}
+                    <li>
+                        <span class="glyphicon glyphicon-earphone" aria-hidden="true"></span>
+                        {{ p.phone }}
+                    </li>
+                {% endif %}
+                {% if p.webpage %}
+                    <li>
+                        <span class="glyphicon glyphicon-home" aria-hidden="true"></span>
+                        <a href="{{ p.webpage }}">{{ p.webpage | split: '//' | last || truncate: 25, '...' }}</a>
+                    </li>
+                {% endif %}
+                {% if p.topics %}
+                    <li>
+                        <span class="glyphicon glyphicon-chevron-down" aria-hidden="true"></span>
+                        <button class="btn btn-link"
+                            data-toggle="collapse"
+                            data-target="#topics{{ forloop.index }}"
+                            aria-expanded="false"
+                            aria-controls="topics{{ forloop.index }}">
+                            Research topics
+                        </button>
+                    </li>
+                {% endif %}
+                </ul>
             </div>
         </div>
+
+        {% if p.topics %}
+        <div class="collapse" id="topics{{ forloop.index }}">
+            <div class="topics text-muted">
+            {{ p.topics }}
+            </div>
+        </div>
+        {% endif %}
     </div>
 
-    {% assign indexmod2 = forloop.index | modulo: 2 %}
-    {% assign indexmod3 = forloop.index | modulo: 3 %}
-    {% assign indexmod4 = forloop.index | modulo: 4 %}
-    {% if indexmod2 == 0 %}<div class="clearfix visible-xs visible-sm"></div>{% endif %}
-    {% if indexmod3 == 0 %}<div class="clearfix visible-md visible-lg"></div>{% endif %}
-    <!-- {% if indexmod4 == 0 %}<div class="clearfix visible-lg"></div>{% endif %} -->
+{% assign imod2 = i | modulo: 2 %}
+{% assign imod3 = i | modulo: 3 %}
+{% assign imod4 = i | modulo: 4 %}
+
+    <!-- annoyingly we have to include every class >= the one we want -->
+    <div class="clearfix visible-xs-block"></div>
+{% if imod2 == 0 %}
+    <div class="clearfix visible-sm-block visible-md-block"></div>
+{% endif %}
+{% if imod3 == 0 %}
+    <div class="clearfix visible-lg-block"></div>
+{% endif %}
+{% assign i = i | plus: 1 %}
 {% endif %}
 {% endfor %}
 </div>

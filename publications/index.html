@@ -14,20 +14,19 @@ layout: default
                 <div class="well">
                     <img class="img-responsive" src="{{ '/thumb.jpg' | prepend: p.url | prepend: site.baseurl }}" alt="{{ p.title }}">
                     <h4>{{ p.title }}</h4>
-                    <p class="text-muted">{{ p.publication }}</p>
+                    <p>{{ p.publication }}</p>
 
-                    <p class="text-muted">
-                        <ul class="authors">
-                            {% for author in p.authors %}
-                            {% if author.name %}
-                            <li>{{ author.name | split: ',' | first }}</a></li>
-                            {% endif %}
-                            {% endfor %}
-                        </ul>
-                    </p>
+                    <ul class="authors list-inline">
+                    {% for author in p.authors %}
+                    {% if author.name %}
+                        <li>{{ author.name | split: ',' | first }}</li>
+                    {% endif %}
+                    {% endfor %}
+                    </ul>
 
-                    <div>
-                        {%if p.abstract %}
+                    <ul class="buttons list-inline">
+                    {% if p.abstract %}
+                        <li>
                         <button
                             class="btn btn-default"
                             type="button"
@@ -35,11 +34,24 @@ layout: default
                             data-target="#abstract{{ forloop.index }}"
                             aria-expanded="false"
                             aria-controls="abstract{{ forloop.index }}">Abstract</button>
+                        </li>
+                    {% endif %}
+                    {% if p.layout == "publication" or p.project %}
+                        <li>
+                        {% if p.layout == "publication" %}
+                            <a href="{{ p.url }}" class="btn btn-default">Project</a>
+                        {% else %}
+                            <a href="{{ p.project }}" class="btn btn-default">Project</a>
                         {% endif %}
-                        {% if p.layout == "publication" %}<a href="{{ p.url }}" class="btn btn-default">Project</a>{% endif %}
-                        {% if p.project %}<a href="{{ p.project }}" class="btn btn-default">Project</a>{% endif %}
-                        {% if p.paper %}<a href="{{ p.paper }}" class="btn btn-default">Paper</a>{% endif %}
-                        {% if p.bibtex %}
+                        </li>
+                    {% endif %}
+                    {% if p.paper %}
+                        <li>
+                            <a href="{{ p.paper }}" class="btn btn-default">Paper</a>
+                        </li>
+                    {% endif %}
+                    {% if p.bibtex %}
+                        <li>
                         <button
                             class="btn btn-default"
                             type="button"
@@ -47,13 +59,19 @@ layout: default
                             data-target="#bibtex{{ forloop.index }}"
                             aria-expanded="false"
                             aria-controls="bibtex{{ forloop.index }}">BibTeX</button>
-                        {% endif %}
-                    </div>
-                    {%if p.abstract %}
-                    <div class="collapse" id="abstract{{ forloop.index }}"><div class="text-left">{{ p.abstract }}</div></div>
+                        </li>
                     {% endif %}
-                    {%if p.bibtex %}
-                    <div class="collapse" id="bibtex{{ forloop.index }}"><div class="text-left"><pre>{{ p.bibtex }}</pre></div></div>
+                    </ul>
+
+                    {% if p.abstract %}
+                    <div class="collapse" id="abstract{{ forloop.index }}">
+                        <p class="text-left">{{ p.abstract }}</p>
+                    </div>
+                    {% endif %}
+                    {% if p.bibtex %}
+                    <div class="collapse" id="bibtex{{ forloop.index }}">
+                            <pre class="text-left"><code>{{ p.bibtex }}</code></pre>
+                    </div>
                     {% endif %}
                 </div>
             </div>
