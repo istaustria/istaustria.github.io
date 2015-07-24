@@ -68,7 +68,7 @@ You probably also want a picture for the person. This picture should be in
 saved to `people/chriswojtan.jpg`. Please make sure to crop the picture to a
 reasonable size before uploading it.
 
-# Add a new publications
+## Add a new publication
 
 To add a new publication, create a new file with extension `.md` in
 `_publications/YEAR/` (note the underscore). The naming convention is to use
@@ -123,4 +123,13 @@ sure you crop the picture to a reasonable size before uploading it.
 
 Large files such as preprints or videos should *not* be uploaded to GitHub! We
 are still working on a more systematic approach to handling such large files,
-but for now, please store them at your IST website (http://ist.ac.at/~yourusername).
+but for now, please store them at your IST website (http://pub.ist.ac.at/~yourusername).
+
+## FAQ
+
+### The website is not updating when I make edits or push changes
+
+This most commonly happens if your e-mail address is not verified. Other
+reasons can be found in the [troubleshooting
+section](http://help.github.com/articles/troubleshooting-github-pages-build-failures/)
+on GitHub.
