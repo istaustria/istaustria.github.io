@@ -18,7 +18,7 @@ authors:
   - name: McAndless, Janet
     affiliations: [2]
   - name: Lee, Jinho
-	affiliations: [2]
+    affiliations: [2]
   - name: Ngan, Addy
     affiliations: [4]
   - name: Jensen, Henrik Wann
