@@ -49,6 +49,9 @@ teaser:
   image:
     - url: MtCEi3DP.jpg
       alt: Microstructures to Control Elasticity in 3D Printing
+	  
+paper: http://www.disneyresearch.com/wp-content/uploads/Microstructures-to-Control-Elasticity-in-3D-Printing-Paper.pdf
+
 ---
 
 ## {{ page.title }}
@@ -63,4 +66,4 @@ teaser:
 
 ### Links
 
-![Paper](paper.jpg) Paper [PDF, coming soon]
+![Paper](paper.jpg) Paper [PDF]({{page.paper}})
