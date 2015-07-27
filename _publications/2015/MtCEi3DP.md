@@ -28,7 +28,6 @@ affiliations:
   - name: Cornell University
     url: https://www.cornell.edu/
 
-
 publication: ACM Transactions on Graphics 35(4) (SIGGRAPH 2015)
 date: 2015-08
 
@@ -49,9 +48,7 @@ teaser:
   image:
     - url: MtCEi3DP.jpg
       alt: Microstructures to Control Elasticity in 3D Printing
-	  
 paper: http://www.disneyresearch.com/wp-content/uploads/Microstructures-to-Control-Elasticity-in-3D-Printing-Paper.pdf
-
 ---
 
 ## {{ page.title }}
