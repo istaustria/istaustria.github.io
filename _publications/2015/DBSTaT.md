@@ -15,7 +15,7 @@ affiliations:
   - name: IST Austria
     url: http://ist.ac.at
 
-publication: ACM Transactions on Graphics 35(4) (SIGGRAPH 2015)
+publication: ACM Trans. Graph. 34, 4 (SIGGRAPH 2015 Papers)
 date: 2015-08
 project: http://www.cs.columbia.edu/cg/doublebubbles/
 paper: http://pub.ist.ac.at/group_wojtan/projects/2015_Da_DoubleBubbles/doublebubbles.pdf

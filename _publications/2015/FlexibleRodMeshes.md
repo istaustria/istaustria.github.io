@@ -30,7 +30,7 @@ affiliations:
     url: http://ist.ac.at
 
 
-publication: ACM Transactions on Graphics 35(4) (SIGGRAPH 2015)
+publication: ACM Trans. Graph. 34, 4 (SIGGRAPH 2015 Papers)
 date: 2015-08
 
 abstract: |
