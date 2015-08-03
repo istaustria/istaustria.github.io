@@ -40,7 +40,7 @@ teaser:
   image:
     - url: teaser.jpg
       alt: OmniAD Data-driven Omni-directional Aerodynamics
-	  
+
 paper: http://www.disneyresearch.com/wp-content/uploads/Optimization-Based-Design-and-Fabrication-of-Flexible-Rod-Meshes-Paper.pdf
 ---
 
