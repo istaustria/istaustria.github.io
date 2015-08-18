@@ -1,5 +1,5 @@
 ---
-image: thumb.jpg
+image: http://pub.ist.ac.at/group_wojtan/projects/2014_Guerrero_EPuGRF/thumb.jpg
 title: Edit Propagation using Geometric Relationship Functions
 
 authors:
