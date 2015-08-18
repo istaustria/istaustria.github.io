@@ -1,4 +1,5 @@
 ---
+image: thumb.jpg
 title: Edit Propagation using Geometric Relationship Functions
 
 authors:
