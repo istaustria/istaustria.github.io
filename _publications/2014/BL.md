@@ -1,5 +1,5 @@
 ---
-title: Water Wave Animation via Wavefront Parameter Interpolation
+title: Blending Liquids
 
 authors:
   - name: Raveendran, Karthik
