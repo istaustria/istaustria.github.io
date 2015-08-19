@@ -133,3 +133,16 @@ This most commonly happens if your e-mail address is not verified. Other
 reasons can be found in the [troubleshooting
 section](http://help.github.com/articles/troubleshooting-github-pages-build-failures/)
 on GitHub.
+
+### How do I install [Jekyll](http://jekyllrb.com/) on Windows?
+
+Apparently, this can be an enormous pain. [Portable Jekyll](https://github.com/madhur/PortableJekyll) seems to be an easy solution though.
+
+### How do I install [Jekyll](http://jekyllrb.com/) on Mac OS X?
+
+	$ gem update --system
+	$ gem install jekyll
+
+### How do I install [Jekyll](http://jekyllrb.com/) on Debian/Linux?
+
+	$ aptitude install jekyll
