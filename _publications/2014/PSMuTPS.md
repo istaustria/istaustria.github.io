@@ -1,5 +1,5 @@
 ---
-image: http://pub.ist.ac.at/group_wojtan/projects/2014_Guerrero_PSMuTPS/thumb.jpg
+image: thumb.jpg
 title: Partial Shape Matching using Transformation Parameter Similarity
 
 authors:
