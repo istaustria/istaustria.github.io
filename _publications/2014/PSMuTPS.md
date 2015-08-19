@@ -1,4 +1,5 @@
 ---
+image: thumb.jpg
 title: Partial Shape Matching using Transformation Parameter Similarity
 
 authors:
