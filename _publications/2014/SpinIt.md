@@ -27,7 +27,7 @@ abstract: |
 teaser:
   image:
     - url: teaser.jpg
-      alt: Spin-It: Optimizing Moment of Inertia for Spinnable Objects
+      alt: Spin-It Optimizing Moment of Inertia for Spinnable Objects
 paper: http://www.disneyresearch.com/wp-content/uploads/Project_SpinIt_SIGGRAPH14_paper1.pdf
 ---
 
