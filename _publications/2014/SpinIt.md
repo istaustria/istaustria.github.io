@@ -12,7 +12,6 @@ authors:
   - name: Sorkine-Hornung, Olga
     affiliations: [2]
 
-
 affiliations:
   - name: Disney Research Zurich
     url: http://www.disneyresearch.com/research-labs/disney-research-zurich/
@@ -29,7 +28,7 @@ teaser:
   image:
     - url: teaser.jpg
       alt: Spin-It: Optimizing Moment of Inertia for Spinnable Objects
-paper: http://www.disneyresearch.com/wp-content/uploads/Detailed-Spatio-Temporal-Reconstruction-of-Eyelids-Paper.pdf
+paper: http://www.disneyresearch.com/wp-content/uploads/Project_SpinIt_SIGGRAPH14_paper1.pdf
 ---
 
 ## {{ page.title }}
