@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Spin-It: Optimizing Moment of Inertia for Spinnable Objects
+title: Spin-It Optimizing Moment of Inertia for Spinnable Objects
 
 authors:  
   - name: Baecher, Moritz
