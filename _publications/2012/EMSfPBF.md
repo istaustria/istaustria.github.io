@@ -1,5 +1,4 @@
 ---
-layout: publication
 title: Explicit Mesh Surfaces for Particle Based Fluids
 
 authors:
