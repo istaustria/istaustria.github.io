@@ -32,8 +32,8 @@ publication: Computer Graphics Forum 31 (Eurographics 2012)
 date: 2012-06
 doi: http://dx.doi.org/10.1111/j.1467-8659.2012.03062.x
 
-paper: http://pub.ist.ac.at/group_wojtan/projects/tracking_surfaces/topoReg_web.pdf
-video: http://pub.ist.ac.at/group_wojtan/projects/tracking_surfaces/topoReg_final_med.mp4
+paper: http://pub.ist.ac.at/group_wojtan/projects/meshSPH/meshSPH.pdf
+project: http://pub.ist.ac.at/group_wojtan/projects/meshSPH/index.html
 
 abstract: |
   We introduce the idea of using an explicit triangle mesh to track the air/fluid interface in a smoothed particle hydrodynamics (SPH) simulator. Once an initial surface mesh is created, this mesh is carried forward in time using nearby particle velocities to advect the mesh vertices. The mesh connectivity remains mostly unchanged across time-steps; it is only modified locally for topology change events or for the improvement of triangle quality. In order to ensure that the surface mesh does not diverge from the underlying particle simulation, we periodically project the mesh surface onto an implicit surface defined by the physics simulation. The mesh surface gives us several advantages over previous SPH surface tracking techniques. We demonstrate a new method for surface tension calculations that clearly outperforms the state of the art in SPH surface tension for computer graphics. We also demonstrate a method for tracking detailed surface information (like colors) that is less susceptible to numerical diffusion than competing techniques. Finally, our temporally-coherent surface mesh allows us to simulate high-resolution surface wave dynamics without being limited by the particle resolution of the SPH simulation.
@@ -58,3 +58,5 @@ bibtex: |
   address = {Chichester, UK},
   keywords = {I.3.5 [Computer Graphics]: Computational Geometry and Object Modeling\&\#x2014;Physically based modeling, I.3.7 [Computer Graphics]: Three-Dimensional Graphics and Realism\&\#x2014;Animation},
 } 
+
+---
