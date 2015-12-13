@@ -1,5 +1,5 @@
 ---
-title: Putting Holes in Holey Geometry: Topology Change for Arbitrary Surfaces
+title: "Putting Holes in Holey Geometry: Topology Change for Arbitrary Surfaces"
 
 authors:
   - name: Bernstein, Gilbert
