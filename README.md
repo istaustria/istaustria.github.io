@@ -45,7 +45,7 @@ follows.
 	# mandatory fields
 	id: chriswojtan # same as the filename but without the .md extension
 	name: Wojtan, Chris
-	type: faculty # one of [faculty, assistant, postdoc, phdstudent, intern]
+	type: faculty # one of [faculty, assistant, postdoc, phdstudent, intern, alumni]
 
 	# optional fields
 	room: Central Building, 3rd floor
