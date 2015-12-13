@@ -100,7 +100,7 @@ layout to `publication` as follows.
 
 	---
 	layout: publication
-	title: Water Wave Animation via Wavefront Parameter Interpolation
+	title: "Putting Holes in Holey Geometry: Topology Change for Arbitrary Surfaces"
 
 	...
 
