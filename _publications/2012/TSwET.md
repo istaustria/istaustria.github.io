@@ -3,7 +3,7 @@ layout: publication
 title: Tracking Surfaces with Evolving Topology
 
 authors:
-  - name: Bojsen Hansen, Morten
+  - name: Bojsen-Hansen, Morten
     url: http://alas.dk
     affiliations: [1]
     id: mortenbojsenhansen

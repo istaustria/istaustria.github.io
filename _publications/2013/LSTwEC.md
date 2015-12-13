@@ -3,7 +3,7 @@ layout: publication
 title: Liquid Surface Tracking with Error Compensation
 
 authors:
-  - name: Bojsen Hansen, Morten
+  - name: Bojsen-Hansen, Morten
     url: http://alas.dk
     affiliations: [1]
     id: mortenbojsenhansen
