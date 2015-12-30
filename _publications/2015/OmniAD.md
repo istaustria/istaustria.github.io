@@ -47,6 +47,10 @@ paper: http://www.disneyresearch.com/wp-content/uploads/OmniAD-Data-driven-Omni-
 
 {{ page.abstract }}
 
+### Supplementary video
+
+{% include youtube.html id='OUxsZCNs3Kg' %}
+
 ### Links
 
 ![Paper](paper.jpg) Paper [PDF]({{page.paper}})
