@@ -37,6 +37,8 @@ paper: http://www.disneyresearch.com/wp-content/uploads/Project_SpinIt_SIGGRAPH1
 
 {% include authors.html authors=page.authors affiliations=page.affiliations %}
 
+{% include publication.html publication=page.publication %}
+
 ### Abstract
 
 {{ page.abstract }}

@@ -1,0 +1,7 @@
+<h4>Publication</h4>
+
+{% if include.url %}
+<a href="{{ include.url }}">{{ include.publication }}</a>
+{% else %}
+{{ include.publication }}
+{% endif %}

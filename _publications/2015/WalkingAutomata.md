@@ -47,6 +47,8 @@ paper: http://people.seas.harvard.edu/~gaurav/papers/cdwa_sca_2015/cdwa_sca_2015
 
 {% include authors.html authors=page.authors affiliations=page.affiliations %}
 
+{% include publication.html publication=page.publication %}
+
 ### Abstract
 
 {{ page.abstract }}

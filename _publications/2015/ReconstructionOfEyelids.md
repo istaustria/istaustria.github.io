@@ -45,6 +45,8 @@ paper: http://www.disneyresearch.com/wp-content/uploads/Detailed-Spatio-Temporal
 
 {% include authors.html authors=page.authors affiliations=page.affiliations %}
 
+{% include publication.html publication=page.publication %}
+
 ### Abstract
 
 {{ page.abstract }}

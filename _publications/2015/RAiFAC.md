@@ -71,6 +71,8 @@ teaser:
 
 {% include authors.html authors=page.authors affiliations=page.affiliations %}
 
+{% include publication.html publication=page.publication %}
+
 ### Abstract
 
 {{ page.abstract }}

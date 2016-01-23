@@ -78,6 +78,8 @@ teaser:
 
 {% include authors.html authors=page.authors affiliations=page.affiliations %}
 
+{% include publication.html publication=page.publication url=page.doi %}
+
 ### Supplementary video
 
 {% include youtube.html id='JaBBQDx2BBk' %}
