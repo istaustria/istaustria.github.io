@@ -3,13 +3,13 @@ image: thumb.jpg
 title: Partial Shape Matching using Transformation Parameter Similarity
 
 authors:
-  - name: Guerrero Paul
+  - name: Paul, Guerrero
     affiliations: [1]
-  - name: Thomas Auzinger
+  - name: Auzinger, Thomas
     affiliations: [1]
-  - name: Michael Wimmer
+  - name: Wimmer, Michael
     affiliations: [1]
-  - name: Stefan Jeschke
+  - name: Jeschke, Stefan
     affiliations: [2]
     id: sjeschke
 

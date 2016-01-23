@@ -3,14 +3,14 @@ image: http://pub.ist.ac.at/group_wojtan/projects/2014_Guerrero_EPuGRF/thumb.jpg
 title: Edit Propagation using Geometric Relationship Functions
 
 authors:
-  - name: Guerrero Paul
+  - name: Paul, Guerrero
     affiliations: [1]
-  - name: Stefan Jeschke
+  - name: Jeschke, Stefan
     affiliations: [2]
     id: sjeschke
-  - name: Michael Wimmer
+  - name: Wimmer, Michael
     affiliations: [1]
-  - name: Peter Wonka
+  - name: Wonka, Peter
     affiliations: [3]
     
 
