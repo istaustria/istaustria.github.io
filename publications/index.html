@@ -8,9 +8,29 @@ layout: default
 
     <div class="container-fluid">
         <div class="row">
+        {% assign current_year = 0 %}
         {% assign publications = site.publications | sort: 'date' | reverse %}
+
+        <ul class="years list-inline">
         {% for p in publications %}
+            {% assign year = p.date | split: '-' | first %}
+            {% if year != current_year %}
+            <li><a href="#{{ year }}">{{ year }}</a></li>
+            {% endif %}
+            {% assign current_year = year %}
+        {% endfor %}
+        </ul>
+
+        {% assign index = 1 %}
+        {% assign current_year = 0 %}
+        {% for p in publications %}
+            {% assign year = p.date | split: '-' | first %}
             <div class="publication text-center col-sm-6 col-md-4 col-lg-3">
+                {% if year != current_year %}
+                    <div class="well">
+                        <h4><a name="{{ year }}">{{ year }}</a></h4>
+                    </div>
+                {% endif %}
                 <div class="well">
                     <img class="img-responsive" src="{{ '/thumb.jpg' | prepend: p.url | prepend: site.baseurl }}" alt="{{ p.title }}">
                     <h4>{{ p.title }}</h4>
@@ -31,9 +51,9 @@ layout: default
                             class="btn btn-default"
                             type="button"
                             data-toggle="collapse"
-                            data-target="#abstract{{ forloop.index }}"
+                            data-target="#abstract{{ index }}"
                             aria-expanded="false"
-                            aria-controls="abstract{{ forloop.index }}">Abstract</button>
+                            aria-controls="abstract{{ index }}">Abstract</button>
                         </li>
                     {% endif %}
                     {% if p.layout == "publication" or p.project %}
@@ -56,28 +76,30 @@ layout: default
                             class="btn btn-default"
                             type="button"
                             data-toggle="collapse"
-                            data-target="#bibtex{{ forloop.index }}"
+                            data-target="#bibtex{{ index }}"
                             aria-expanded="false"
-                            aria-controls="bibtex{{ forloop.index }}">BibTeX</button>
+                            aria-controls="bibtex{{ index }}">BibTeX</button>
                         </li>
                     {% endif %}
                     </ul>
 
                     {% if p.abstract %}
-                    <div class="collapse" id="abstract{{ forloop.index }}">
+                    <div class="collapse" id="abstract{{ index }}">
                         <p class="text-left">{{ p.abstract }}</p>
                     </div>
                     {% endif %}
                     {% if p.bibtex %}
-                    <div class="collapse" id="bibtex{{ forloop.index }}">
+                    <div class="collapse" id="bibtex{{ index }}">
                             <pre class="text-left"><code>{{ p.bibtex }}</code></pre>
                     </div>
                     {% endif %}
                 </div>
             </div>
-            {% assign indexmod2 = forloop.index | modulo: 2 %}
-            {% assign indexmod3 = forloop.index | modulo: 3 %}
-            {% assign indexmod4 = forloop.index | modulo: 4 %}
+            {% assign current_year = year %}
+            {% assign indexmod2 = index | modulo: 2 %}
+            {% assign indexmod3 = index | modulo: 3 %}
+            {% assign indexmod4 = index | modulo: 4 %}
+            {% assign index = index | plus: 1 %}
             {% if indexmod2 == 0 %}<div class="clearfix visible-xs visible-sm"></div>{% endif %}
             {% if indexmod3 == 0 %}<div class="clearfix visible-md"></div>{% endif %}
             {% if indexmod4 == 0 %}<div class="clearfix visible-lg"></div>{% endif %}

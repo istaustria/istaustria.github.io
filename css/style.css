@@ -91,3 +91,21 @@ section h2 {
 #publications ul.buttons li {
     padding: 0;
 }
+
+#publications ul.years {
+    text-align: center;
+    margin-bottom: 2em;
+    font-size: 1.5em;
+}
+
+#publications ul.years li {
+    padding: 0;
+}
+
+#publications ul.years li:after {
+    content: ' | ';
+}
+
+#publications ul.years li:last-child:after {
+    content: '';
+}
