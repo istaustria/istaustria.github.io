@@ -39,15 +39,15 @@
                         <a href="{{ p.webpage }}">{{ p.webpage | split: '//' | last || truncate: 25, '...' }}</a>
                     </li>
                 {% endif %}
-                {% if p.topics %}
+                {% if p.bio %}
                     <li>
                         <span class="glyphicon glyphicon-chevron-down" aria-hidden="true"></span>
                         <button class="btn btn-link"
                             data-toggle="collapse"
-                            data-target="#topics{{ forloop.index }}"
+                            data-target="#bio{{ forloop.index }}"
                             aria-expanded="false"
-                            aria-controls="topics{{ forloop.index }}">
-                            Research topics
+                            aria-controls="bio{{ forloop.index }}">
+                            Short bio
                         </button>
                     </li>
                 {% endif %}
@@ -55,10 +55,10 @@
             </div>
         </div>
 
-        {% if p.topics %}
-        <div class="collapse" id="topics{{ forloop.index }}">
-            <div class="topics text-muted">
-            {{ p.topics }}
+        {% if p.bio %}
+        <div class="collapse" id="bio{{ forloop.index }}">
+            <div class="bio text-muted">
+            {{ p.bio }}
             </div>
         </div>
         {% endif %}
