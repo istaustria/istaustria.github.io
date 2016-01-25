@@ -51,6 +51,10 @@ paper: http://www.disneyresearch.com/wp-content/uploads/Detailed-Spatio-Temporal
 
 {{ page.abstract }}
 
+### Supplementary video
+
+{% include youtube.html id='EazXsqWaIcI' %}
+
 ### Links
 
 ![Paper](paper.jpg) Paper [PDF]({{page.paper}})
