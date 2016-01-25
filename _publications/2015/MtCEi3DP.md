@@ -63,6 +63,10 @@ paper: http://www.disneyresearch.com/wp-content/uploads/Microstructures-to-Contr
 
 {{ page.abstract }}
 
+### Supplementary video
+
+{% include youtube.html id='T_ibOR2owQc' %}
+
 ### Links
 
 ![Paper](paper.jpg) Paper [PDF]({{page.paper}})
