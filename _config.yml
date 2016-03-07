@@ -1,5 +1,6 @@
 markdown: kramdown
 permalink: pretty
+future: true # do not hide future dates
 
 collections:
   people:
