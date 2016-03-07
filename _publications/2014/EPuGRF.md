@@ -23,7 +23,7 @@ affiliations:
     url: http://www.kaust.edu.sa/
 
 publication: ACM Transactions on Graphics, 33(2)
-date: 2014-03
+date: 2014-03-01
 
 abstract: |
   We propose a method for propagating edit operations in 2D vector graphics, based on geometric relationship functions. These functions quantify the geometric relationship of a point to a polygon, such as the distance to the boundary or the direction to the closest corner vertex. The level sets of the relationship functions describe points with the same relationship to a polygon. For a given query point we ?rst determine a set of relationships to local features, construct all level sets for these relationships and accumulate them. The maxima of the resulting distribution are points with similar geometric relationships. We show extensions to handle mirror symmetries, and discuss the use of relationship functions as local coordinate systems. Our method can be applied for example to interactive ?oor-plan editing, and is especially useful for large layouts, where individual edits would be cumbersome. We demonstrate populating 2D layouts with tens to hundreds of objects by propagating relatively few edit operations.

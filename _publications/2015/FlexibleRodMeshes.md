@@ -31,7 +31,7 @@ affiliations:
 
 
 publication: ACM Trans. Graph. 34, 4 (SIGGRAPH 2015 Papers)
-date: 2015-08
+date: 2015-08-01
 
 abstract: |
   We present a computational tool for fabrication-oriented design of flexible rod meshes. Given a deformable surface and a set of deformed poses as input, our method automatically computes a printable rod mesh that, once manufactured, closely matches the input poses under the same boundary conditions. The core of our method is formed by an optimization scheme that adjusts the cross-sectional profiles of the rods and their rest centerline in order to best approximate the target deformations. This approach allows us to locally control the bending and stretching resistance of the surface with a single material, yielding high design flexibility and low fabrication cost.

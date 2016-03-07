@@ -34,7 +34,7 @@ affiliations:
     url: http://ist.ac.at
 
 publication: Computer Graphics Forum 34(2) (Eurographics 2015)
-date: 2015-05
+date: 2015-05-01
 paper: http://www.disneyresearch.com/wp-content/uploads/Recent-Advances-in-Facial-Appearance-Capture-Paper.pdf
 
 abstract: |

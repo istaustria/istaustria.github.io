@@ -20,7 +20,7 @@ affiliations:
     url: http://ist.ac.at
 
 publication: Computer Graphics Forum, 33(8)
-date: 2014-11
+date: 2014-11-01
 
 abstract: |
   In this paper, we present a method for non-rigid, partial shape matching in vector graphics. Given a user-specified query region in a 2D shape, similar regions are found, even if they are non-linearly distorted. Furthermore, a non-linear mapping is established between the query regions and these matches, which allows the automatic transfer of editing operations such as texturing. This is achieved by a two-step approach. First, point-wise correspondences between the query region and the whole shape are established. The transformation parameters of these correspondences are registered in an appropriate transformation space. For transformations between similar regions, these parameters form surfaces in transformation space, which are extracted in the second step of our method. The extracted regions may be related to the query region by a non-rigid transform, enabling non-rigid shape matching. 

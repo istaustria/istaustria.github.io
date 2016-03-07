@@ -13,7 +13,7 @@ affiliations:
     url: http://ist.ac.at
 
 publication: Computer Graphics Forum 35(2)
-date: 2016-05
+date: 2016-05-01
 project: http://pub.ist.ac.at/group_wojtan/projects/2016_Jeschke_GDCI
 paper: http://pub.ist.ac.at/group_wojtan/projects/2016_Jeschke_GDCI/paper_preprint.pdf
 

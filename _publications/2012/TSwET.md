@@ -22,7 +22,7 @@ affiliations:
     url: http://www.cs.columbia.edu/cg/
 
 publication: ACM Transactions on Graphics 31(4) (SIGGRAPH 2012)
-date: 2012-08
+date: 2012-08-01
 doi: http://dx.doi.org/10.1145/2185520.2185549
 
 paper: http://pub.ist.ac.at/group_wojtan/projects/tracking_surfaces/topoReg_web.pdf

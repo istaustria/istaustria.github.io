@@ -29,7 +29,7 @@ affiliations:
     url: https://www.cornell.edu/
 
 publication: ACM Trans. Graph. 34, 4 (SIGGRAPH 2015 Papers)
-date: 2015-08
+date: 2015-08-01
 
 abstract: |
   We propose a method for fabricating deformable objects with spatially varying elasticity using 3D printing.

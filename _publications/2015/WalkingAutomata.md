@@ -29,7 +29,7 @@ affiliations:
 
 
 publication: ACM SIGGRAPH / Eurographics Symposium on Computer Animation (SCA 2015)
-date: 2015-08
+date: 2015-08-01
 
 abstract: |
   Creating mechanical automata that can walk in stable and pleasing manners is a challenging task that requires both skill and expertise. We propose to use computational design to offset the technical difficulties of this process. A simple drag-and-drop interface allows casual users to create personalized walking toys from a library of pre-defined template mechanisms. Provided with this input, our method leverages physical simulation and evolutionary optimization to refine the mechanical designs such that the resulting toys are able to walk. The optimization process is guided by an intuitive set of objectives that measure the quality of the walking motions. We demonstrate our approach on a set of simulated mechanical toys with different numbers of legs and various distinct gaits. Two fabricated prototypes showcase the feasibility of our designs.
