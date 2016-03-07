@@ -1,6 +1,6 @@
 ---
 image: GDCI.jpg
-title: Generalized Diffusion Curves: An Improved Vector Representation for Smooth-Shaded Images
+title: "Generalized Diffusion Curves: An Improved Vector Representation for Smooth-Shaded Images"
 
 authors:
   - name: Jeschke, Stefan
