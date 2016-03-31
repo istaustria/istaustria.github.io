@@ -46,7 +46,7 @@ teaser:
   image:
     - url: teaser.png
       alt: Design and fabrication of custom input devices.
-paper: http://www.disneyresearch.com/wp-content/uploads/OmniAD-Data-driven-Omni-directional-Aerodynamics-Paper.pdf
+paper: http://pub.ist.ac.at/~bbickel/downloads/DefSensePaper.pdf
 ---
 
 ## {{ page.title }}
