@@ -20,7 +20,7 @@ authors:
     affiliations: [4]
   - name: Thomaszewski, Bernhard
     url: https://graphics.ethz.ch/~bthomasz/
-    affiliations: [2]
+    affiliations: [1]
   - name: Hilliges, Otmar
     url: http://ait.ethz.ch/people/
     affiliations: [2]
