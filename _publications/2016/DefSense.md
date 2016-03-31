@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: DefSense: Computational Design of Customized Deformable Input Devices
+title: "DefSense: Computational Design of Customized Deformable Input Devices"
 
 authors: 
   - name: Bächer, Moritz
