@@ -42,7 +42,7 @@ teaser:
     look close to the input image (bottom-right).  This representation can be 
     edited (bottom-left). Please also see our video.
   images:
-  - url: GDCI.jpg
+  - url: thumb.jpg
     alt: GDCI example 
 
 ---
