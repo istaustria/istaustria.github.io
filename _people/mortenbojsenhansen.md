@@ -2,7 +2,11 @@
 id: mortenbojsenhansen
 name: Bojsen-Hansen, Morten
 email: mortenbh@ist.ac.at
-bio: Physics-based Simulation, Geometry Processing
 webpage: http://alas.dk
 type: phdstudent
+bio: |
+  Morten Bojsen-Hansen is a fifth year PhD student advised by [Chris
+  Wojtan](http://pub.ist.ac.at/group_wojtan/). He studied [Computer
+  Science](http://cs.au.dk) at [Aarhus University](http://au.dk). His primary
+  research interest is physics-based animation.
 ---
