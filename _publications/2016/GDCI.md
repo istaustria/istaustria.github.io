@@ -63,7 +63,7 @@ teaser:
 ### Links
 
 * [Paper]({{ page.paper }}) (25 MB)
-* [Additional material]({{ page.results }} ) (53 MB)
+* [Supplementary results]({{ page.results }} ) (53 MB)
 * [Supplementary video]({{ page.video }}) (40 MB)
 * [Supplementary binary]({{ page.binary }}) (650 kB)
 * [Supplementary code]({{ page.code }}) (800 kB)
