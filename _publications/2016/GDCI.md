@@ -1,5 +1,5 @@
 ---
-image: GDCI.jpg
+layout: publication
 title: "Generalized Diffusion Curves: An Improved Vector Representation for Smooth-Shaded Images"
 
 authors:
@@ -14,8 +14,11 @@ affiliations:
 
 publication: Computer Graphics Forum 35(2)
 date: 2016-05-01
-project: http://pub.ist.ac.at/group_wojtan/projects/2016_Jeschke_GDCI
 paper: http://pub.ist.ac.at/group_wojtan/projects/2016_Jeschke_GDCI/paper_preprint.pdf
+additional material: http://pub.ist.ac.at/group_wojtan/projects/2016_Jeschke_GDCI/additionalMaterial_preprint.pdf
+video: http://pub.ist.ac.at/group_wojtan/projects/2016_Jeschke_GDCI/video_preprint.mp4
+binary: http://pub.ist.ac.at/group_wojtan/projects/2016_Jeschke_GDCI/GDCIEditorBinary.zip
+code: http://pub.ist.ac.at/group_wojtan/projects/2016_Jeschke_GDCI/GDCIEditorSource.zip
 
 
 abstract: |
@@ -32,4 +35,48 @@ bibtex: |
   pages = {1--9}
   }
 
+teaser:
+  caption: |
+    Given an input image (top-left) and Bezier curves (top-right), our algorithm
+    automatically fits color values to the curves control points so that the result
+    look close to the input image (bottom-right).  This representation can be 
+    edited (bottom-left). Please also see our video.
+  images:
+  - url: GDCI.jpg
+    alt: GDCI example 
+
 ---
+
+## {{ page.title }}
+
+{% include figure.html caption=page.teaser.caption images=page.teaser.images columns=2 %}
+
+{% include authors.html authors=page.authors affiliations=page.affiliations %}
+
+{% include publication.html publication=page.publication url=page.doi %}
+
+### Abstract
+
+{{ page.abstract }}
+
+
+### Links
+
+* [Paper]({{ page.paper }}) (25 MB)
+* [Additional Material]({{ page.addmat }}) (50 MB)
+* [Supplementary video]({{ page.video }}) (40 MB)
+* [Supplementary binary]({{ page.binary }}) (650 kB)
+* [Supplementary code]({{ page.code }}) (800 kB)
+
+### Citation
+
+{% include citation.html citation=page.bibtex %}
+
+### Acknowledgements
+
+Thanks go to David Hahn for help proofreading the paper, and
+to the IST Austria Visual Computing group for helpful feedback
+throughout the project.
+
+This project has received funding from Austrian Science Fund (FWF)
+standalone project 'Deep Pictures' No. P24352-N23.
