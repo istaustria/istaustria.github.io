@@ -62,7 +62,7 @@ teaser:
 ### Links
 
 * [Paper]({{ page.paper }}) (25 MB)
-* [Additional Material]({{ http://pub.ist.ac.at/group_wojtan/projects/2016_Jeschke_GDCI/additionalMaterial_preprint.pdf }}) (53 MB)
+* [Additional Material](http://pub.ist.ac.at/group_wojtan/projects/2016_Jeschke_GDCI/additionalMaterial_preprint.pdf) (53 MB)
 * [Supplementary video]({{ page.video }}) (40 MB)
 * [Supplementary binary]({{ page.binary }}) (650 kB)
 * [Supplementary code]({{ page.code }}) (800 kB)
