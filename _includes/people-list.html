@@ -58,7 +58,7 @@
         {% if p.bio %}
         <div class="collapse" id="bio{{ forloop.index }}">
             <div class="bio text-muted">
-            {{ p.bio }}
+            {{ p.bio | markdownify }}
             </div>
         </div>
         {% endif %}
