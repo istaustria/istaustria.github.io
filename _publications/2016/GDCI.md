@@ -41,7 +41,7 @@ teaser:
     automatically fits color values to the curves control points so that the result
     look close to the input image (bottom-right).  This representation can be 
     edited (bottom-left). Please also see our video.
-  image:
+  images:
   - url: thumb.jpg
     alt: GDCI example 
 
