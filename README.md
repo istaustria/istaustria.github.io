@@ -53,6 +53,9 @@ follows.
 	email: xxxx@ist.ac.at
 	topics: Computer Graphics
 	webpage: http://example.com # personal webpage
+	bio: |
+	  Chris Wojtan is a professor at IST Austria since 2016. He received a
+	  PhD in Computer Science from Georgia Tech in 2010.
 	---
 
 Make sure to include `---` both at the beginning and end of the file. Some
