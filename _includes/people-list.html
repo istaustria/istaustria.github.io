@@ -9,7 +9,7 @@
             <div class="col-xs-4">
                 <img class="img-circle img-responsive"
                 style="max-width: 120px"
-                src="{{ '/people/' | prepend: site.baseurl | append: p.id | append: '.jpg' }}"
+                src="{{ site.baseurl | append: p.id | append: '.jpg' }}"
                 alt="{{ fullname }}">
             </div>
             <div class="col-xs-8">
