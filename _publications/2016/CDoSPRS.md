@@ -87,16 +87,16 @@ teaser:
 
 ### Supplementary video
 
-[//]: # ({% include youtube.html id='a0U36AM1M08' %})
+TODP
 
 ### Fast-forward
 
-[//]: # ({% include youtube.html id='UN0IVcwiNSM' %})
+TODO
 
 ### Links
 
-* [Paper] [//]: # (({{ page.paper }}) (6 MB))
-* [Supplementary video] [//]: # (({{ page.video }}) (134 MB))
+* [Paper] To Appear
+* [Supplementary video] To Appear
 
 ### Citation
 
