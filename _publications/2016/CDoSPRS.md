@@ -63,10 +63,8 @@ teaser:
     between crossing wires.
 
   images:
-  - url: teaser_contours.jpg
-    alt: Input contours
-  - url: teaser_fabricated.jpg
-    alt: Fabricated wire sculpture
+  - url: teaser_webpage.jpg
+    alt: Teaser image
 ---
 
 ## {{ page.title }}
