@@ -66,14 +66,8 @@ teaser:
     
 
   images:
-  - url: car_input.jpg
-    alt: Input 3D model
-  - url: car_contours.jpg
-    alt: Planar contours over 3D model
-  - url: car_render.jpg
-    alt: Optimized wire sculpture render
-  - url: car_fab.jpg
-    alt: Fabricated and assembled sculpture
+  - url: teaser_webpage.jpg
+    alt: Teaser
 ---
 
 ## {{ page.title }}
@@ -90,7 +84,7 @@ teaser:
 
 ### Supplementary video
 
-TODP
+TODO
 
 ### Fast-forward
 
