@@ -57,14 +57,20 @@ bibtex: |
 
 teaser:
   caption: |
-    Figure 1: Given a set of planar input contours (left), our system computes(right)
+    Given a set of planar input contours (left), our system computes(right)
     can be easily fabricated using a 2D wire bending machine anda stable, self-supporting
     wire sculpture. The physical prototype assembled without the need of connectors
     between crossing wires.
 
   images:
-  - url: teaser_webpage.jpg
-    alt: Teaser image
+  - url: car_input.png
+    alt: Input 3D model
+  - url: car_contours.png
+    alt: Planar contours over 3D model
+  - url: car_render.png
+    alt: Optimized wire sculpture render
+  - url: car_fab.png
+    alt: Fabricated and assembled sculpture
 ---
 
 ## {{ page.title }}
