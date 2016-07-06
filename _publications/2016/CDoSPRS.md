@@ -63,13 +63,13 @@ teaser:
     between crossing wires.
 
   images:
-  - url: car_input.png
+  - url: car_input.jpg
     alt: Input 3D model
-  - url: car_contours.png
+  - url: car_contours.jpg
     alt: Planar contours over 3D model
-  - url: car_render.png
+  - url: car_render.jpg
     alt: Optimized wire sculpture render
-  - url: car_fab.png
+  - url: car_fab.jpg
     alt: Fabricated and assembled sculpture
 ---
 
