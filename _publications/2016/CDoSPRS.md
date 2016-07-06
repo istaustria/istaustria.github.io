@@ -66,8 +66,10 @@ teaser:
     
 
   images:
-  - url: teaser_webpage.jpg
-    alt: Teaser
+  - url: teaser_contours.jpg
+    alt: Input model and contours
+  - url: teaser_fabrication.jpg
+    alt: Fabricated model
 ---
 
 ## {{ page.title }}
