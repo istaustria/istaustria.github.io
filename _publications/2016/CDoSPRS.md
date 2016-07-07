@@ -25,7 +25,7 @@ doi: http://dx.doi.org/10.1145/2897824.2925978
 
 
 ## TODO: paper: http://pub.ist.ac.at/group_wojtan/projects/2013_Bojsen-Hansen_LSwEC/liquidError_web.pdf
-## TODO: video: http://pub.ist.ac.at/group_wojtan/projects/2013_Bojsen-Hansen_LSwEC/liquidError_medium.mp4
+video: https://youtu.be/YfrQyO1czBU
 
 abstract: |
   We present a computational method for designing wire sculptures
@@ -95,7 +95,7 @@ TODO
 ### Links
 
 * [Paper] To Appear
-* [Supplementary video] To Appear
+* [Supplementary video]({{ page.video }}) (110 MB)
 
 ### Citation
 
