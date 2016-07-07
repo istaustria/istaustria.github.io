@@ -105,6 +105,6 @@ Soon
 
 We would like to thank everyone who contributed to this paper, especially Ruslan Guseinov,
 Thomas Auzinger and Ran Zhang for their help with the final demos and renders, as well as
-all proof-readers and anonymous reviewers. We thank Jakobifor allowing us to use the image
+all proof-readers and anonymous reviewers. We thank Jakobi for allowing us to use the image
 of his dog wire sculpture. This project has received funding from the European Union’s
 Horizon 2020 research and innovation programme under grant agreement No 645599.
