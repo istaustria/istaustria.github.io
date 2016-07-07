@@ -88,10 +88,6 @@ teaser:
 
 {% include youtube.html id='YfrQyO1czBU' %}
 
-### Fast-forward
-
-Soon
-
 ### Links
 
 * [Paper] To Appear
