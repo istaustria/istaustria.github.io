@@ -86,11 +86,11 @@ teaser:
 
 ### Supplementary video
 
-TODO
+{% include youtube.html id='YfrQyO1czBU' %}
 
 ### Fast-forward
 
-TODO
+Soon
 
 ### Links
 
