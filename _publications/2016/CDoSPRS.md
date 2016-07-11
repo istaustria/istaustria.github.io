@@ -24,7 +24,7 @@ date: 2016-07-10
 doi: http://dx.doi.org/10.1145/2897824.2925978
 
 
-## TODO: paper: http://pub.ist.ac.at/group_wojtan/projects/2013_Bojsen-Hansen_LSwEC/liquidError_web.pdf
+paper: http://www.gmrv.es/~edermiguel/docs/wire_bending.pdf
 video: https://youtu.be/YfrQyO1czBU
 
 abstract: |
