@@ -24,7 +24,7 @@ date: 2016-07-10
 doi: http://dx.doi.org/10.1145/2897824.2925978
 
 
-paper: http://www.gmrv.es/~edermiguel/docs/wire_bending.pdf
+paper: http://pub.ist.ac.at/~emiguel/wirebending.pdf
 video: https://youtu.be/YfrQyO1czBU
 
 abstract: |
