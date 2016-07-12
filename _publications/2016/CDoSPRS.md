@@ -90,8 +90,8 @@ teaser:
 
 ### Links
 
-* [Paper] To Appear
-* [Supplementary video]({{ page.video }}) (110 MB)
+* [Paper] ({{ page.paper }}) (110 MB)
+* [Supplementary video]({{ page.video }}) (43 MB)
 
 ### Citation
 
