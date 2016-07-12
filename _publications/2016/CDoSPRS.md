@@ -24,7 +24,7 @@ date: 2016-07-10
 doi: http://dx.doi.org/10.1145/2897824.2925978
 
 
-paper: http://pub.ist.ac.at/~emiguel/wirebending.pdf
+paper: http://pub.ist.ac.at/~bbickel/downloads/wirebending2016.pdf
 video: https://youtu.be/YfrQyO1czBU
 
 abstract: |
@@ -90,7 +90,7 @@ teaser:
 
 ### Links
 
-* [Paper] To Appear
+* [Paper]({{page.paper}})
 * [Supplementary video]({{ page.video }}) (110 MB)
 
 ### Citation
