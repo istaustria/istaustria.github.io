@@ -7,7 +7,7 @@ authors:
   - name: Ferrari, Vittorio
   - name: Lampert, Christoph
 
-publication: European Conference on Computer Vision (ECCV)
+publication: European Conference on Computer Vision (ECCV 2014)
 date: 2014-09-06
 
 paper: http://pub.ist.ac.at/~akolesnikov/files/ECCV2014/paper.pdf

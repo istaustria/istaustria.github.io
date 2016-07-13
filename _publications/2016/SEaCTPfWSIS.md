@@ -5,7 +5,7 @@ authors:
   - name: Kolesnikov, Alexander
   - name: Lampert, Christoph
 
-publication: European Conference on Computer Vision (ECCV)
+publication: European Conference on Computer Vision (ECCV 2016)
 date: 2016-10-10
 
 paper: http://pub.ist.ac.at/~akolesnikov/files/ECCV2016/main.pdf
