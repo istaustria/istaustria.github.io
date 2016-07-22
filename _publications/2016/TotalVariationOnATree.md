@@ -60,10 +60,6 @@ teaser:
 
 {{ page.abstract }}
 
-### Supplementary video
-
-{% include youtube.html id='YfrQyO1czBU' %}
-
 ### Links
 
 * [Paper]({{ page.paper }}) 
