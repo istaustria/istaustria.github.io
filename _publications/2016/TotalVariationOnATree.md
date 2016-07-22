@@ -23,8 +23,6 @@ affiliations:
 publication: SIAM Journal on Imaging Sciences (SIIMS), 9(2):605-636, 2016
 date: 2016-05-10
 doi: http://dx.doi.org/10.1137/15M1010257
-
-
 paper: http://arxiv.org/abs/1502.07770
 
 abstract: |
@@ -40,11 +38,11 @@ bibtex: |
   pages={605--636},
   year={2016},
   publisher={SIAM}
-}
+  }
 
 teaser:
   caption: |
-    TV-l2 denoising. (a) shows the "TV-Tree" test image, which has been degraded by adding zero-mean Gaussian noise. (b) shows the result of TV-l2 denoising.
+    TV-l2 denoising. (a) shows the TV-Tree test image, which has been degraded by adding zero-mean Gaussian noise. (b) shows the result of TV-l2 denoising.
 
   images:
   - url: teaser.png
