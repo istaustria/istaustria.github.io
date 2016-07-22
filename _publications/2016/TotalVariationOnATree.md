@@ -19,7 +19,7 @@ affiliations:
   - name: TU Graz
     url: http://www.icg.tugraz.at
 
-	
+
 publication: SIAM Journal on Imaging Sciences (SIIMS), 9(2):605-636, 2016
 date: 2016-05-10
 doi: http://dx.doi.org/10.1137/15M1010257
