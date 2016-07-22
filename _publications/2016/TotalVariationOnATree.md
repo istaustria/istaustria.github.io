@@ -45,9 +45,6 @@ bibtex: |
 teaser:
   caption: |
     TV-l2 denoising. (a) shows the "TV-Tree" test image, which has been degraded by adding zero-mean Gaussian noise. (b) shows the result of TV-l2 denoising.
-    
-     
-    
 
   images:
   - url: teaser.png
