@@ -6,6 +6,10 @@
   content: >
     Call for the SIGGRAPH 2017 Student Volunteer Contest released. More information can be found [here](./contest/).
 
+- date: 2016-06-11
+  content: >
+    We have a paper accepted to [ECCV 2016](http://www.eccv2016.org/).
+
 - date: 2016-06-10
   content: >
     We have 4 papers accepted to [SIGGRAPH 2016](http://s2016.siggraph.org/).
@@ -34,3 +38,7 @@
 - date: 2015-04-20
   content: >
     We are participating in the EU project [SOMA soft manipulation](http://www.softmanipulation.eu/). Our role is to develop computational methods that support the exploration of a new avenue of robotic manipulation, exploiting the physical constraints imposed by the environment to enable robust grasping and manipulation in dynamic, open, and highly variable contexts.
+
+- date: 2015-03-02
+  content: >
+    We have 4 papers accepted to [CVPR 2015](www.pamitc.org/cvpr15/).
