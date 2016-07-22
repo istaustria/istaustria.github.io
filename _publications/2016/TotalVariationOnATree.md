@@ -51,7 +51,6 @@ teaser:
 
   images:
   - url: teaser.png
-
 ---
 
 ## {{ page.title }}
