@@ -88,6 +88,10 @@ teaser:
 
 {% include youtube.html id='-Dzbi7x9Ark' %}
 
+### Fast-forward
+
+{% include youtube.html id='9Ft9aRfpZ8U' %}
+
 ### Links
 
 * [Paper]({{ page.paper }}) (11 MB)
