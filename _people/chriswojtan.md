@@ -1,7 +1,7 @@
 ---
 id: chriswojtan
 name: Wojtan, Chris
-room: Central Building, 3rd floor, 68
+room: Lab Building West, 2nd floor, 110
 phone: +43 (0)2243 9000-4401
 email: wojtan@ist.ac.at
 bio: Physics Simulation, Geometry Processing
