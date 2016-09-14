@@ -37,7 +37,7 @@ abstract: |
 bibtex: |
   @phdthesis{TCaAWSW2016,
   author = {Morten Bojsen-Hansen},
-  title = {Generalized Non-Reflecting Boundaries for Fluid Re-Simulation},
+  title = {Tracking, Correcting and Absorbing Water Surface Waves},
   school = {IST Austria},
   year = {2016},
   month = {9}
