@@ -15,7 +15,7 @@ affiliations:
 publication: IST Austria (PhD thesis)
 date: 2016-09-15
 
-thesis: http://pub.ist.ac.at/group_wojtan/projects/2016_Bojsen-Hansen_TCaAWSW/2016_Bojsen-Hansen_TCaAWSW.pdf
+paper: http://pub.ist.ac.at/group_wojtan/projects/2016_Bojsen-Hansen_TCaAWSW/2016_Bojsen-Hansen_TCaAWSW.pdf
 presentation: http://pub.ist.ac.at/group_wojtan/projects/2016_Bojsen-Hansen_TCaAWSW/2016_Bojsen-Hansen_TCaAWSW.zip
 
 abstract: |
@@ -65,7 +65,7 @@ teaser:
 
 ### Links
 
-* [Thesis]({{ page.thesis }}) (14 MB)
+* [Thesis]({{ page.paper }}) (14 MB)
 * [Presentation]({{ page.presentation }}) (64 MB)
 
 ### Citation
