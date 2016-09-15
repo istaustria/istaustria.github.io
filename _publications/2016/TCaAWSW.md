@@ -16,6 +16,7 @@ publication: IST Austria (PhD thesis)
 date: 2016-09-15
 
 paper: http://pub.ist.ac.at/group_wojtan/projects/2016_Bojsen-Hansen_TCaAWSW/2016_Bojsen-Hansen_TCaAWSW.pdf
+source: http://pub.ist.ac.at/group_wojtan/projects/2016_Bojsen-Hansen_TCaAWSW/2016_Bojsen-Hansen_TCaAWSW.tar.bz2
 presentation: http://pub.ist.ac.at/group_wojtan/projects/2016_Bojsen-Hansen_TCaAWSW/2016_Bojsen-Hansen_TCaAWSW.zip
 
 abstract: |
@@ -66,7 +67,8 @@ teaser:
 ### Links
 
 * [Thesis]({{ page.paper }}) (14 MB)
-* [Presentation]({{ page.presentation }}) (64 MB)
+* [LaTeX source]({{ page.source }}) (53 MB)
+* <del>[Presentation]({{ page.presentation }}) (64 MB)</del>
 
 ### Citation
 
