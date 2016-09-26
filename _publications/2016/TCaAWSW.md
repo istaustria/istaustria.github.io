@@ -14,9 +14,12 @@ affiliations:
 
 publication: IST Austria (PhD thesis)
 date: 2016-09-15
+doi: https://repository.ist.ac.at/640/
 
-paper: http://pub.ist.ac.at/group_wojtan/projects/2016_Bojsen-Hansen_TCaAWSW/2016_Bojsen-Hansen_TCaAWSW.pdf
-source: http://pub.ist.ac.at/group_wojtan/projects/2016_Bojsen-Hansen_TCaAWSW/2016_Bojsen-Hansen_TCaAWSW.tar.bz2
+paper: https://repository.ist.ac.at/640/
+paper_mirror: http://pub.ist.ac.at/group_wojtan/projects/2016_Bojsen-Hansen_TCaAWSW/2016_Bojsen-Hansen_TCaAWSW.pdf
+source: https://datarep.app.ist.ac.at/48/
+source_mirror: http://pub.ist.ac.at/group_wojtan/projects/2016_Bojsen-Hansen_TCaAWSW/2016_Bojsen-Hansen_TCaAWSW.tar.bz2
 presentation: http://pub.ist.ac.at/group_wojtan/projects/2016_Bojsen-Hansen_TCaAWSW/2016_Bojsen-Hansen_TCaAWSW.zip
 
 abstract: |
@@ -66,8 +69,8 @@ teaser:
 
 ### Links
 
-* [Thesis]({{ page.paper }}) (14 MB)
-* [LaTeX source]({{ page.source }}) (53 MB)
+* [Thesis]({{ page.paper }}) ([mirror]({{ page.paper_mirror }})) (14 MB)
+* [LaTeX source]({{ page.source }}) ([mirror]({{ page.source_mirror }})) (53 MB)
 * <del>[Presentation]({{ page.presentation }}) (64 MB)</del>
 
 ### Citation
