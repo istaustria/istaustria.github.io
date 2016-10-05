@@ -14,11 +14,11 @@ affiliations:
 
 publication: IST Austria (PhD thesis)
 date: 2016-09-15
-doi: https://repository.ist.ac.at/640/
+doi: http://dx.doi.org/10.15479/AT:ISTA:th_640
 
-paper: https://repository.ist.ac.at/640/
+paper: http://dx.doi.org/10.15479/AT:ISTA:th_640
 paper_mirror: http://pub.ist.ac.at/group_wojtan/projects/2016_Bojsen-Hansen_TCaAWSW/2016_Bojsen-Hansen_TCaAWSW.pdf
-source: https://datarep.app.ist.ac.at/48/
+source: http://dx.doi.org/10.15479/AT:ISTA:48
 source_mirror: http://pub.ist.ac.at/group_wojtan/projects/2016_Bojsen-Hansen_TCaAWSW/2016_Bojsen-Hansen_TCaAWSW.tar.bz2
 presentation: http://pub.ist.ac.at/group_wojtan/projects/2016_Bojsen-Hansen_TCaAWSW/2016_Bojsen-Hansen_TCaAWSW.zip
 
