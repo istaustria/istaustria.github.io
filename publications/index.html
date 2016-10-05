@@ -34,7 +34,11 @@ layout: default
                 <div class="well">
                     <img class="img-responsive" style="margin: 0 auto;" src="{{ '/thumb.jpg' | prepend: p.url | prepend: site.baseurl }}" alt="{{ p.title }}">
                     <h4>{{ p.title }}</h4>
+                    {% if p.doi %}
+                    <p><a href="{{p.doi}}">{{ p.publication }}</a></p>
+                    {% else %}
                     <p>{{ p.publication }}</p>
+                    {% endif %}
 
                     <ul class="authors list-inline">
                     {% for author in p.authors %}
