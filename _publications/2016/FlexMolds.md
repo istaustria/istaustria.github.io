@@ -47,7 +47,7 @@ paper: http://vcg.isti.cnr.it/Publications/2016/MPBC16/flexmolds.pdf
 
 ## {{ page.title }}
 
-{% include figure.html images=page.teaser.image %}
+{% include figure.html caption=page.teaser.caption images=page.teaser.image %}
 
 {% include authors.html authors=page.authors affiliations=page.affiliations %}
 
