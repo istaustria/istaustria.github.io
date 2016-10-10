@@ -1,4 +1,4 @@
-﻿---
+---
 layout: publication
 title: "Computational Multicopter Design"
 
