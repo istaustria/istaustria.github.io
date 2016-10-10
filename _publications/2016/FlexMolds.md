@@ -4,16 +4,16 @@ title: "FlexMolds: Automatic Design of Flexible Shells for Molding"
 
 authors: 
   - name: Malomo, Luigi
-    url: http://baecher.info/
+    url: http://vcg.isti.cnr.it/~malomo/
     affiliations: [1,2,3]
   - name: Pietroni, Nico
-    url: http://ait.ethz.ch/people/hepp/
+    url: http://vcg.isti.cnr.it/~pietroni/
     affiliations: [1]
   - name: Bickel, Bernd
-    url: http://ait.ethz.ch/people/pece/
+    url: http://berndbickel.com/
     affiliations: [3]
   - name: Cignoni, Paolo
-    url: http://www.cs.mcgill.ca/~kry/
+    url: http://vcg.isti.cnr.it/~cignoni/
     affiliations: [1]	
 
 affiliations:
