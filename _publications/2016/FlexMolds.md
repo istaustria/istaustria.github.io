@@ -38,7 +38,7 @@ teaser:
      
     
 
-  images:
+  image:
     - url: teaser.png
       alt: Starting from a 3D model (a), we automatically generate a set of cuts over its surface that allow the generation of a flexible mold shell (b) that can be 3D printed (c) and used for casting multiple physical copies (d) of the original model.
 
