@@ -26,7 +26,7 @@ affiliations:
     url: http://ist.ac.at
 
 
-publication: ACM Transactions on Graphics (SIGGRAPH Asia 2016), December 2016
+publication: ACM Transactions on Graphics (SIGGRAPH Asia 2016)
 date: 2016-12-01
 
 abstract: |
