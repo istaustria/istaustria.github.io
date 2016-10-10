@@ -32,10 +32,10 @@ abstract: |
   We present FlexMolds, a novel computational approach to automatically design flexible, reusable molds that, once 3D printed, allow us to physically fabricate, by means of liquid casting, multiple copies of complex shapes with rich surface details and complex topology. The approach to design such flexible molds is based on a greedy bottom-up search of possible cuts over an object, evaluating for each possible cut the feasibility of the resulting mold. We use a dynamic simulation approach to evaluate candidate molds, providing a heuristic to generate forces that are able to open, detach, and remove a complex mold from the object it surrounds. We have tested the approach with a number of objects with nontrivial shapes and topologies.
 
 teaser:
-  caption: |
+    caption: |
     Starting from a 3D model (a), we automatically generate a set of cuts over its surface that allow the generation of a flexible mold shell (b) that can be 3D printed (c) and used for casting multiple physical copies (d) of the original model.
-
-	image:
+    
+    image:
     - url: teaser.png
       alt: Starting from a 3D model (a), we automatically generate a set of cuts over its surface that allow the generation of a flexible mold shell (b) that can be 3D printed (c) and used for casting multiple physical copies (d) of the original model.
 
