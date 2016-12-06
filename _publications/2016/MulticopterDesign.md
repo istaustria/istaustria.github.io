@@ -51,6 +51,9 @@ paper: http://cfg.mit.edu/sites/cfg.mit.edu/files/copter.pdf
 
 {{ page.abstract }}
 
+### Supplementary video
+
+{% include youtube.html id='GC8fv7kd9mM' %}
 
 ### Links
 
