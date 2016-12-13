@@ -7,5 +7,5 @@ type: intern # one of [faculty, assistant, postdoc, phdstudent, intern]
 room: Lab Building West, 2nd floor, 107
 email: 
 bio: |
-  I got my MSc in Computer Science... My research interests...
+  
 ---
