@@ -1,7 +1,7 @@
 ---
 id: davidhahn
 name: Hahn, David
-room: Central Building, 3rd floor, 53
+room: Lab Building West, 2nd floor, 108
 email: david.hahn@ist.ac.at
 type: phdstudent
 bio: |
