@@ -80,6 +80,10 @@ teaser:
 
 {% include publication.html publication=page.publication url=page.doi %}
 
+### Abstract
+
+{{ page.abstract }}
+
 ### Supplementary video
 
 {% include youtube.html id='JaBBQDx2BBk' %}
