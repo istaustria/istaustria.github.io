@@ -9,6 +9,7 @@ authors:
   - name: Auzinger, Thomas
     affiliations: [1]
     id: thomasauzinger
+    url: http://auzinger.name
   - name: Ceylan, Duygu
     affiliations: [2]
     url: http://www.duygu-ceylan.com/
@@ -30,8 +31,7 @@ publication: ACM Transactions on Graphics 36(4) (SIGGRAPH 2017)
 date: 2017-07-10
 doi: http://dx.doi.org/10.1145/3072959.3073710
 
-
-paper: http://pub.ist.ac.at/~emiguel/wirebending.pdf
+paper: http://pub.ist.ac.at/~rzhang/MechRet.pdf
 video: https://youtu.be/hwLNbFNI1uk
 
 
@@ -75,8 +75,7 @@ teaser:
 
 ### Links
 
-<!-- * [Paper]({{ page.paper }}) (24 MB) -->
-* [Paper coming soon...]()
+* [Paper]({{ page.paper }}) (24 MB)
 * [Supplementary video]({{ page.video }}) (125 MB)
 
 ### Citation
