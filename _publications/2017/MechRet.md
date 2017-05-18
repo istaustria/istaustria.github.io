@@ -55,7 +55,6 @@ teaser:
   images:
   - url: teaser.jpg
     alt: teaser
-
 results:
   caption: |
     From left to right: Retargeted (top) and fabricated (middle and bottom) results for the <B><I>Wind-Up</I></B>, <B><I>Tapping</I></B>, and <B><I>Drivetrain</I></B> template to the <B><I>Octopus</I></B>, <B><I>Hand</I></B>, <B><I>Claw</I></B>, <B><I>Pick-Up</I></B>, and <B><I>Tractor</I></B> shapes.
