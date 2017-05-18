@@ -55,11 +55,19 @@ teaser:
   images:
   - url: teaser.jpg
     alt: teaser
+
+results:
+  caption: |
+    From left to right: Retargeted (top) and fabricated (middle and bottom) results for the <B><I>Wind-Up</I></B>, <B><I>Tapping</I></B>, and <B><I>Drivetrain</I></B> template to the <B><I>Octopus</I></B>, <B><I>Hand</I></B>, <B><I>Claw</I></B>, <B><I>Pick-Up</I></B>, and <B><I>Tractor</I></B> shapes.
+
+  images:
+  - url: results.jpg
+    alt: results
 ---
 
 ## {{ page.title }}
 
-{% include figure.html caption=page.teaser.caption images=page.teaser.images columns=2 %}
+{% include figure.html caption=page.teaser.caption images=page.teaser.images %}
 
 {% include authors.html authors=page.authors affiliations=page.affiliations %}
 
@@ -72,6 +80,10 @@ teaser:
 ### Supplementary video
 
 {% include youtube.html id='hwLNbFNI1uk' %}
+
+### Fabricated results
+
+{% include figure.html caption=page.results.caption images=page.results.images columns=2 %}
 
 ### Links
 
