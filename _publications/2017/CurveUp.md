@@ -32,14 +32,14 @@ abstract: |
 We present a computational approach for designing CurveUps, curvy shells that form from an initially flat state. They consist of small rigid tiles that are tightly held together by two pre-stretched elastic sheets attached to them. Our method allows the realization of smooth, doubly curved surfaces that can be fabricated as a flat piece. Once released, the restoring forces of the pre-stretched sheets support the object to take shape in 3D. CurveUps are structurally stable in their target configuration. The design process starts with a target surface. Our method generates a tile layout in 2D and optimizes the distribution, shape, and attachment areas of the tiles to obtain a configuration that is fabricable and in which the curved up state closely matches the target. Our approach is based on an efficient approximate model and a local optimization strategy for an otherwise intractable nonlinear optimization problem. We demonstrate the effectiveness of our approach for a wide range of shapes, all realized as physical prototypes.
 
 bibtex: |
-  "@article{Guseinov2017,
+  @article{Guseinov2017,
   author = {Ruslan Guseinov, Eder Miguel, and Bernd Bickel},
-  title = {CurveUps: Shaping Objects from Flat Plates with Tension-Actuated Curvature},
+  "title = {CurveUps: Shaping Objects from Flat Plates with Tension-Actuated Curvature},"
   journal = {ACM Transactions on Graphics (SIGGRAPH 2017)},
   year = {2017},
   volume = {36},
   number = {4}
-  }"
+  }
 
 teaser:
   caption: |
