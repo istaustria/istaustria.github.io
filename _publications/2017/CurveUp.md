@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: CurveUps: Shaping Objects from Flat Plates with Tension-Actuated Curvature
+title: "CurveUps: Shaping Objects from Flat Plates with Tension-Actuated Curvature"
 
 authors:
   - name: Guseinov, Ruslan
