@@ -52,7 +52,7 @@ teaser:
 
 ## {{ page.title }}
 
-{% include figure.html caption=page.teaser.caption images=page.teaser.images %}
+{% include figure.html caption=page.teaser.caption images=page.teaser.images columns=1 %}
 
 {% include authors.html authors=page.authors affiliations=page.affiliations %}
 

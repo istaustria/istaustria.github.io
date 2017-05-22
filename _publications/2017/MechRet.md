@@ -82,7 +82,7 @@ results:
 
 ### Fabricated results
 
-{% include figure.html caption=page.results.caption images=page.results.images %}
+{% include figure.html caption=page.results.caption images=page.results.images columns=1 %}
 
 ### Links
 
