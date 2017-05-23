@@ -6,10 +6,11 @@ authors:
   - name: Zhang, Ran
     affiliations: [1]
     id: ranzhang
+    url: http://pub.ist.ac.at/~rzhang/
   - name: Auzinger, Thomas
     affiliations: [1]
     id: thomasauzinger
-    url: http://auzinger.name
+    url: http://auzinger.name/
   - name: Ceylan, Duygu
     affiliations: [2]
     url: http://www.duygu-ceylan.com/
