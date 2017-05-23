@@ -32,6 +32,7 @@ date: 2017-07-10
 doi: http://dx.doi.org/10.1145/3072959.3073710
 
 paper: http://pub.ist.ac.at/~rzhang/MechRet.pdf
+paperhtml: http://pub.ist.ac.at/~rzhang/MechRet.html
 video: https://youtu.be/hwLNbFNI1uk
 
 
@@ -86,7 +87,8 @@ results:
 
 ### Links
 
-* [Paper]({{ page.paper }}) (24 MB)
+* [Paper(html)]({{ page.paperhtml }})
+* [Paper(pdf)]({{ page.paper }}) (24 MB)
 * [Supplementary video]({{ page.video }}) (125 MB)
 
 ### Citation
