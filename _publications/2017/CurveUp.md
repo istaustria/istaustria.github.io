@@ -25,6 +25,7 @@ date: 2017-07-10
 doi: https://doi.org/http://dx.doi.org/10.1145/3072959.3073709
 
 paper: http://pub.ist.ac.at/~rguseino/CurveUp.pdf
+material: http://pub.ist.ac.at/~rguseino/CurveUp_supplemental.pdf
 video: https://youtu.be/OSo1HZFhVaU
 
 
@@ -69,6 +70,7 @@ teaser:
 ### Links
 
 * [Paper]({{ page.paper }}) (36 MB)
+* [Supplementary material]({{ page.material }}) (274 KB)
 * [Supplementary video]({{ page.video }}) (163 MB)
 
 ### Citation
