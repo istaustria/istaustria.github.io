@@ -14,6 +14,7 @@ authors:
 affiliations:
   - name: IST Austria
     url: http://ist.ac.at
+  - name: IST Austria and NVIDIA
 
 publication: ACM Transactions on Graphics 36(4) (SIGGRAPH 2017)
 date: 2017-07-10
