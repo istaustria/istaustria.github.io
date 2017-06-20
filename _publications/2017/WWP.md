@@ -59,7 +59,7 @@ teaser:
 
 ### Supplementary video
 
-{% include youtube.html id='-A2auK5Sf4gY' %}
+{% include youtube.html id='A2auK5Sf4gY' %}
 
 ### Links
 
