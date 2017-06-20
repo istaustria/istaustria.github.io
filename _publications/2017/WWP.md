@@ -4,7 +4,7 @@ title: "Water Wave Packets"
 
 authors:
   - name: Jeschke, Stefan
-    affiliations: [1] [2]
+    affiliations: [1]
     id: stefanjeschke
   - name: Wojtan, Chris
     affiliations: [1]
@@ -14,7 +14,6 @@ authors:
 affiliations:
   - name: IST Austria
     url: http://ist.ac.at
-  - name: NVIDIA
 
 publication: ACM Transactions on Graphics 36(4) (SIGGRAPH 2017)
 date: 2017-07-10
