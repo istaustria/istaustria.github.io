@@ -4,7 +4,7 @@ title: "Water Wave Packets"
 
 authors:
   - name: Jeschke, Stefan
-    affiliations: [1]
+    affiliations: [2]
     id: stefanjeschke
   - name: Wojtan, Chris
     affiliations: [1]
