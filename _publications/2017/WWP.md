@@ -21,7 +21,7 @@ date: 2017-07-10
 doi: http://dx.doi.org/10.1145/3072959.3073678
 
 paper: http://pub.ist.ac.at/group_wojtan/projects/2017_Jeschke_WaterWavePackets/wavepackets_author.pdf
-
+video: http://pub.ist.ac.at/group_wojtan/projects/2017_Jeschke_WaterWavePackets/WavePacketsFinal.mp4
 
 abstract: |
   This paper presents a method for simulating water surface waves as a displacement field on a 2D domain. Our method relies on Lagrangian particles that carry packets of water wave energy; each packet carries information about an entire group of wave trains, as opposed to only a single wave crest. Our approach is unconditionally stable and can simulate high resolution geometric details. This approach also presents a straightforward interface for artistic control, because it is essentially a particle system with intuitive parameters like wavelength and amplitude. Our implementation parallelizes well and runs in real time for moderately challenging scenarios.
@@ -57,9 +57,14 @@ teaser:
 
 {{ page.abstract }}
 
+### Supplementary video
+
+{% include youtube.html id='-A2auK5Sf4gY' %}
+
 ### Links
 
 * [Paper]({{ page.paper }}) (13 MB)
+* [Supplementary video]({{ page.video }}) (219 MB)
 
 ### Citation
 
