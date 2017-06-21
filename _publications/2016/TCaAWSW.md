@@ -67,9 +67,16 @@ teaser:
 
 {{ page.abstract }}
 
+### Awards
+
+This thesis was awarded with one of three [Best Thesis Awards](https://www.eg.org/wp/phd-award/) at [Eurographics 2017](http://eurographics2017.fr/) for its
+
+> [...] strong technical contributions to water simulation techniques for visual effects particularly in topology
+> adaptation, tracking of free fluid surfaces, and handling spatially and time-varying boundary flows.
+
 ### Links
 
-* [Thesis]({{ page.paper }}) ([mirror]({{ page.paper_mirror }})) (14 MB)
+* [Thesis]({{ page.paper }}) ([Eurographics](http://diglib.eg.org/handle/10.2312/2631126), [mirror]({{ page.paper_mirror }})) (14 MB)
 * [LaTeX source]({{ page.source }}) ([mirror]({{ page.source_mirror }})) (53 MB)
 * <del>[Presentation]({{ page.presentation }}) (64 MB)</del>
 
