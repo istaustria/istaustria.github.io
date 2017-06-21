@@ -67,7 +67,7 @@ teaser:
 
 * [Paper]({{ page.paper }}) (13 MB)
 * [Supplementary video]({{ page.video }}) (219 MB)
-* [Source Code]({{ page.originalCode }}) [(original)]({{ page.versionedCode }}) [(most recent version)]({{ page.versionedCode }}) (1.4 MB)
+* [Source Code]({{ page.versionedCode }}) [(original)]({{ page.originalCode }}) [(most recent version)]({{ page.versionedCode }}) (1.4 MB)
 
 ### Citation
 
