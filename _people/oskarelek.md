@@ -1,7 +1,7 @@
 ---
 id: oskarelek
 name: Elek, Oskar
-type: intern # one of [faculty, assistant, postdoc, phdstudent, intern]
+type: alumni # one of [faculty, assistant, postdoc, phdstudent, intern]
 
 # optional fields
 room: Lab Building West, 2nd floor, 106
