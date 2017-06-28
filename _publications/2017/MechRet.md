@@ -42,7 +42,7 @@ abstract: |
 
 bibtex: |
   @article{Zhang2017,
-  author = {Ran Zhang, Thomas Auzinger, Duygu Ceylan, Wilmot Li and Bernd Bickel},
+  author = {Zhang, Ran and Auzinger, Thomas and Ceylan, Duygu and Li, Wilmot and Bickel, Bernd},
   title = {Functionality-aware Retargeting of Mechanisms to 3D Shapes},
   journal = {ACM Transactions on Graphics (SIGGRAPH 2017)},
   year = {2017},
