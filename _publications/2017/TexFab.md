@@ -67,7 +67,7 @@ teaser:
     A representative collection of our optimized prints, showing different images and patterns that our method reproduces much better that the standard printer driver.   
 
   images:
-  - url: teaser.png
+  - url: teaser.jpg
     alt: teaser
 ---
 
