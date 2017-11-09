@@ -3,12 +3,12 @@ title: "Improving Weakly-Supervised Object Localization By Micro-Annotation"
 
 authors:
   - name: Kolesnikov, Alexander
-  - name: Lampert, Christoph
+  - name: Lampert, Christoph H.
 
-publication: European Conference on Computer Vision (ECCV 2016)
-date: 2016-10-10
+publication: British Machine Vision Conference (BMVC 2016)
+date: 2016-09-19
 
-paper: http://pub.ist.ac.at/~akolesnikov/files/ECCV2016/main.pdf
+paper: http://cvml.ist.ac.at/papers/kolesnikov-bmvc2016.pdf
 
 abstract: |
         Weakly-supervised object localization methods tend to fail for object 
@@ -23,10 +23,10 @@ abstract: |
 
 
 bibtex: |
-        @article{kolesnikov2016improving,
+        @inproceedings{kolesnikov2016improving,
           title={Improving Weakly-Supervised Object Localization By Micro-Annotation},
           author={Kolesnikov, Alexander and Lampert, Christoph H.},
-          journal={British Machine Vision Conference (BMVC)},
+          booktitle={British Machine Vision Conference (BMVC)},
           year={2016}
         }
 
