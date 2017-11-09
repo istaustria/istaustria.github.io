@@ -1,5 +1,5 @@
 ---
-title:  "iCaRL: Incremental Classifier and Representation Learning"
+title:  "PixelCNN Models with Auxiliary Variables for Natural Image Modeling"
 
 authors:
   - name: Kolesnikov, Alexander
