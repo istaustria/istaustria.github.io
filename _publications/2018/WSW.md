@@ -51,6 +51,7 @@ teaser:
   images:
   - url: teaser.jpg
     alt: teaser
+
 ---
 
 ## {{ page.title }}
@@ -83,4 +84,7 @@ teaser:
 ### Acknowledgements
 
 We wish to thank the anonymous reviewers and the members of the Visual Computing Group at IST Austria for their valuable feedback. The 3D models used in our examples were created by Reiner Prokein. This research was supported by the Scientific Service Units (SSU) of IST Austria through resources provided by Scientific Computing. 
-This project has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme under grant agreements No 638176 and Marie Skłodowska-Curie Grant Agreement No. 665385. 
+This project has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme under grant agreements No 638176 and Marie Skłodowska-Curie Grant Agreement No. 665385.
+
+![EU](flag_yellow_low.jpg){: width="150x"}
+![ERC](LOGO-ERC.jpg){: width="150px"}
