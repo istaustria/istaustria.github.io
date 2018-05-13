@@ -45,6 +45,7 @@ bibtex: |
 
 paper: https://repository.ist.ac.at/1024/1/NanoStructColor-Auzinger-paper.pdf
 material: https://repository.ist.ac.at/1024/2/NanoStructColor-Auzinger-supplemental.pdf
+blueprint: https://repository.ist.ac.at/1024/6/NanoStructColor-Auzinger-blueprint.7z
 image: https://repository.ist.ac.at/1024/3/NanoStructColor-Auzinger-image.jpg
 
 abstract: |
@@ -78,7 +79,8 @@ teaser:
 ### Links
 
 * [Paper]({{page.paper}})
-* [Supplementary material]({{page.material}})
+* [Supplemental document]({{page.material}})
+* [Fabrication blueprint]({{page.blueprint}})
 * [Representative image]({{page.image}})
 
 ### Citation
