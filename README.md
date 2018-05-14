@@ -128,6 +128,12 @@ Large files such as preprints or videos should *not* be uploaded to GitHub! We
 are still working on a more systematic approach to handling such large files,
 but for now, please store them at your IST website (http://pub.ist.ac.at/~yourusername).
 
+It is possible to add comments, which are not shown on the final web page, to [Markdown](http://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) pages with
+
+	[comment]: # (ADD TEXT OF THE COMMENT HERE)
+
+as explained in this [StackOverflow answer](https://stackoverflow.com/a/32190021/1835723).
+
 ## FAQ
 
 ### The website is not updating when I make edits or push changes
