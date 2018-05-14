@@ -43,10 +43,16 @@ bibtex: |
   keywords = {structural colorization, appearance, multiphoton lithography, direct laser writing, computational fabrication, computational design, shape optimization, FDTD, diffraction, Nanoscribe}
   }
 
-paper: https://repository.ist.ac.at/1024/1/NanoStructColor-Auzinger-paper.pdf
-material: https://repository.ist.ac.at/1024/2/NanoStructColor-Auzinger-supplemental.pdf
-blueprint: https://repository.ist.ac.at/1024/6/NanoStructColor-Auzinger-blueprint.7z
-image: https://repository.ist.ac.at/1024/3/NanoStructColor-Auzinger-image.jpg
+
+paper: https://pub.ist.ac.at/~tauzinge/NanoStructColor-Auzinger-paper.pdf
+material: https://pub.ist.ac.at/~tauzinge/NanoStructColor-Auzinger-supplemental.pdf
+blueprint: https://pub.ist.ac.at/~tauzinge/NanoStructColor-Auzinger-blueprint.7z
+image: https://pub.ist.ac.at/~tauzinge/NanoStructColor-Auzinger-image.jpg
+
+[comment]: # (paper: https://repository.ist.ac.at/1024/1/NanoStructColor-Auzinger-paper.pdf)
+[comment]: # (material: https://repository.ist.ac.at/1024/2/NanoStructColor-Auzinger-supplemental.pdf)
+[comment]: # (blueprint: https://repository.ist.ac.at/1024/6/NanoStructColor-Auzinger-blueprint.7z)
+[comment]: # (image: https://repository.ist.ac.at/1024/3/NanoStructColor-Auzinger-image.jpg)
 
 abstract: |
   Additive manufacturing has recently seen drastic improvements in resolution, making it now possible to fabricate features at scales of hundreds or even dozens of nanometers, which previously required very expensive lithographic methods. As a result, additive manufacturing now seems poised for optical applications, including those relevant to computer graphics, such as material design, as well as display and imaging applications.
