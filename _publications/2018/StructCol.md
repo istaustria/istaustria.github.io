@@ -44,10 +44,12 @@ bibtex: |
   }
 
 
+openaccess: https://repository.ist.ac.at/1024
 paper: https://repository.ist.ac.at/1024/1/NanoStructColor-Auzinger-paper.pdf
 material: https://repository.ist.ac.at/1024/2/NanoStructColor-Auzinger-supplemental.pdf
 blueprint: https://repository.ist.ac.at/1024/6/NanoStructColor-Auzinger-blueprint.7z
 image: https://repository.ist.ac.at/1024/3/NanoStructColor-Auzinger-image.jpg
+doi: http://doi.acm.org/10.1145/3197517.3201376
 
 abstract: |
   Additive manufacturing has recently seen drastic improvements in resolution, making it now possible to fabricate features at scales of hundreds or even dozens of nanometers, which previously required very expensive lithographic methods. As a result, additive manufacturing now seems poised for optical applications, including those relevant to computer graphics, such as material design, as well as display and imaging applications.
@@ -83,6 +85,12 @@ teaser:
 * [Supplemental document]({{page.material}})
 * [Fabrication blueprint]({{page.blueprint}})
 * [Representative image]({{page.image}})
+<br>
+
+* [![ISTPubRep](IST_PubRep_logo.png){: width="80x"}]({{page.openaccess}}) [Open Access project page]({{page.openaccess}})
+<br>
+
+* [![ACM](ACM_logo.svg){: width="40x"}]({{page.doi}}) &nbsp;&nbsp;&nbsp; [Official publisher page]({{page.doi}})
 
 ### Citation
 
