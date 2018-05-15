@@ -87,10 +87,10 @@ teaser:
 * [Representative image]({{page.image}})
 <br>
 
-* [![ISTPubRep](IST_PubRep_logo.png){: width="80x"}]({{page.openaccess}}) [Open Access project page]({{page.openaccess}})
+* [Open Access project page]({{page.openaccess}}) &nbsp; [![ISTPubRep](IST_PubRep_logo.png){: width="80x"}]({{page.openaccess}}) 
 <br>
 
-* [![ACM](ACM_logo.svg){: width="40x"}]({{page.doi}}) &nbsp;&nbsp;&nbsp; [Official publisher page]({{page.doi}})
+* [Official publisher page]({{page.doi}}) &nbsp; [![ACM](ACM_logo.svg){: width="40x"}]({{page.doi}}) 
 
 ### Citation
 
