@@ -44,11 +44,11 @@ bibtex: |
   }
 
 
-openaccess: https://repository.ist.ac.at/1024
-paper: https://repository.ist.ac.at/1024/1/NanoStructColor-Auzinger-paper.pdf
-material: https://repository.ist.ac.at/1024/2/NanoStructColor-Auzinger-supplemental.pdf
-blueprint: https://repository.ist.ac.at/1024/6/NanoStructColor-Auzinger-blueprint.7z
-image: https://repository.ist.ac.at/1024/3/NanoStructColor-Auzinger-image.jpg
+openaccess: https://repository.ist.ac.at/1028
+paper: https://repository.ist.ac.at/1028/1/NanoStructColor-Auzinger-paper.pdf
+material: https://repository.ist.ac.at/1028/7/NanoStructColor-Auzinger-supplemental.pdf
+blueprint: https://repository.ist.ac.at/1028/6/NanoStructColor-Auzinger-blueprint.7z
+image: https://repository.ist.ac.at/1028/3/NanoStructColor-Auzinger-image.jpg
 doi: http://doi.acm.org/10.1145/3197517.3201376
 
 abstract: |
