@@ -74,8 +74,6 @@ teaser:
 * [Video]({{page.video}})
 <br>
 
-* [Official publisher page]({{page.doi}}) &nbsp; [![ACM](ACM_logo.svg){: width="40x"}]({{page.doi}}) 
-
 ### Supplementary video
 
 {% include youtube.html id='U38cKk-sxyY' %}
