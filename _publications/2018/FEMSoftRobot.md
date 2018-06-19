@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Efficient FEM-Based Simulation of Soft Robots Modeled as Kinematic Chains"
+title: "Efficient FEM Based Simulation of Soft Robots Modeled as Kinematic Chains"
 
 authors:
 
