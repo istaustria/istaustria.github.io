@@ -15,16 +15,16 @@ authors:
     url: http://www.user.tu-berlin.de/raphael.deimel/
   - name: Malvezzi, Monica
     affiliations: [1]
-    url: https://ran-zhang.com/
+    url: https://www.iit.it/people/monica-malvezzi
   - name: Bickel, Bernd
     affiliations: [2]
     url: http://berndbickel.com/
   - name: Brock, Oliver
     affiliations: [4]
-    url: http://www-ui.is.s.u-tokyo.ac.jp/~takeo/index.html
+    url: https://www.robotics.tu-berlin.de/menue/team/oliver_brock
   - name: Prattichizzo, Domenico
     affiliations: [1]
-    url: http://www-ui.is.s.u-tokyo.ac.jp/~takeo/index.html
+    url: http://www.dii.unisi.it/~domenico/
 
 
 affiliations:
