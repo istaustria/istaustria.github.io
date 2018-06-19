@@ -64,7 +64,9 @@ teaser:
 
 ## {{ page.title }}
 
-{% include figure.html caption=page.teaser.caption images=page.teaser.images columns=1 %}
+### Supplementary video
+
+{% include youtube.html id='5RdYZfqTI1Y' %}
 
 {% include authors.html authors=page.authors affiliations=page.affiliations %}
 
