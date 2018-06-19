@@ -1,4 +1,4 @@
----
+--- 
 layout: publication
 title: "Efficient FEM-Based Simulation of Soft Robots Modeled as Kinematic Chains"
 
@@ -25,7 +25,6 @@ authors:
   - name: Prattichizzo, Domenico
     affiliations: [1]
     url: http://www.dii.unisi.it/~domenico/
-
 
 affiliations:
   - name: University of Siena and Instituto Italiano di Tecnologia
