@@ -92,4 +92,4 @@ This work was supported by the European Comission Grant No. H2020-ICT-645599, â€
 [comment]: # (ADD TEXT)
 
 ![EU](flag_yellow_low.jpg){: width="150x"}
-![SOMA](LOGO-SOMA.png){: width="150px"}
+![SOMA](LOGO-SOMA.png){: width="300px"}
