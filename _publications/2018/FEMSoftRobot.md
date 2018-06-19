@@ -39,7 +39,18 @@ affiliations:
 publication: IEEE International Conference on Robotics and Automation 2018
 date: 2018-03-10
 
+paper: http://pub.ist.ac.at/~bbickel/downloads/Pozzi-Miguel-18-ICRA.pdf
+video: https://www.youtube.com/watch?v=5RdYZfqTI1Y
 
+abstract: |
+  In the context of robotic manipulation and grasping, the shift from a view that is static (force closure of a single posture) and contact-deprived (only contact for force closure is allowed, everything else is obstacle) towards a view that is dynamic and contact-rich (soft manipulation) has led to an increased interest in soft hands. These hands can easily exploit environmental constraints and object surfaces without risk, and safely interact with humans, but present also some challenges. Designing them is difficult, as well as predicting, modelling, and “programming” their interactions with the objects and the environment. This paper tackles the problem of simulating them in a fast and effective way, leveraging on novel and existing simulation technologies. We present a triple-layered simulation framework where dynamic properties such as stiffness are determined from slow but accurate FEM simulation data once, and then condensed into a lumped parameter model that can be used to fast simulate soft fingers and soft hands. We apply our approach to the simulation of soft pneumatic fingers. 
+
+teaser:
+  caption: |
+
+  images:
+  - url: teaser.jpg
+    alt: teaser
 ---
 
 ## {{ page.title }}
