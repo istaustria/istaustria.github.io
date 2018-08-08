@@ -46,7 +46,7 @@ bibtex: |
   pages = {135:1--135:13},
   articleno = {135},
   numpages = {16},
-  url = {http://dx.doi.org/10.1145/3197517.3201341},
+  url = {https://dx.doi.org/10.1145/3197517.3201341},
   doi = {10.1145/3197517.3201341},
   acmid = {3201341},
   publisher = {ACM},
@@ -55,11 +55,15 @@ bibtex: |
   }
 
 
-[comment]: # (paper: ADD LINK)
-[comment]: # (video: ADD LINK)
+openaccess: https://repository.ist.ac.at/id/eprint/1037
+paper: https://repository.ist.ac.at/1037/1/CoreCavity-AuthorVersion.pdf
+material: https://repository.ist.ac.at/1037/2/CoreCavity-Supplemental.zip
+video: https://repository.ist.ac.at/1037/3/CoreCavity-Video.mp4
+image: https://repository.ist.ac.at/1037/4/CoreCavity-RepresentativeImage.jpg
+doi: https://dx.doi.org/10.1145/3197517.3201341
 
 abstract: |
-  Coming soon.
+  Molding is a popular mass production method, in which the initial expenses for the mold are offset by the low per-unit production cost. However, the physical fabrication constraints of the molding technique commonly restrict the shape of moldable objects. For a complex shape, a decomposition of the object into moldable parts is a common strategy to address these constraints, with plastic model kits being a popular and illustrative example. However, conducting such a decomposition requires considerable expertise, and it depends on the technical aspects of the fabrication technique, as well as aesthetic considerations. We present an interactive technique to create such decompositions for two-piece molding, in which each part of the object is cast between two rigid mold pieces. Given the surface description of an object, we decompose its thin-shell equivalent into moldable parts by first performing a coarse decomposition and then utilizing an active contour model for the boundaries between individual parts. Formulated as an optimization problem, the movement of the contours is guided by an energy reflecting fabrication constraints to ensure the moldability of each part. Simultaneously the user is provided with editing capabilities to enforce aesthetic guidelines. Our interactive interface provides control of the contour positions by allowing, for example, the alignment of part boundaries with object features. Our technique enables a novel workflow, as it empowers novice users to explore the design space, and it generates fabrication-ready two-piece molds that can be used either for casting or industrial injection molding of free-form objects.
 
 teaser:
   caption: |
@@ -84,18 +88,30 @@ teaser:
 
 ### Links
 
-[comment]: # (* [Paper]({{page.paper}})
-[comment]: # (* [Video]({{page.video}})
-* Paper: coming soon
-* Video: coming soon
+* [Paper]({{page.paper}})
+* [Supplemental document]({{page.material}})
+* [Video]({{page.video}})
+* [Representative image]({{page.image}})
+<br>
+
+* [Open Access project page]({{page.openaccess}}) &nbsp; [![ISTPubRep](IST_PubRep_logo.png){: width="80x"}]({{page.openaccess}}) 
+<br>
+
+* [Official publisher page]({{page.doi}}) &nbsp; [![ACM](ACM_logo.svg){: width="40x"}]({{page.doi}}) 
 
 ### Citation
 
 {% include citation.html citation=page.bibtex %}
 
-[comment]: # (### Acknowledgements)
+### Acknowledgements
 
-[comment]: # (ADD TEXT)
+From Thingiverse, we obtained the models kitten (thing:12694), airplane (thing:689974), and Beethoven (thing:4108), while bunny was obtained from the Stanford 3D Scanning Repository and fertility from VISIONAIR.
+Some models were modified (e.g., filling holes).
+The sculpture model was generated with the Sculpture Generator 1 by Carlo H. Séquin, UC Berkeley.
+Kazutaka Nakashima is supported by the Japan Science and Technology Agency ACT-I Grant No.: JPMJPR16UK (<http://www.jst.go.jp/kisoken/act-i/en/project/111C001/111C001_20.html>), and Graduate Program for Social ICT Global Creative Leaders (GCL) of The University of Tokyo by Japan society for the promotion of science.
+Thomas Auzinger and Bernd Bickel are supported by the European Research Council Starting Grants under Grant No.: 715767 (<https://cordis.europa.eu/project/rcn/206323_en.html>).
+Ran Zhang is supported by the Marie Skłodowska-Curie Innovative Training Networks under Grant No.: 642841 (<https://cordis.europa.eu/project/rcn/193953_en.html>).
+Takeo Igarashi is supported by the Japan Society for the Promotion of Science KAKENHI under Grant No.: 17H00752 (<https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-17H00752/>).
 
 ![EU](flag_yellow_low.jpg){: width="150x"}
 ![ERC](LOGO-ERC.jpg){: width="150px"}
