@@ -6,22 +6,22 @@ authors:
 
   - name: Alderighi, Thomas
     affiliations: [1,2]
-    url: http://www.nobuyuki-umetani.com/
+    url: http://vcg.isti.cnr.it/~alderighi/
   - name: Malomo, Luigi
     affiliations: [1]
-    url: http://www.nobuyuki-umetani.com/
+    url: http://vcg.isti.cnr.it/~malomo/
   - name: Giorgi, Daniela
     affiliations: [1]
-    url: http://www.nobuyuki-umetani.com/
+    url: http://www.isti.cnr.it/about/people.php?id=495
   - name: Pietroni, Nico
     affiliations: [1,3]
-    url: http://www.nobuyuki-umetani.com/
+    url: http://vcg.isti.cnr.it/~pietroni/
   - name: Bickel, Bernd
     affiliations: [4]
-    url: http://www.nobuyuki-umetani.com/
+    url: http://berndbickel.com/about-me/
   - name: Cignoni, Paolo
     affiliations: [1]
-    url: http://berndbickel.com/about-me/
+    url: http://vcg.isti.cnr.it/~cignoni/
 
 affiliations:
   - name: ISTI - CNR
