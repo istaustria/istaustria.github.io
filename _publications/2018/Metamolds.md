@@ -5,7 +5,7 @@ title: "Metamolds: Computational Design of Silicone Molds"
 authors:
 
   - name: Alderighi, Thomas
-    affiliations: [1]
+    affiliations: [1,2]
     url: http://www.nobuyuki-umetani.com/
   - name: Malomo, Luigi
     affiliations: [1]
@@ -14,13 +14,13 @@ authors:
     affiliations: [1]
     url: http://www.nobuyuki-umetani.com/
   - name: Pietroni, Nico
-    affiliations: [1]
+    affiliations: [1,3]
     url: http://www.nobuyuki-umetani.com/
   - name: Bickel, Bernd
-    affiliations: [1]
+    affiliations: [4]
     url: http://www.nobuyuki-umetani.com/
   - name: Cignoni, Paolo
-    affiliations: [2]
+    affiliations: [1]
     url: http://berndbickel.com/about-me/
 
 affiliations:
