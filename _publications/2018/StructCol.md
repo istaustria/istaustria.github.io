@@ -85,7 +85,7 @@ teaser:
 * [Paper]({{page.paper}})
 * [Supplemental document]({{page.material}})
 * [Fabrication blueprint]({{page.blueprint}})
-* [Representative image]({{page.image}})
+* [Representative image]({{page.image}}) ([without zoom-ins](representative-image_no-zoom.png))
 <br>
 
 * [Open Access project page]({{page.openaccess}}) &nbsp; [![ISTPubRep](IST_PubRep_logo.png){: width="80x"}]({{page.openaccess}}) 
