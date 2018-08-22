@@ -44,11 +44,12 @@ bibtex: |
   }
 
 
-openaccess: https://repository.ist.ac.at/1028
-paper: https://repository.ist.ac.at/1028/1/NanoStructColor-Auzinger-paper.pdf
-material: https://repository.ist.ac.at/1028/7/NanoStructColor-Auzinger-supplemental.pdf
-blueprint: https://repository.ist.ac.at/1028/6/NanoStructColor-Auzinger-blueprint.7z
-image: https://repository.ist.ac.at/1028/3/NanoStructColor-Auzinger-image.jpg
+openaccess: https://repository.ist.ac.at/1041
+paper: https://repository.ist.ac.at/1041/1/NanoStructColor-Auzinger-paper.pdf
+material: https://repository.ist.ac.at/1041/7/NanoStructColor-Auzinger-supplemental.pdf
+blueprint: https://repository.ist.ac.at/1041/6/NanoStructColor-Auzinger-blueprint.7z
+image: https://repository.ist.ac.at/1041/3/NanoStructColor-Auzinger-image.jpg
+presentation: https://repository.ist.ac.at/1041/9/NanoStructColor-Auzinger-presentation.pptx
 doi: http://doi.acm.org/10.1145/3197517.3201376
 press: https://ist.ac.at/nc/news-media/news/news-detail/article/color-effects-from-transparent-3d-printed-nanostructures/6/
 
@@ -91,7 +92,8 @@ teaser:
 * SIGGRAPH 2018 Technical Papers Fast-forward video:
     * [with closed captions](fast-forward_captioned.mp4)
     * [without closed captions](fast-forward.mp4)
-    <br><br>
+* [SIGGRAPH 2018 Presentation]({{page.presentation}})
+<br>
 
 * [Open Access project page]({{page.openaccess}}) &nbsp; [![ISTPubRep](IST_PubRep_logo.png){: width="80x"}]({{page.openaccess}}) 
 <br>
