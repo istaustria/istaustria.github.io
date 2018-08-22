@@ -61,6 +61,7 @@ material: https://repository.ist.ac.at/1037/2/CoreCavity-Supplemental.zip
 video: https://repository.ist.ac.at/1037/3/CoreCavity-Video.mp4
 image: https://repository.ist.ac.at/1037/4/CoreCavity-RepresentativeImage.jpg
 doi: https://dx.doi.org/10.1145/3197517.3201341
+press: https://ist.ac.at/nc/news-media/news/news-detail/article/interactive-software-tool-makes-complex-mold-design-simple/6/
 
 abstract: |
   Molding is a popular mass production method, in which the initial expenses for the mold are offset by the low per-unit production cost. However, the physical fabrication constraints of the molding technique commonly restrict the shape of moldable objects. For a complex shape, a decomposition of the object into moldable parts is a common strategy to address these constraints, with plastic model kits being a popular and illustrative example. However, conducting such a decomposition requires considerable expertise, and it depends on the technical aspects of the fabrication technique, as well as aesthetic considerations. We present an interactive technique to create such decompositions for two-piece molding, in which each part of the object is cast between two rigid mold pieces. Given the surface description of an object, we decompose its thin-shell equivalent into moldable parts by first performing a coarse decomposition and then utilizing an active contour model for the boundaries between individual parts. Formulated as an optimization problem, the movement of the contours is guided by an energy reflecting fabrication constraints to ensure the moldability of each part. Simultaneously the user is provided with editing capabilities to enforce aesthetic guidelines. Our interactive interface provides control of the contour positions by allowing, for example, the alignment of part boundaries with object features. Our technique enables a novel workflow, as it empowers novice users to explore the design space, and it generates fabrication-ready two-piece molds that can be used either for casting or industrial injection molding of free-form objects.
@@ -97,7 +98,8 @@ teaser:
 * [Open Access project page]({{page.openaccess}}) &nbsp; [![ISTPubRep](IST_PubRep_logo.png){: width="80x"}]({{page.openaccess}}) 
 <br>
 
-* [Official publisher page]({{page.doi}}) &nbsp; [![ACM](ACM_logo.svg){: width="40x"}]({{page.doi}}) 
+* [Official publisher page]({{page.doi}}) &nbsp; [![ACM](ACM_logo.svg){: width="40x"}]({{page.doi}})
+* [Official press release]({{page.press}})
 
 ### Citation
 

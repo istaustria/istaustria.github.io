@@ -50,6 +50,7 @@ material: https://repository.ist.ac.at/1028/7/NanoStructColor-Auzinger-supplemen
 blueprint: https://repository.ist.ac.at/1028/6/NanoStructColor-Auzinger-blueprint.7z
 image: https://repository.ist.ac.at/1028/3/NanoStructColor-Auzinger-image.jpg
 doi: http://doi.acm.org/10.1145/3197517.3201376
+press: https://ist.ac.at/nc/news-media/news/news-detail/article/color-effects-from-transparent-3d-printed-nanostructures/6/
 
 abstract: |
   Additive manufacturing has recently seen drastic improvements in resolution, making it now possible to fabricate features at scales of hundreds or even dozens of nanometers, which previously required very expensive lithographic methods. As a result, additive manufacturing now seems poised for optical applications, including those relevant to computer graphics, such as material design, as well as display and imaging applications.
@@ -90,7 +91,8 @@ teaser:
 * [Open Access project page]({{page.openaccess}}) &nbsp; [![ISTPubRep](IST_PubRep_logo.png){: width="80x"}]({{page.openaccess}}) 
 <br>
 
-* [Official publisher page]({{page.doi}}) &nbsp; [![ACM](ACM_logo.svg){: width="40x"}]({{page.doi}}) 
+* [Official publisher page]({{page.doi}}) &nbsp; [![ACM](ACM_logo.svg){: width="40x"}]({{page.doi}})
+* [Official press release]({{page.press}})
 
 ### Citation
 
