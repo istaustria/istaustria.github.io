@@ -82,7 +82,7 @@ teaser:
 
 ### Supplementary video
 
-{% include bitchute.html id='Sfq1tv75BqZI' %}
+{% include bitchute.html id='5aNKUA8klA64' %}
 
 ### Fast-forward
 
