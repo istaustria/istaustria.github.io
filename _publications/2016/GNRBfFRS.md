@@ -86,11 +86,11 @@ teaser:
 
 ### Supplementary video
 
-{% include youtube.html id='-Dzbi7x9Ark' %}
+{% include bitchute.html id='JqtlNbiqRND3' %}
 
 ### Fast-forward
 
-{% include youtube.html id='9Ft9aRfpZ8U' %}
+{% include bitchute.html id='UlIAwAJPz279' %}
 
 ### Links
 
