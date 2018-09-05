@@ -12,7 +12,7 @@ authors:
     url: http://vcg.isti.cnr.it/~malomo/
   - name: Giorgi, Daniela
     affiliations: [1]
-    url: http://www.isti.cnr.it/about/people.php?id=495
+    url: http://vcg.isti.cnr.it/~giorgi/
   - name: Pietroni, Nico
     affiliations: [1,3]
     url: http://vcg.isti.cnr.it/~pietroni/
