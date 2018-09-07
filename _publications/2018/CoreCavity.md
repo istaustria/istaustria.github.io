@@ -101,6 +101,10 @@ teaser:
 * [Official publisher page]({{page.doi}}) &nbsp; [![ACM](ACM_logo.svg){: width="40x"}]({{page.doi}})
 * [Official press release]({{page.press}})
 
+### Supplementary video
+
+{% include youtube.html id='UZ9hR9qLMAY' %}
+
 ### Citation
 
 {% include citation.html citation=page.bibtex %}
