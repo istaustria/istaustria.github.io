@@ -94,6 +94,16 @@ teaser:
 * [Video]({{page.video}})
 <br>
 
+### Stay Updated
+
+Are you interested in our ongoing development or a potential release of this software?
+<br>
+Provide your email below - we will contact you:
+<form method="POST" action="https://formspree.io/thomas.auzinger@ist.ac.at">
+  <input name="email" placeholder="Your email" type="email">
+  <button type="submit">Send</button>
+</form>
+
 ### Supplementary video
 
 {% include youtube.html id='7M2TbQnRLNg' %}

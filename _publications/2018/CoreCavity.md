@@ -101,6 +101,16 @@ teaser:
 * [Official publisher page]({{page.doi}}) &nbsp; [![ACM](ACM_logo.svg){: width="40x"}]({{page.doi}})
 * [Official press release]({{page.press}})
 
+### Stay Updated
+
+Are you interested in our ongoing development or a potential release of this software?
+<br>
+Provide your email below - we will contact you:
+<form method="POST" action="https://formspree.io/thomas.auzinger@ist.ac.at">
+  <input name="email" placeholder="Your email" type="email">
+  <button type="submit">Send</button>
+</form>
+
 ### Supplementary video
 
 {% include youtube.html id='UZ9hR9qLMAY' %}
