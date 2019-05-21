@@ -34,7 +34,7 @@ bibtex: |
   }
 
 
-paper: https://repository.ist.ac.at/1084/1/fsww19.pdf
+paper: https://seafile.ist.ac.at/f/f4d06d7d7f5d4938b7e3/
 video: https://seafile.ist.ac.at/f/144e54f8c8ed4f718d7d/
 doi: https://doi.org/10.1145/3306346.3323002
 
@@ -65,8 +65,9 @@ teaser:
 
 ### Links
 
-* [Paper](https://repository.ist.ac.at/1084/1/fsww19.pdf)
+* [Paper](https://seafile.ist.ac.at/f/f4d06d7d7f5d4938b7e3/)
 * [Video](https://seafile.ist.ac.at/f/144e54f8c8ed4f718d7d/)
+* [Sources] Coming soon...
 <br>
 
 ### Citation
