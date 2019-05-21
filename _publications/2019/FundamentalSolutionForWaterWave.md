@@ -34,8 +34,8 @@ bibtex: |
   }
 
 
-paper: https://seafile.ist.ac.at/f/f4d06d7d7f5d4938b7e3/
-video: https://seafile.ist.ac.at/f/144e54f8c8ed4f718d7d/
+paper: http://pub.ist.ac.at/group_wojtan/projects/2019_Schreck_FSfWWA/fsww_author_version.pdf 
+video: http://pub.ist.ac.at/group_wojtan/projects/2019_Schreck_FSfWWA/fsww_siggraph19_art130.mp4
 doi: https://doi.org/10.1145/3306346.3323002
 
 abstract: |
@@ -65,9 +65,9 @@ teaser:
 
 ### Links
 
-* [Paper](https://seafile.ist.ac.at/f/f4d06d7d7f5d4938b7e3/)
-* [Video](https://seafile.ist.ac.at/f/144e54f8c8ed4f718d7d/)
-* [Sources] Coming soon...
+* [Paper](http://pub.ist.ac.at/group_wojtan/projects/2019_Schreck_FSfWWA/fsww_author_version.pdf)
+* [Video](http://pub.ist.ac.at/group_wojtan/projects/2019_Schreck_FSfWWA/fsww_siggraph19_art130.mp4)
+* Sources Coming soon...
 <br>
 
 ### Citation
