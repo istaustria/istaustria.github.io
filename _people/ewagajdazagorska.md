@@ -1,7 +1,7 @@
 ---
 id: ewagajdazagorska 
 name: Gajda-Zagórska, Ewa
-type: postdoc # one of [faculty, assistant, postdoc, phdstudent, intern]
+type: alumni # one of [faculty, assistant, postdoc, phdstudent, intern]
 
 # optional fields
 room: Lab Building West, 2nd floor, 106
