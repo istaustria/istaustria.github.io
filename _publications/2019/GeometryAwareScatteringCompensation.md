@@ -10,10 +10,10 @@ authors:
   - name: Rittig, Tobias
     affiliations: [2]
     url: https://cgg.mff.cuni.cz/~tobias/
-	- name: Babaei, Vahid
+  - name: Babaei, Vahid
     affiliations: [1]
     url: https://cam.mpi-inf.mpg.de/?view=vahid
-	- name: Myszkowski, Karol
+  - name: Myszkowski, Karol
     affiliations: [1]
     url: https://people.mpi-inf.mpg.de/~karol/
   - name: Bickel, Bernd
