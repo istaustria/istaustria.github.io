@@ -3,7 +3,6 @@ layout: publication
 title: "Geometry-Aware Scattering Compensation"
 
 authors:
-
   - name: Sumin, Denis
     affiliations: [1]
     url: https://people.mpi-inf.mpg.de/~dsumin/
