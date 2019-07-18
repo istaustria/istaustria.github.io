@@ -53,7 +53,7 @@ bibtex: |
   volume = 38,
   numpages = 14,
   keywords = {computational fabrication, appearance reproduction, appearance enhancement, sub-surface light transport, volu- metric optimization, gradient rendering},
-}
+  }
 
 
 paper: http://reality.cs.ucl.ac.uk/projects/texture-repro/sumin19geometry-aware-lowres.pdf
@@ -69,7 +69,6 @@ teaser:
   images:
   - url: teaser.jpg
     alt: teaser
-
 ---
 
 ## {{ page.title }}
