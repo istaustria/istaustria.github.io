@@ -57,7 +57,7 @@ bibtex: |
  publisher = {ACM},
  address = {New York, NY, USA},
  keywords = {casting, fabrication, mold design},
-}
+  }
 
 
 paper: http://vcg.isti.cnr.it/Publications/2019/AMGBCP19/composite_molds_authorsversion.pdf
