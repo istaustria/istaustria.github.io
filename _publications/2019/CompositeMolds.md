@@ -3,7 +3,6 @@ layout: publication
 title: "Volume-Aware Design of Composite Molds"
 
 authors:
-
   - name: Alderighi, Thomas
     affiliations: [1,2]
     url: http://vcg.isti.cnr.it/~alderighi/
@@ -39,24 +38,24 @@ doi: https://doi.org/10.1145/3306346.3322981
 
 bibtex: |
   @article{Alderighi:2019,
- author = {Alderighi, Thomas and Malomo, Luigi and Giorgi, Daniela and Bickel, Bernd and Cignoni, Paolo and Pietroni, Nico},
- title = {Volume-aware Design of Composite Molds},
- journal = {ACM Trans. Graph.},
- issue_date = {July 2019},
- volume = {38},
- number = {4},
- month = jul,
- year = {2019},
- issn = {0730-0301},
- pages = {110:1--110:12},
- articleno = {110},
- numpages = {12},
- url = {http://doi.acm.org/10.1145/3306346.3322981},
- doi = {10.1145/3306346.3322981},
- acmid = {3322981},
- publisher = {ACM},
- address = {New York, NY, USA},
- keywords = {casting, fabrication, mold design},
+  author = {Alderighi, Thomas and Malomo, Luigi and Giorgi, Daniela and Bickel, Bernd and Cignoni, Paolo and Pietroni, Nico},
+  title = {Volume-aware Design of Composite Molds},
+  journal = {ACM Trans. Graph.},
+  issue_date = {July 2019},
+  volume = {38},
+  number = {4},
+  month = jul,
+  year = {2019},
+  issn = {0730-0301},
+  pages = {110:1--110:12},
+  articleno = {110},
+  numpages = {12},
+  url = {http://doi.acm.org/10.1145/3306346.3322981},
+  doi = {10.1145/3306346.3322981},
+  acmid = {3322981},
+  publisher = {ACM},
+  address = {New York, NY, USA},
+  keywords = {casting, fabrication, mold design},
   }
 
 
