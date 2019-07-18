@@ -22,7 +22,6 @@ authors:
   - name: Pietroni, Nico
     affiliations: [1,3]
     url: http://vcg.isti.cnr.it/~pietroni/
-
 	
 affiliations:
   - name: ISTI - CNR
