@@ -106,5 +106,6 @@ teaser:
 We thank Donald Degraen for helping with the post-processing of the printouts, Sketchfab users William Zarek (Octo Star), laurashea (Red Vase) and CMPLab (Yellow Vase) for the models and the reviewers for their valuable feedback. This project has received funding from the European Union’s Horizon 2020 research and innovation programme, under the MSCA Marie Skłodowska-Curie grant agreement No 642841 (DISTRO), and under the European Research Council grant agreement No 715767 (MATERIALIZABLE). It was further supported by the Czech Science Foundation grants 16-18964S, 16-08111S and 19-07626S.
 
 
+
 ![EU](flag_yellow_low.jpg){: width="150x"}
 ![ERC](LOGO-ERC.jpg){: width="150px"}
