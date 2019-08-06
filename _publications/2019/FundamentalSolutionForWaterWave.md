@@ -67,7 +67,7 @@ teaser:
 
 * [Paper](http://pub.ist.ac.at/group_wojtan/projects/2019_Schreck_FSfWWA/fsww_author_version.pdf)
 * [Video](http://pub.ist.ac.at/group_wojtan/projects/2019_Schreck_FSfWWA/fsww_siggraph19_art130.mp4)
-* Sources Coming soon...
+* [Sources](https://github.com/schreckc/FSWW)
 <br>
 
 ### Citation
