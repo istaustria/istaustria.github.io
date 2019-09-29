@@ -44,12 +44,12 @@ bibtex: |
   }
 
 
-openaccess: https://repository.ist.ac.at/1041
-paper: https://repository.ist.ac.at/1041/1/NanoStructColor-Auzinger-paper.pdf
-material: https://repository.ist.ac.at/1041/7/NanoStructColor-Auzinger-supplemental.pdf
-blueprint: https://repository.ist.ac.at/1041/6/NanoStructColor-Auzinger-blueprint.7z
-image: https://repository.ist.ac.at/1041/3/NanoStructColor-Auzinger-image.jpg
-presentation: https://repository.ist.ac.at/1041/9/NanoStructColor-Auzinger-presentation.pptx
+openaccess: https://research-explorer.app.ist.ac.at/record/304
+paper: https://research-explorer.app.ist.ac.at/download/304/5342/IST-2018-1024-v3%2B1_NanoStructColor-Auzinger-paper.pdf
+material: https://research-explorer.app.ist.ac.at/download/304/5345/IST-2018-1024-v3%2B5_NanoStructColor-Auzinger-supplemental.pdf
+blueprint: https://research-explorer.app.ist.ac.at/download/304/5344/IST-2018-1024-v3%2B4_NanoStructColor-Auzinger-blueprint.7z
+image: https://research-explorer.app.ist.ac.at/download/304/5343/IST-2018-1024-v3%2B3_NanoStructColor-Auzinger-image.jpg
+presentation: https://research-explorer.app.ist.ac.at/download/304/5346/IST-2018-1024-v3%2B6_NanoStructColor-Auzinger-presentation.pptx
 doi: http://doi.acm.org/10.1145/3197517.3201376
 press: https://ist.ac.at/nc/news-media/news/news-detail/article/color-effects-from-transparent-3d-printed-nanostructures/6/
 
