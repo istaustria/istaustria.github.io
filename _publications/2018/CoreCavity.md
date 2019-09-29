@@ -55,11 +55,11 @@ bibtex: |
   }
 
 
-openaccess: https://repository.ist.ac.at/id/eprint/1037
-paper: https://repository.ist.ac.at/1037/1/CoreCavity-AuthorVersion.pdf
-material: https://repository.ist.ac.at/1037/2/CoreCavity-Supplemental.zip
-video: https://repository.ist.ac.at/1037/3/CoreCavity-Video.mp4
-image: https://repository.ist.ac.at/1037/4/CoreCavity-RepresentativeImage.jpg
+openaccess: https://research-explorer.app.ist.ac.at/record/12
+paper: https://research-explorer.app.ist.ac.at/download/12/5360/IST-2018-1037-v1%2B1_CoreCavity-AuthorVersion.pdf
+material: https://research-explorer.app.ist.ac.at/download/12/5361/IST-2018-1037-v1%2B2_CoreCavity-Supplemental.zip
+video: https://research-explorer.app.ist.ac.at/download/12/5362/IST-2018-1037-v1%2B3_CoreCavity-Video.mp4
+image: https://research-explorer.app.ist.ac.at/download/12/5363/IST-2018-1037-v1%2B4_CoreCavity-RepresentativeImage.jpg
 doi: https://dx.doi.org/10.1145/3197517.3201341
 press: https://ist.ac.at/nc/news-media/news/news-detail/article/interactive-software-tool-makes-complex-mold-design-simple/6/
 
