@@ -47,7 +47,7 @@ bibtex: |
   editor       = "Carlos L\'azaro, Kai-Uwe Bletzinger, Eugenio O\~{n}ate",
   publisher    = "International Centre for Numerical Methods in Engineering (CIMNE)",
   url          = "http://vcg.isti.cnr.it/Publications/2019/LMPPPBC19"
-}
+  }
 
 paper: http://vcg.isti.cnr.it/Publications/2019/LMPPPBC19/IASS2019FlexMaps_Preprint.pdf
 
