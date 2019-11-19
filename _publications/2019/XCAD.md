@@ -90,10 +90,6 @@ teaser:
 * [Video]({{page.video}})
 * [Official publisher page]({{page.doi}}) &nbsp; [![ACM](ACM_logo.svg){: width="40x"}]({{page.doi}})
 
-### Supplementary video
-
-{% include youtube.html id='SO349S8-x_w' %}
-
 ### Citation
 
 {% include citation.html citation=page.bibtex %}
