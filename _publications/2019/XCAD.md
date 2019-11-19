@@ -1,4 +1,4 @@
----
+ ---
 layout: publication
 title: "X-CAD: Optimizing CAD Models with Extended Finite Elements"
 
