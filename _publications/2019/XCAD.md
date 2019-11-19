@@ -52,12 +52,13 @@ bibtex: |
   publisher = {ACM},
   address = {New York, NY, USA},
   keywords = {CAD processing, XFEM, shape optimization, simulation},
-} 
+  } 
 
 
 paper: http://www.baecher.info/publications/xcad_siga19.pdf
 video: http://www.baecher.info/publications/xcad_siga19.mp4
 doi: https://doi.org/10.1145/3355089.3356576
+
 
 abstract: |
   We propose a novel generic shape optimization method for CAD models based on the eXtended Finite Element Method (XFEM). Our method works directly on the intersection between the model and a regular simulation grid, without the need to mesh or remesh, thus removing a bottleneck of classical shape optimization strategies. This is made possible by a novel hierarchical integration scheme that accurately integrates finite element quantities with sub-element precision. For optimization, we efficiently compute analytical shape derivatives of the entire framework, from model intersection to in- tegration rule generation and XFEM simulation. Moreover, we describe a differentiable projection of shape parameters onto a constraint manifold spanned by user-specified shape preservation, consistency, and manufactura- bility constraints. We demonstrate the utility of our approach by optimizing mass distribution, strength-to-weight ratio, and inverse elastic shape design objectives directly on parameterized 3D CAD models.
