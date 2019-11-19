@@ -1,4 +1,4 @@
- ---
+---
 layout: publication
 title: "X-CAD: Optimizing CAD Models with Extended Finite Elements"
 
@@ -34,24 +34,24 @@ doi: https://doi.org/10.1145/3355089.3356576
 
 bibtex: |
   @article{Hafner:2019,
- author = {Hafner, Christian and Schumacher, Christian and Knoop, Espen and Auzinger, Thomas and Bickel, Bernd and B\"{a}cher, Moritz},
- title = {X-CAD: Optimizing CAD Models with Extended Finite Elements},
- journal = {ACM Trans. Graph.},
- issue_date = {November 2019},
- volume = {38},
- number = {6},
- month = nov,
- year = {2019},
- issn = {0730-0301},
- pages = {157:1--157:15},
- articleno = {157},
- numpages = {15},
- url = {http://doi.acm.org/10.1145/3355089.3356576},
- doi = {10.1145/3355089.3356576},
- acmid = {3356576},
- publisher = {ACM},
- address = {New York, NY, USA},
- keywords = {CAD processing, XFEM, shape optimization, simulation},
+  author = {Hafner, Christian and Schumacher, Christian and Knoop, Espen and Auzinger, Thomas and Bickel, Bernd and B\"{a}cher, Moritz},
+  title = {X-CAD: Optimizing CAD Models with Extended Finite Elements},
+  journal = {ACM Trans. Graph.},
+  issue_date = {November 2019},
+  volume = {38},
+  number = {6},
+  month = nov,
+  year = {2019},
+  issn = {0730-0301},
+  pages = {157:1--157:15},
+  articleno = {157},
+  numpages = {15},
+  url = {http://doi.acm.org/10.1145/3355089.3356576},
+  doi = {10.1145/3355089.3356576},
+  acmid = {3356576},
+  publisher = {ACM},
+  address = {New York, NY, USA},
+  keywords = {CAD processing, XFEM, shape optimization, simulation},
 } 
 
 
