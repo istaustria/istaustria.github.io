@@ -5,22 +5,22 @@ title: "X-CAD: Optimizing CAD Models with Extended Finite Elements"
 authors:
   - name: Hafner, Christian
     affiliations: [1]
-    url: http://vcg.isti.cnr.it/~alderighi/
+    url: 
   - name: Schumacher, Christian
     affiliations: [2]
-    url: http://vcg.isti.cnr.it/~malomo/
+    url: http://schumacher.graphics/
   - name: Knoop, Espen
     affiliations: [2]
-    url: http://vcg.isti.cnr.it/~giorgi/
+    url: http://espenknoop.info/
   - name: Auzinger, Thomas
     affiliations: [1]
-    url: http://berndbickel.com/about-me/
+    url: http://auzinger.name/
   - name: Bickel, Bernd
     affiliations: [1]
-    url: http://vcg.isti.cnr.it/~cignoni/
+    url: http://berndbickel.com/
   - name: Baecher, Moritz
     affiliations: [2]
-    url: http://vcg.isti.cnr.it/~pietroni/
+    url: http://baecher.info/index.html
 
 affiliations:
   - name: IST Austria
@@ -55,8 +55,8 @@ bibtex: |
   } 
 
 
-paper: http://www.baecher.info/publications/xcad_siga19.pdf
-video: http://www.baecher.info/publications/xcad_siga19.mp4
+paper: https://research-explorer.app.ist.ac.at/download/7117/7120/XCAD_authors_version.pdf
+video: https://research-explorer.app.ist.ac.at/download/7117/7121/XCAD_video.mp4
 doi: https://doi.org/10.1145/3355089.3356576
 
 
