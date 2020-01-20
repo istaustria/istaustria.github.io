@@ -39,7 +39,7 @@ video: https://youtu.be/WPPmu5RUXkU
 ---
 
 abstract: |
-Advances in shape-morphing materials, such as hydrogels, shape-memory polymers and light-responsive polymers have enabled
+  Advances in shape-morphing materials, such as hydrogels, shape-memory polymers and light-responsive polymers have enabled
 prescribing self-directed deformations of initially flat geometries. However, most proposed solutions evolve towards a target
 geometry without considering time-dependent actuation paths. To achieve more complex geometries and avoid self-collisions,
 it is critical to encode a spatial and temporal shape evolution within the initially flat shell. Recent realizations of time-dependent
@@ -50,23 +50,22 @@ geometry. The ensuing midplane contraction is coupled to the formation of encode
 on a data-driven model for unit cells’ temporal responses.
 
 bibtex: |
-@Article{Guseinov2020,
-author={Guseinov, Ruslan
-and McMahan, Connor
-and P{\'e}rez, Jes{\'u}s
-and Daraio, Chiara
-and Bickel, Bernd},
-title={Programming temporal morphing of self-actuated shells},
-journal={Nature Communications},
-year={2020},
-volume={11},
-number={1},
-pages={237},
-abstract={Advances in shape-morphing materials, such as hydrogels, shape-memory polymers and light-responsive polymers have enabled prescribing self-directed deformations of initially flat geometries. However, most proposed solutions evolve towards a target geometry without considering time-dependent actuation paths. To achieve more complex geometries and avoid self-collisions, it is critical to encode a spatial and temporal shape evolution within the initially flat shell. Recent realizations of time-dependent morphing are limited to the actuation of few, discrete hinges and cannot form doubly curved surfaces. Here, we demonstrate a method for encoding temporal shape evolution in architected shells that assume complex shapes and doubly curved geometries. The shells are non-periodic tessellations of pre-stressed contractile unit cells that soften in water at rates prescribed locally by mesostructure geometry. The ensuing midplane contraction is coupled to the formation of encoded curvatures. We propose an inverse design tool based on a data-driven model for unit cells' temporal responses.},
-issn={2041-1723},
-doi={10.1038/s41467-019-14015-2},
-url={https://doi.org/10.1038/s41467-019-14015-2}
-}
+  @Article{Guseinov2020,
+  author={Guseinov, Ruslan
+  and McMahan, Connor
+  and P{\'e}rez, Jes{\'u}s
+  and Daraio, Chiara
+  and Bickel, Bernd},
+  title={Programming temporal morphing of self-actuated shells},
+  journal={Nature Communications},
+  year={2020},
+  volume={11},
+  number={1},
+  pages={237},
+  issn={2041-1723},
+  doi={10.1038/s41467-019-14015-2},
+  url={https://doi.org/10.1038/s41467-019-14015-2}
+  }
 
 teaser:
   caption: |
