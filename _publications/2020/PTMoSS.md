@@ -34,7 +34,7 @@ publication: Nature Communications (2020)
 date: 2020-01-14
 doi: https://doi.org/10.1038/s41467-019-14015-2
 
-paper: paper: http://pub.ist.ac.at/~rguseino/temporal-morphing-ncomms.pdf
+paper: http://pub.ist.ac.at/~rguseino/temporal-morphing-ncomms.pdf
 video: https://youtu.be/WPPmu5RUXkU
 ---
 
@@ -68,6 +68,14 @@ doi={10.1038/s41467-019-14015-2},
 url={https://doi.org/10.1038/s41467-019-14015-2}
 }
 
+teaser:
+  caption: |
+    Geometry and actuation time is encoded in a flat shell. This results in a morphing process without self-collisions.
+
+  images:
+  - url: teaser.png
+    alt: teaser
+	
 ## {{ page.title }}
 
 {% include figure.html caption=page.teaser.caption images=page.teaser.images columns=1 %}
