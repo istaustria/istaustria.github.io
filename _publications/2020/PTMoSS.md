@@ -51,11 +51,7 @@ on a data-driven model for unit cells’ temporal responses.
 
 bibtex: |
   @Article{Guseinov2020,
-  author={Guseinov, Ruslan
-  and McMahan, Connor
-  and P{\'e}rez, Jes{\'u}s
-  and Daraio, Chiara
-  and Bickel, Bernd},
+  author={Guseinov, Ruslan and McMahan, Connor and P{\'e}rez, Jes{\'u}s and Daraio, Chiara and Bickel, Bernd},
   title={Programming temporal morphing of self-actuated shells},
   journal={Nature Communications},
   year={2020},
