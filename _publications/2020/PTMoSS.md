@@ -36,7 +36,7 @@ doi: https://doi.org/10.1038/s41467-019-14015-2
 
 paper: http://pub.ist.ac.at/~rguseino/temporal-morphing-ncomms.pdf
 video: https://youtu.be/WPPmu5RUXkU
----
+
 
 abstract: |
   Advances in shape-morphing materials, such as hydrogels, shape-memory polymers and light-responsive polymers have enabled
@@ -74,7 +74,8 @@ teaser:
   images:
   - url: teaser.png
     alt: teaser
-	
+---
+
 ## {{ page.title }}
 
 {% include figure.html caption=page.teaser.caption images=page.teaser.images columns=1 %}
