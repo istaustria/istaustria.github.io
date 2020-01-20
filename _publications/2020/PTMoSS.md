@@ -47,7 +47,7 @@ morphing are limited to the actuation of few, discrete hinges and cannot form do
 for encoding temporal shape evolution in architected shells that assume complex shapes and doubly curved geometries. The shells are
 non-periodic tessellations of pre-stressed contractile unit cells that soften in water at rates prescribed locally by mesostructure
 geometry. The ensuing midplane contraction is coupled to the formation of encoded curvatures. We propose an inverse design tool based
-on a data-driven model for unit cells’ temporal responses.
+on a data-driven model for unit cells’ temporal responses. 
 
 bibtex: |
   @Article{Guseinov2020,
