@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Programming temporal morphing of self-actuated shells
+title: "Programming temporal morphing of self-actuated shells"
 
 authors:
   - name: Guseinov, Ruslan
