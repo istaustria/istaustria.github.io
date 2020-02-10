@@ -61,7 +61,16 @@ supplemental: http://reality.cs.ucl.ac.uk/projects/texture-repro/sumin19geometry
 doi: https://doi.org/10.1145/3306346.3322992
 
 abstract: |
-  Commercially available full-color 3D printing allows for detailed control of material deposition in a volume, but an exact reproduction of a target surface appearance is hampered by the strong subsurface scattering that causes nontrivial volumetric cross-talk at the print surface. Previous work showed how an iterative optimization scheme based on accumulating absorptive materials at the surface can be used to find a volumetric distribution of print materials that closely approximates a given target appearance.
+  Commercially available full-color 3D printing allows for detailed control of material deposition in a volume, but an exact reproduction of a target surface appearance is hampered by the strong subsurface scattering that causes nontrivial volumetric cross-talk at the print surface. Previous work showed how an iterative optimization scheme based on accumulating absorptive materials at the surface can be used to find a volumetric distribution of print materials that closely approximates a given target appearance. In this work, we first revisit the assumption that pushing the absorptive
+materials to the surface results in minimal volumetric cross-talk. We design
+a full-fledged optimization on a small domain for this task and confirm this
+previously reported heuristic. Then, we extend the above approach that is critically limited to color reproduction on planar surfaces, to arbitrary 3D shapes. Our method enables high-fidelity color texture reproduction on
+3D prints by effectively compensating for internal light scattering within
+arbitrarily shaped objects. In addition, we propose a content-aware gamut
+mapping that significantly improves color reproduction for the pathological
+case of thin geometric features. Using a wide range of sample objects with
+complex textures and geometries, we demonstrate color reproduction whose
+fidelity is superior to state-of-the-art drivers for color 3D printers.
   
 teaser:
   caption: |
