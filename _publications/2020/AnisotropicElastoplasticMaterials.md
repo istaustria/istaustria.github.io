@@ -29,9 +29,9 @@ bibtex: |
   year         = "2020",
   }
 
+paper: http://pub.ist.ac.at/group_wojtan/projects/2020_Schreck_AMPM/eg2020_ampm_cameraready.pdf
+video: http://pub.ist.ac.at/group_wojtan/projects/2020_Schreck_AMPM/eg2020_ampm_cameraready.mp4
 
-paper: 
-video: 
 
 abstract: |
   This paper introduces a simple method for simulating highly anisotropic elastoplastic material behaviors like the dissolution of fibrous phenomena (splintering wood, shredding bales of hay) and materials composed of large numbers of irregularly-shaped bodies (piles of twigs, pencils, or cards). We introduce a simple transformation of the anisotropic problem into an equivalent isotropic one, and we solve this new ``fictitious'' isotropic problem using an existing simulator based on the material point method. Our approach results in minimal changes to existing simulators, and it allows us to re-use popular isotropic plasticity models like the Drucker-Prager yield criterion instead of inventing new anisotropic plasticity models for every phenomenon we wish to simulate.
@@ -60,7 +60,8 @@ teaser:
 
 ### Links
 
-Coming Soon
+* [Paper](http://pub.ist.ac.at/group_wojtan/projects/2020_Schreck_AMPM/eg2020_ampm_cameraready.pdf)
+* [Video](http://pub.ist.ac.at/group_wojtan/projects/2020_Schreck_AMPM/eg2020_ampm_cameraready.mp4)
 <br>
 
 ### Citation
