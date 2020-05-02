@@ -22,6 +22,17 @@ affiliations:
 publication: ACM Transactions on Graphics (SIGGRAPH 2020)
 date: 2020-07-19
 
+bibtex: |
+  @article{sperl2020hylc,
+    author    = {Sperl, Georg and Narain, Rahul and Wojtan, Chris}
+    title     = {Homogenized Yarn-Level Cloth},
+    journal   = {ACM Transactions on Graphics (TOG)},
+    number    = {4},
+    volume    = {39},
+    year      = {2020},
+    publisher = {ACM}
+  }
+
 paper: http://pub.ist.ac.at/group_wojtan/projects/2020_Sperl_HYLC/2020_HYLC_paper.pdf
 suppl: http://pub.ist.ac.at/group_wojtan/projects/2020_Sperl_HYLC/2020_HYLC_supplementary.pdf
 pseudo: http://pub.ist.ac.at/group_wojtan/projects/2020_Sperl_HYLC/2020_HYLC_pseudocode.pdf
@@ -66,6 +77,10 @@ teaser:
 * [Data & Fitting Code (~1MB)]({{ page.datacode }})
 * [Video File (~220MB)]({{ page.video }})
 * [Additional Videos (~320MB)]({{ page.allvideos }})
+
+### Citation
+
+{% include citation.html citation=page.bibtex %}
 
 ### Acknowledgements
 
