@@ -68,7 +68,9 @@ teaser:
 
 {% include citation.html citation=page.bibtex %}
 
+### Supplementary video
 
+{% include youtube.html id='mkgffYyrgIY' %}
 
 ### Acknowledgements
 
