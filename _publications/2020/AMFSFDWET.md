@@ -1,5 +1,5 @@
 ---
-title: A Model for Soap Film Dynamics with Evolving Stuff!
+title: A Model for Soap Film Dynamics with Evolving Thickness
 
 authors:
   - name: Ishida, Sadashige
