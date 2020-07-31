@@ -28,8 +28,8 @@ publication: ACM Transactions on Graphics (SIGGRAPH 2020)
 date: 2020-07-19
 
 bibtex: |
-  @article{sperl2020hylc,
-    author    = {Skřivan, Tomáš and Söderström, Andreas and Johansson, John and Sprenger, Christoph and Museth, Ken and Wojtan, Chris}
+  @article{skrivan2020wc,
+    author    = {Skřivan, Tomáš and Söderström, Andreas and Johansson, John and Sprenger, Christoph and Museth, Ken and Wojtan, Chris},
     title     = {Wave Curves: Simulating Lagrangian water waves on dynamically deforming surfaces},
     journal   = {ACM Transactions on Graphics (TOG)},
     number    = {4},
