@@ -48,8 +48,8 @@ teaser:
   caption: |
 
   images:
-  - url: reprimg.jpg
-    alt: representative image
+  - url: teaser.jpg
+    alt: Homogenized Yarn-Level Cloth
 
 ---
 
