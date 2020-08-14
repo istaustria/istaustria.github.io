@@ -19,8 +19,9 @@ affiliations:
   - name: Indian Institute of Technology Delhi
     url: http://www.iitd.ac.in/
 
-publication: ACM Transactions on Graphics (SIGGRAPH 2020)
+publication: ACM Transactions on Graphics 39(4) (SIGGRAPH 2020)
 date: 2020-07-19
+doi: https://doi.org/10.1145/3386569.3392412
 
 bibtex: |
   @article{sperl2020hylc,
