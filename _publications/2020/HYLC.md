@@ -66,7 +66,7 @@ teaser:
 
 {{ page.abstract }}
 
-[![alt text](thumb_paper.jpg "Paper"){: width="250px"}]({{page.paper}}) Paper (40MB) 
+[![alt text](thumb_paper.jpg "Paper"){: .paperthumbnail}]({{page.paper}}) Paper (40MB) 
 
 <!-- 
 Paper (40MB)             |  Supplementary |       Pseudo-Code
