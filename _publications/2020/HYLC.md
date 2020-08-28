@@ -66,9 +66,21 @@ teaser:
 
 {{ page.abstract }}
 
+[![alt text](thumb_paper.jpg "Paper"){: width="250px"}]({{page.paper}}) Paper (40MB) 
+
+<!-- 
+Paper (40MB)             |  Supplementary |       Pseudo-Code
+:-------------------------|:-------------------------|:-------------------------
+[![alt text](thumb_paper.jpg "Paper"){: width="250px"}]({{page.paper}})  |  [![alt text](thumb_suppl.jpg "Supplementary"){: width="250px"}]({{page.suppl}})|  [![alt text](thumb_suppl.jpg "Pseudocode"){: width="250px"}]({{page.pseudo}})
+-->
+
 ### Supplementary video
 
 {% include youtube.html id='vn-WzWm74Pc' %}
+
+### Presentation video
+
+{% include youtube.html id='qrDczRcuB3Y' %}
 
 ### Links
 
