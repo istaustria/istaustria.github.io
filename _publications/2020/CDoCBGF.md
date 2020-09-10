@@ -87,7 +87,7 @@ teaser:
 ### Links
 
 * [Paper]({{ page.paper }}) (36 MB)
-[comment]: # * [Supplementary video]({{ page.video }}) (163 MB)
+[comment]: # * [Supplementary video]({{ page.video }})
 
 ### Citation
 
