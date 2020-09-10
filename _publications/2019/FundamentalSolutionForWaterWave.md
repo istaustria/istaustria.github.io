@@ -6,6 +6,7 @@ authors:
 
   - name: Schreck, Camille
     affiliations: [1]
+    url: https://pub.ist.ac.at/~cschreck/
   - name: Hafner, Christian
     affiliations: [1]
   - name: Wojtan, Chris

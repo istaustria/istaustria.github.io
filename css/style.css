@@ -141,3 +141,8 @@ table tr th :last-child, table tr td :last-child {
 #publications ul.years li:last-child:after {
     content: '';
 }
+
+.paperthumbnail {
+    box-shadow: 1px 4px 8px 0 rgba(0, 0, 0, 0.5), 0 10px 14px 0 rgba(0, 0, 0, 0.2);
+    margin: 6px 16px 16px 16px;
+}
