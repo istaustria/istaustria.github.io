@@ -53,8 +53,11 @@ bibtex: |
   title = {Computational Design of Cold Bent Glass Fa{\c c}ades},
   journal = {ACM Transactions on Graphics (SIGGRAPH Asia 2020)},
   year = {2020},
+  month = {12},
   volume = {39},
   number = {6}
+  articleno = {208},
+  numpages = {16}
   }
 
 teaser:
