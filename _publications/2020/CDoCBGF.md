@@ -43,7 +43,7 @@ date: 2020-12-1
 doi: https://doi.org/http://dx.doi.org/10.1145/3414685.3417843
 
 paper: http://pub.ist.ac.at/~rguseino/cold_glass_bending.pdf
-video: https://youtu.be/FStBxKC4GkQ
+[comment]: # video: https://youtu.be/FStBxKC4GkQ
 
 
 abstract: |
@@ -87,7 +87,7 @@ teaser:
 ### Links
 
 * [Paper]({{ page.paper }}) (36 MB)
-#* [Supplementary video]({{ page.video }}) (163 MB)
+[comment]: # * [Supplementary video]({{ page.video }}) (163 MB)
 
 ### Citation
 
