@@ -80,7 +80,7 @@ teaser:
 
 ### Links
 
-* [Paper]({{ page.paper }}) (36 MB)
+* [Paper]({{ page.paper }}) (28 MB)
 
 ### Citation
 
