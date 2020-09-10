@@ -36,10 +36,14 @@ bibtex: |
   @article{Guseinov2017,
   author = {Guseinov, Ruslan and Miguel, Eder and Bickel, Bernd},
   title = {CurveUps: Shaping Objects from Flat Plates with Tension-Actuated Curvature},
-  journal = {ACM Transactions on Graphics (SIGGRAPH 2017)},
   year = {2017},
   volume = {36},
   number = {4}
+  journal = {ACM Trans. Graph.},
+  month = {7},
+  articleno = {64},
+  numpages = {12},
+  doi = {10.1145/3072959.3073709},
   }
 
 teaser:
