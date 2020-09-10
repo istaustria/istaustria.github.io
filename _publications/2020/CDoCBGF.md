@@ -80,9 +80,9 @@ teaser:
 
 {{ page.abstract }}
 
-### Supplementary video
+[comment]: # ### Supplementary video
 
-#{% include youtube.html id='FStBxKC4GkQ' %}
+[comment]: # {% include youtube.html id='FStBxKC4GkQ' %}
 
 ### Links
 
