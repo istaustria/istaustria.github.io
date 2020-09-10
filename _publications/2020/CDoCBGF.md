@@ -62,7 +62,7 @@ teaser:
     Material-aware form finding of a cold bent glass façade. From left to right: initial and revised panel layouts from an interactive design session with immediate feedback on the glass shape and maximum stress (red color indicates panel failure). The surface design is then optimized for stress reduction and smoothness. The final façade realization using cold bent glass features doubly curved areas and smooth reflections.
 
   images:
-  - url: teaser.png
+  - url: teaser.jpg
     alt: teaser
 ---
 
