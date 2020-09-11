@@ -5,6 +5,7 @@ title: "Computational Design of Cold Bent Glass Façades"
 authors:
   - name: Gavriil, Konstantinos
     affiliations: [1]
+    url: https://konstantg.me/
   - name: Guseinov, Ruslan
     affiliations: [2]
     id: ruslanguseinov
