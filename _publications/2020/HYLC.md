@@ -25,7 +25,7 @@ doi: https://doi.org/10.1145/3386569.3392412
 
 bibtex: |
   @article{sperl2020hylc,
-    author    = {Sperl, Georg and Narain, Rahul and Wojtan, Chris}
+    author    = {Sperl, Georg and Narain, Rahul and Wojtan, Chris},
     title     = {Homogenized Yarn-Level Cloth},
     journal   = {ACM Transactions on Graphics (TOG)},
     number    = {4},
