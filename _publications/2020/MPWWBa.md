@@ -60,16 +60,24 @@ teaser:
 
 {{ page.abstract }}
 
-### Supplementary Video
-
-{% include youtube.html id='9izRrMzfghk' %}
-
 ### Links
 
 * [Paper]({{ page.paper }})
 * [Supplementary Material]({{ page.material }})
 * [Supplementary Video]({{ page.video }})
 * [Executable]({{ page.binary }})
+
+### Supplementary Video
+
+{% include youtube.html id='9izRrMzfghk' %}
+
+### 3-Minute Video Abstract
+
+{% include youtube.html id='T6hVnNUNS2A' %}
+
+### 15-Minute Conference Presentation
+
+{% include youtube.html id='U3lFWQVk_zc' %}
 
 ### Acknowledgements
 
