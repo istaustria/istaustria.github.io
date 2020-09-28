@@ -36,7 +36,7 @@ video: http://pub.ist.ac.at/~chafner/WaveCagesSCA2020.mp4
 binary: http://pub.ist.ac.at/~chafner/WaveCagesBinary.zip
 
 abstract: |
-  The “procedural” approach to animating ocean waves is the dominant algorithm for animating larger bodies of water in interactive applications as well as in off-line productions — it provides high visual quality with a low computational demand. In this paper, we widen the applicability of procedural water wave animation with an extension that guarantees the satisfaction of boundary conditions imposed by terrain while still approximating physical wave behavior. In combination with a particle system that models wave breaking, foam, and spray, this allows us to naturally model waves interacting with beaches and rocks. Our system is able to animate waves at large scales at interactive frame rates on a commodity PC.
+  The “procedural” approach to animating ocean waves is the dominant algorithm for animating larger bodies of water in interactive applications as well as in off-line productions — it provides high visual quality with a low computational demand. In this paper, we widen the applicability of procedural water wave animation with an extension that guarantees the satisfaction of boundary conditions imposed by terrain while still approximating physical wave behavior. In combination with a particle system that models wave breaking, foam, and spray, this allows us to naturally model waves interacting with beaches and rocks. Our system is able to animate waves at large scales at interactive frame rates on a commodity PC. 
 
 
 teaser:
