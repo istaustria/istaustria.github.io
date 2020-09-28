@@ -68,7 +68,7 @@ teaser:
 
 * [Paper]({{ page.paper }})
 * [Supplementary material]({{ page.material }})
-* [Main video]({{ page.video }})
+* [Supplementary Video]({{ page.video }})
 * [Executable]({{ page.binary }})
 
 ### Acknowledgements
