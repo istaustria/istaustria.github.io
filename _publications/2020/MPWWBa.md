@@ -27,7 +27,7 @@ affiliations:
   - name: IST Austria
     url: http://ist.ac.at
 
-publication: SCA '20: Proceedings of the 19th annual ACM SIGGRAPH/Eurographics Symposium on Computer Animation
+publication: SCA '20 Proceedings of the 19th annual ACM SIGGRAPH/Eurographics Symposium on Computer Animation
 date: 2020-10-6
 
 paper: http://pub.ist.ac.at/~chafner/JeschkeWaveCages.pdf
