@@ -78,4 +78,3 @@ We wish to thank the anonymous reviewers and the members of the Visual Computing
 
 ![EU](flag_yellow_low.jpg){: width="150x"}
 ![ERC](LOGO-ERC.jpg){: width="150px"}
-
