@@ -3,7 +3,6 @@ layout: publication
 title: "Making Procedural Water Waves Boundary-Aware"
 
 authors:
-
   - name: Jeschke, Stefan
     affiliations: [1]
     url: http://www.stefan-jeschke.com/
