@@ -40,7 +40,7 @@ teaser:
   caption: |
     A selection of the results presented in this thesis.
   images:
-  - url: thesis-teaser.png
+  - url: thesis-teaser.jpg
     alt: A selection of the results presented in this thesis.
 ---
 
