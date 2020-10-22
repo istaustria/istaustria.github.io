@@ -19,39 +19,11 @@ doi: http://dx.doi.org/10.15479/AT:ISTA:8366
 paper: http://dx.doi.org/10.15479/AT:ISTA:8366
 
 abstract: |
-  Fabrication of curved shells plays an important role in modern design, industry, and
-science. Among their remarkable properties are, for example, aesthetics of organic shapes,
-ability to evenly distribute loads, or efficient flow separation. They find applications across
-vast length scales ranging from sky-scraper architecture to microscopic devices. But, at
-the same time, the design of curved shells and their manufacturing process pose a variety
-of challenges. In this thesis, they are addressed from several perspectives. In particular,
-this thesis presents approaches based on the transformation of initially flat sheets into the
-target curved surfaces. This involves problems of interactive design of shells with nontrivial
-mechanical constraints, inverse design of complex structural materials, and data-driven
-modeling of delicate and time-dependent physical properties. At the same time, two
-newly-developed self-morphing mechanisms targeting flat-to-curved transformation are
-presented.
+  Fabrication of curved shells plays an important role in modern design, industry, and science. Among their remarkable properties are, for example, aesthetics of organic shapes, ability to evenly distribute loads, or efficient flow separation. They find applications across vast length scales ranging from sky-scraper architecture to microscopic devices. But, at the same time, the design of curved shells and their manufacturing process pose a variety of challenges. In this thesis, they are addressed from several perspectives. In particular, this thesis presents approaches based on the transformation of initially flat sheets into the target curved surfaces. This involves problems of interactive design of shells with nontrivial mechanical constraints, inverse design of complex structural materials, and data-driven modeling of delicate and time-dependent physical properties. At the same time, two ewly-developed self-morphing mechanisms targeting flat-to-curved transformation are presented.
 
-  In architecture, doubly curved surfaces can be realized as cold bent glass panelizations.
-Originally flat glass panels are bent into frames and remain stressed. This is a cost-efficient
-fabrication approach compared to hot bending, when glass panels are shaped plastically.
-However such constructions are prone to breaking during bending, and it is highly
-nontrivial to navigate the design space, keeping the panels fabricable and aesthetically
-pleasing at the same time. We introduce an interactive design system for cold bent
-glass façades, while previously even offline optimization for such scenarios has not been
-sufficiently developed. Our method is based on a deep learning approach providing quick
-and high precision estimation of glass panel shape and stress while handling the shape
-multimodality.
+  In architecture, doubly curved surfaces can be realized as cold bent glass panelizations. Originally flat glass panels are bent into frames and remain stressed. This is a cost-efficient fabrication approach compared to hot bending, when glass panels are shaped plastically. However such constructions are prone to breaking during bending, and it is highly nontrivial to navigate the design space, keeping the panels fabricable and aesthetically pleasing at the same time. We introduce an interactive design system for cold bent glass façades, while previously even offline optimization for such scenarios has not been sufficiently developed. Our method is based on a deep learning approach providing quick and high precision estimation of glass panel shape and stress while handling the shape multimodality.
 
-  Fabrication of smaller objects of scales below 1 m, can also greatly benefit from shaping
-originally flat sheets. In this respect, we designed new self-morphing shell mechanisms
-transforming from an initial flat state to a doubly curved state with high precision and
-detail. Our so-called CurveUps demonstrate the encodement of the geometric information
-into the shell. Furthermore, we explored the frontiers of programmable materials and
-showed how temporal information can additionally be encoded into a flat shell. This
-allows prescribing deformation sequences for doubly curved surfaces and, thus, facilitates
-self-collision avoidance enabling complex shapes and functionalities otherwise impossible.
-Both of these methods include inverse design tools keeping the user in the design loop.
+  Fabrication of smaller objects of scales below 1 m, can also greatly benefit from shaping originally flat sheets. In this respect, we designed new self-morphing shell mechanisms transforming from an initial flat state to a doubly curved state with high precision and detail. Our so-called CurveUps demonstrate the encodement of the geometric information into the shell. Furthermore, we explored the frontiers of programmable materials and showed how temporal information can additionally be encoded into a flat shell. This allows prescribing deformation sequences for doubly curved surfaces and, thus, facilitates self-collision avoidance enabling complex shapes and functionalities otherwise impossible. Both of these methods include inverse design tools keeping the user in the design loop.
 
 bibtex: |
   @phdthesis{GuseinovCDoCTS2020,
