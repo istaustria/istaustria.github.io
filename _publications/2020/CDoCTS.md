@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Computational design of curved thin shells: from glass façades to programmable matter
+title: "Computational design of curved thin shells: from glass façades to programmable matter"
 
 authors:
   - name: Guseinov, Ruslan
