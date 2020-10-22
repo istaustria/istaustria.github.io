@@ -17,6 +17,8 @@ date: 2020-09-21
 doi: http://dx.doi.org/10.15479/AT:ISTA:8366
 
 paper: http://dx.doi.org/10.15479/AT:ISTA:8366
+material: http://dx.doi.org/10.15479/AT:ISTA:8375
+video: https://youtu.be/Fg62lHjy97w
 
 abstract: |
   Fabrication of curved shells plays an important role in modern design, industry, and science. Among their remarkable properties are, for example, aesthetics of organic shapes, ability to evenly distribute loads, or efficient flow separation. They find applications across vast length scales ranging from sky-scraper architecture to microscopic devices. But, at the same time, the design of curved shells and their manufacturing process pose a variety of challenges. In this thesis, they are addressed from several perspectives. In particular, this thesis presents approaches based on the transformation of initially flat sheets into the target curved surfaces. This involves problems of interactive design of shells with nontrivial mechanical constraints, inverse design of complex structural materials, and data-driven modeling of delicate and time-dependent physical properties. At the same time, two ewly-developed self-morphing mechanisms targeting flat-to-curved transformation are presented.
@@ -54,9 +56,14 @@ teaser:
 
 {{ page.abstract }}
 
+### PhD Thesis Fast Forward video
+
+{% include youtube.html id='Fg62lHjy97w' %}
+
 ### Links
 
 * [Thesis]({{ page.paper }}) (71 MB)
+* [Supplementary data]({{ page.material }}) (84 MB)
 
 ### Citation
 
