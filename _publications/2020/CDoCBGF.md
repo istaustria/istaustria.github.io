@@ -93,8 +93,9 @@ teaser:
 ### Links
 
 * [Paper]({{ page.paper }}) (28 MB)
-* [DNN and training data]({{ page.data_dnn }}) (28 MB)
-* [Original simulation data]({{ page.data_sim }}) (28 MB)
+* [Code]({{ page.code }})
+* [DNN and training data]({{ page.data_dnn }})
+* [Original simulation data]({{ page.data_sim }})
 
 ### Citation
 
