@@ -45,6 +45,9 @@ doi: https://doi.org/http://dx.doi.org/10.1145/3414685.3417843
 
 paper: http://pub.ist.ac.at/~rguseino/cold_glass_bending.pdf
 video: https://youtu.be/FStBxKC4GkQ
+code: https://github.com/russelmann/cold-glass-acm
+data_dnn: https://research-explorer.app.ist.ac.at/record/8761
+data_sim: https://seafile.ist.ac.at/published/cold-glass-acm/home.md
 
 abstract: |
   Cold bent glass is a promising and cost-efficient method for realizing doubly curved glass façades. They are produced by attaching planar glass sheets to curved frames and must keep the occurring stress within safe limits. However, it is very challenging to navigate the design space of cold bent glass panels because of the fragility of the material, which impedes the form finding for practically feasible and aesthetically pleasing cold bent glass façades. We propose an interactive, data-driven approach for designing cold bent glass façades that can be seamlessly integrated into a typical architectural design pipeline. Our method allows non-expert users to interactively edit a parametric surface while providing real-time feedback on the deformed shape and maximum stress of cold bent glass panels. The designs are automatically refined to minimize several fairness criteria, while maximal stresses are kept within glass limits. We achieve interactive frame rates by using a differentiable Mixture Density Network trained from more than a million simulations. Given a curved boundary, our regression model is capable of handling multistable configurations and accurately predicting the equilibrium shape of the panel and its corresponding maximal stress. We show that the predictions are highly accurate and validate our results with a physical realization of a cold bent glass surface.
@@ -90,6 +93,8 @@ teaser:
 ### Links
 
 * [Paper]({{ page.paper }}) (28 MB)
+* [DNN and training data]({{ page.data_dnn }}) (28 MB)
+* [Original simulation data]({{ page.data_sim }}) (28 MB)
 
 ### Citation
 
