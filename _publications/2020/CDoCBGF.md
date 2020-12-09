@@ -90,6 +90,10 @@ teaser:
 
 {% include youtube.html id='FStBxKC4GkQ' %}
 
+### Presentation video
+
+{% include youtube.html id='1z0CuxRhatI' %}
+
 ### Links
 
 * [Paper]({{ page.paper }}) (28 MB)
