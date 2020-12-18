@@ -80,6 +80,8 @@ teaser:
 
 {% include authors.html authors=page.authors affiliations=page.affiliations %}
 
+K. Gavriil and R. Guseinov are joint first authors.
+
 {% include publication.html publication=page.publication url=page.doi %}
 
 ### Abstract
