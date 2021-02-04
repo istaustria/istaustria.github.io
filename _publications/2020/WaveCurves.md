@@ -74,15 +74,16 @@ teaser:
 {% include youtube.html id='e7SqHnfV8rI' %}
 
 ### Errata
+
 Please note that one of the test scenes in the original publication used an incorrect parameter setting. We correct this error and clarify some mathematical notation in the "errata" document below.
 
 ### Links
 
-* [Paper]({{ page.paper }})
-* [Video File]({{ page.video }})
-* [Additional Video]({{ page.extravideo }})
-* [Errata document] ({{ page.errata }})
-* [Errata Video] ({{ page.erratavideo }})
+* [Paper]({{ page.paper }}) (20 MB)
+* [Video File]({{ page.video }}) (445 MB)
+* [Additional Video]({{ page.extravideo }}) (304 MB)
+* [Errata Document] ({{ page.errata }}) (5 MB)
+* [Errata Videos] ({{ page.erratavideo }}) (760 MB .zip file)
 
 <!-- ### Citation -->
 
