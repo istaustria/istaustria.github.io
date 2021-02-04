@@ -82,8 +82,8 @@ Please note that one of the test scenes in the original publication used an inco
 * [Paper]({{ page.paper }}) (20 MB)
 * [Video File]({{ page.video }}) (445 MB)
 * [Additional Video]({{ page.extravideo }}) (304 MB)
-* [Errata Document] ({{ page.errata }}) (5 MB)
-* [Errata Videos] ({{ page.erratavideo }}) (760 MB .zip file)
+* [Errata Document]({{ page.errata }}) (5 MB)
+* [Errata Videos]({{ page.erratavideo }}) (760 MB .zip file)
 
 <!-- ### Citation -->
 
