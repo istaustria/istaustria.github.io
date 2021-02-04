@@ -55,8 +55,8 @@ teaser:
   - url: reprimg.jpg
     alt: representative image
 	
-errata:
-	Please note that one of the test scenes in the original publication used an incorrect parameter setting. We correct this error and clarify some mathematical notation in the "errata" document below.
+erratatext:
+  Please note that one of the test scenes in the original publication used an incorrect parameter setting. We correct this error and clarify some mathematical notation in the "errata" document below.
 
 ---
 
@@ -77,7 +77,7 @@ errata:
 {% include youtube.html id='e7SqHnfV8rI' %}
 
 ### Errata
-{{ page.errata }}
+{{ page.erratatext }}
 
 ### Links
 
