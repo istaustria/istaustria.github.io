@@ -41,6 +41,8 @@ bibtex: |
 paper: http://pub.ist.ac.at/group_wojtan/projects/2020_Skrivan_WaveCurves/wave_curves_2020.pdf
 video: http://pub.ist.ac.at/group_wojtan/projects/2020_Skrivan_WaveCurves/wave_curves_main_with_authors.mp4
 extravideo: http://pub.ist.ac.at/group_wojtan/projects/2020_Skrivan_WaveCurves/wave_curves_comparisons_with_authors.mp4
+errata: http://pub.ist.ac.at/group_wojtan/projects/2020_Skrivan_WaveCurves/wave_curves_errata.pdf
+erratavideo: http://pub.ist.ac.at/group_wojtan/projects/2020_Skrivan_WaveCurves/results_errata.zip
 
 abstract: |
   We propose a method to enhance the visual detail of a water surface simulation. Our method works as a post-processing step which takes a simulation as input and increases its apparent resolution by simulating many detailed Lagrangian water waves on top of it. We extend linear water wave theory to work in non-planar domains which deform over time, and we discretize the theory using Lagrangian wave packets attached to spline curves. The method is numerically stable and trivially parallelizable, and it produces high frequency ripples with dispersive wave-like behaviors customized to the underlying fluid simulation.
@@ -52,6 +54,9 @@ teaser:
   images:
   - url: reprimg.jpg
     alt: representative image
+	
+errata:
+	Please note that one of the test scenes in the original publication used an incorrect parameter setting. We correct this error and clarify some mathematical notation in the "errata" document below.
 
 ---
 
@@ -71,11 +76,16 @@ teaser:
 
 {% include youtube.html id='e7SqHnfV8rI' %}
 
+### Errata
+{{ page.errata }}
+
 ### Links
 
 * [Paper]({{ page.paper }})
 * [Video File]({{ page.video }})
 * [Additional Video]({{ page.extravideo }})
+* [Errata document] ({{ page.errata }})
+* [Errata Video] ({{ page.erratavideo }})
 
 <!-- ### Citation -->
 
