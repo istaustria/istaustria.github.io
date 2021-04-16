@@ -40,6 +40,8 @@ pseudo: http://pub.ist.ac.at/group_wojtan/projects/2020_Sperl_HYLC/2020_HYLC_pse
 datacode: http://pub.ist.ac.at/group_wojtan/projects/2020_Sperl_HYLC/2020_HYLC_data_code.zip
 video: http://pub.ist.ac.at/group_wojtan/projects/2020_Sperl_HYLC/2020_HYLC_video.mp4
 allvideos: http://pub.ist.ac.at/group_wojtan/projects/2020_Sperl_HYLC/2020_HYLC_allvideos.zip
+repository_hylc: https://git.ist.ac.at/gsperl/HYLC
+repository_arcsim: https://git.ist.ac.at/gsperl/ARCSim-HYLC
 
 abstract: |
   We present a method for animating yarn-level cloth effects using a thin-shell solver. We accomplish this through numerical homogenization: we first use a large number of yarn-level simulations to build a model of the potential energy density of the cloth, and then use this energy density function to compute forces in a thin shell simulator. We model several yarn-based materials, including both woven and knitted fabrics. Our model faithfully reproduces expected effects like the stiffness of woven fabrics, and the highly deformable nature and anisotropy of knitted fabrics. Our approach does not require any real-world experiments nor measurements; because the method is based entirely on simulations, it can generate entirely new material models quickly, without the need for testing apparatuses or human intervention. We provide data-driven models of several woven and knitted fabrics, which can be used for efficient simulation with an off-the-shelf cloth solver.
@@ -90,6 +92,8 @@ Paper (40MB)             |  Supplementary |       Pseudo-Code
 * [Data & Fitting Code (~1MB)]({{ page.datacode }})
 * [Video File (~220MB)]({{ page.video }})
 * [Additional Videos (~320MB)]({{ page.allvideos }})
+* [Pattern Optimization Code]({{ page.repository_hylc }})
+* [Cloth Simulation Code]({{ page.repository_arcsim }})
 
 ### Citation
 
