@@ -20,7 +20,7 @@ affiliations:
     url: http://www.iitd.ac.in/
 
 publication: ACM Transactions on Graphics 40(4) (SIGGRAPH 2021)
-date: 2020-08-09
+date: 2021-08-09
 doi: https://doi.org/10.1145/3450626.3459816
 
 bibtex: |
