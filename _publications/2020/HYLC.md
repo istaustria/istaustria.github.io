@@ -35,6 +35,7 @@ bibtex: |
   }
 
 paper: http://pub.ist.ac.at/group_wojtan/projects/2020_Sperl_HYLC/2020_HYLC_paper.pdf
+paperLR: http://pub.ist.ac.at/group_wojtan/projects/2020_Sperl_HYLC/2020_HYLC_paper_lowres.pdf
 suppl: http://pub.ist.ac.at/group_wojtan/projects/2020_Sperl_HYLC/2020_HYLC_supplementary.pdf
 pseudo: http://pub.ist.ac.at/group_wojtan/projects/2020_Sperl_HYLC/2020_HYLC_pseudocode.pdf
 datacode: http://pub.ist.ac.at/group_wojtan/projects/2020_Sperl_HYLC/2020_HYLC_data_code.zip
@@ -84,9 +85,10 @@ Paper (40MB)             |  Supplementary |       Pseudo-Code
 
 {% include youtube.html id='qrDczRcuB3Y' %}
 
-### Links
+### Resources
 
 * [Paper (~40MB)]({{ page.paper }})
+* [Paper Low-Res (~9MB)]({{ page.paperLR }})
 * [Supplementary Document (~1MB)]({{ page.suppl }})
 * [Pseudocode Document (~1MB)]({{ page.pseudo }})
 * [Data & Fitting Code (~1MB)]({{ page.datacode }})
