@@ -5,7 +5,7 @@ title: "The Design Space of Plane Elastic Curves"
 authors:
   - name: Hafner, Christian
     affiliations: [1]
-	url:
+	url: 
   - name: Bickel, Bernd
     affiliations: [1]
     url: https://berndbickel.com/
@@ -36,9 +36,7 @@ video: http://pub.ist.ac.at/~chafner/ElasticCurves2021/elastic-curves-video.mp4
 code: http://pub.ist.ac.at/~chafner/ElasticCurves2021/elastic-curves-code.zip
 
 abstract: |
-  Elastic bending of initially flat slender elements allows the realization and economic fabrication of intriguing curved shapes. In this work, we derive an intuitive but rigorous geometric characterization of the design space of plane elastic rods with variable stiffness. It enables designers to determine which shapes are physically viable with active bending by visual inspection alone. Building on these insights, we propose a method for efficiently designing the geometry of a flat elastic rod that realizes a target equilibrium curve, which only requires solving a linear program.
-
-  We implement this method in an interactive computational design tool that gives feedback about the feasibility of a design, and computes the geometry of the structural elements necessary to realize it within an instant. The tool also offers an iterative optimization routine that improves the fabricability of a model while modifying it as little as possible. In addition, we use our geometric characterization to derive an algorithm for analyzing and recovering the stability of elastic curves that would otherwise snap out of their unstable equilibrium shapes by buckling. We show the efficacy of our approach by designing and manufacturing several physical models that are assembled from flat elements.
+  Elastic bending of initially flat slender elements allows the realization and economic fabrication of intriguing curved shapes. In this work, we derive an intuitive but rigorous geometric characterization of the design space of plane elastic rods with variable stiffness. It enables designers to determine which shapes are physically viable with active bending by visual inspection alone. Building on these insights, we propose a method for efficiently designing the geometry of a flat elastic rod that realizes a target equilibrium curve, which only requires solving a linear program. We implement this method in an interactive computational design tool that gives feedback about the feasibility of a design, and computes the geometry of the structural elements necessary to realize it within an instant. The tool also offers an iterative optimization routine that improves the fabricability of a model while modifying it as little as possible. In addition, we use our geometric characterization to derive an algorithm for analyzing and recovering the stability of elastic curves that would otherwise snap out of their unstable equilibrium shapes by buckling. We show the efficacy of our approach by designing and manufacturing several physical models that are assembled from flat elements.
 
 
 teaser:
