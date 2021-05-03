@@ -28,7 +28,7 @@ affiliations:
   - name: Disney Research
     url: https://www.disneyresearch.com/
 
-publication: ACM Transactions on Graphics 38(6) (SIGGRAPH 2019)
+publication: ACM Transactions on Graphics 38(6) (SIGGRAPH Asia 2019)
 date: 2019-11-16
 doi: https://doi.org/10.1145/3355089.3356576
 
