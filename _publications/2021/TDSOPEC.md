@@ -5,7 +5,7 @@ title: "The Design Space of Plane Elastic Curves"
 authors:
   - name: Hafner, Christian
     affiliations: [1]
-	url: 
+    url: 
   - name: Bickel, Bernd
     affiliations: [1]
     url: https://berndbickel.com/
@@ -66,6 +66,7 @@ teaser:
 * [Supplementary Document (0.5 MB)]({{ page.suppldoc }})
 * [Main Video (120 MB)]({{ page.video }})
 * [Matlab Code (0.3 MB)]({{ page.code }})
+
 <!--
 * [Official publisher page]({{page.doi}}) &nbsp; [![ACM](ACM_logo.svg){: width="40x"}]({{page.doi}})
 -->
