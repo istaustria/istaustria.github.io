@@ -40,6 +40,7 @@ paperLR: http://pub.ist.ac.at/group_wojtan/projects/2021_Sperl_MADYPG/2021_MADYP
 suppldoc: http://pub.ist.ac.at/group_wojtan/projects/2021_Sperl_MADYPG/2021_MADYPG_supplementary.pdf
 supplvids: http://pub.ist.ac.at/group_wojtan/projects/2021_Sperl_MADYPG/2021_MADYPG_suppl_videos.zip
 video: http://pub.ist.ac.at/group_wojtan/projects/2021_Sperl_MADYPG/2021_MADYPG_video.mp4
+fastforward: http://pub.ist.ac.at/group_wojtan/projects/2021_Sperl_MADYPG/2021_MADYPG_fastforward.mov
 repository_madypg: https://git.ist.ac.at/gsperl/MADYPG
 repository_hylc: https://git.ist.ac.at/gsperl/HYLC
 
@@ -64,6 +65,15 @@ teaser:
 
 {% include publication.html publication=page.publication url=page.doi %}
 
+<!-- <img src="yarnmachillo.gif" /> -->
+<figure>
+  <video id="vid" width="480" height="374" autoplay loop muted>
+    <!-- <source src="yarnmachillo.mp4" type="video/mp4"> -->
+    <source src="yarnmachillo.webm" type="video/webm">
+  </video>
+  <figcaption><i>"Yarnmachillo" - Animation of mesh and yarns for an armadillo chilling in a hammock.</i></figcaption>
+</figure>
+
 ### Abstract
 
 {{ page.abstract }}
@@ -75,6 +85,7 @@ teaser:
 * [Supplementary Document (6 MB)]({{ page.suppldoc }})
 * [Main Video (320 MB)]({{ page.video }})
 * [Additional Videos (275 MB)]({{ page.supplvids }})
+* [Fast Forward (22 MB)]({{ page.fastforward }})
 * [Code (Gitlab)]({{ page.repository_madypg }})
 
 <!--
