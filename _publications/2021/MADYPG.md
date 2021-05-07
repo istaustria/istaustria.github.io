@@ -68,8 +68,9 @@ teaser:
 <!-- <img src="yarnmachillo.gif" /> -->
 <figure style="text-align:center; margin: auto; max-width: 440px;">
   <video id="vid" width="360" autoplay loop muted>
-    <!-- <source src="yarnmachillo.mp4" type="video/mp4"> -->
     <source src="yarnmachillo.webm" type="video/webm">
+    <source src="yarnmachillo.mp4" type="video/mp4">
+    <p>(Unfortunately, your browser does not show the &lt;video&gt; tag. Here's a <a href="yarnmachillo.mp4">manual link</a>.)</p>
   </video>
   <figcaption><i>"Yarnmachillo" - Animation of the underlying mesh and the generated deforming yarns with millions of degrees of freedom for an armadillo chilling in a hammock.</i></figcaption>
 </figure>
