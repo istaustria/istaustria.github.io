@@ -66,12 +66,12 @@ teaser:
 {% include publication.html publication=page.publication url=page.doi %}
 
 <!-- <img src="yarnmachillo.gif" /> -->
-<figure>
-  <video id="vid" width="480" height="374" autoplay loop muted>
+<figure style="text-align:center; margin: auto; max-width: 440px;">
+  <video id="vid" width="360" autoplay loop muted>
     <!-- <source src="yarnmachillo.mp4" type="video/mp4"> -->
     <source src="yarnmachillo.webm" type="video/webm">
   </video>
-  <figcaption><i>"Yarnmachillo" - Animation of mesh and yarns for an armadillo chilling in a hammock.</i></figcaption>
+  <figcaption><i>"Yarnmachillo" - Animation of the underlying mesh and the generated deforming yarns with millions of degrees of freedom for an armadillo chilling in a hammock.</i></figcaption>
 </figure>
 
 ### Abstract
