@@ -9,7 +9,7 @@ authors:
   - name: Auzinger, Thomas
     affiliations: [1]
     url: https://auzinger.name/
-	- name: Bickel, Bernd
+  - name: Bickel, Bernd
     affiliations: [1]
     url: https://berndbickel.com/
 
