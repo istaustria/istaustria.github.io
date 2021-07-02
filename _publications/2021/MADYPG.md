@@ -93,15 +93,15 @@ teaser:
 * [Pattern Optimization Code]({{ page.repository_hylc }})
 -->
 
-### Supplementary video
+### Submission Video
 
 {% include youtube.html id='rO10fjzOzWM' %}
 
-<!-- undo indent before %
-### Presentation video
+### Presentation Video
 
-{  % include youtube.html id='........' %}
--->
+{% include youtube.html id='abEU9rN1Fyw' %}
+
+Short 5min Version: [https://youtu.be/MYf2vdybC_U](https://youtu.be/MYf2vdybC_U)
 
 ### Citation
 
