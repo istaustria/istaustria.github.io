@@ -1,3 +1,6 @@
+---
 id: huidongyang 
 name: Yang, Huidong
-type: postdoc 
+type: postdoc
+email: huidong.yang@ist.ac.at
+---
