@@ -64,16 +64,20 @@ teaser:
 
 * [Paper (17 MB)]({{ page.paper }})
 * [Supplementary Document (0.5 MB)]({{ page.suppldoc }})
-* [Main Video (120 MB)]({{ page.video }})
+* [Submission Video (120 MB)]({{ page.video }})
 * [Matlab Code (0.3 MB)]({{ page.code }})
 
 <!--
 * [Official publisher page]({{page.doi}}) &nbsp; [![ACM](ACM_logo.svg){: width="40x"}]({{page.doi}})
 -->
 
-### Main Video
+### Video Presentation (20 min)
 
 {% include youtube.html id='8dUAey0W-Es' %}
+
+### Submission Video
+
+{% include youtube.html id='BP1XUiC49dQ' %}
 
 ### Citation
 
