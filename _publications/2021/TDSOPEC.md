@@ -73,11 +73,11 @@ teaser:
 
 ### Video Presentation (20 min)
 
-{% include youtube.html id='8dUAey0W-Es' %}
+{% include youtube.html id='BP1XUiC49dQ' %}
 
 ### Submission Video
 
-{% include youtube.html id='BP1XUiC49dQ' %}
+{% include youtube.html id='8dUAey0W-Es' %}
 
 ### Citation
 
