@@ -10,29 +10,29 @@ authors:
     affiliations: [1]
     https://people.mpi-inf.mpg.de/~atewari/
   - name: Oh, Tae-Hyun
-    affiliations: [1]
+    affiliations: [2]
     url: https://ami.postech.ac.kr/members/tae-hyun-oh
   - name: Weyrich, Tim
-    affiliations: [1]
+    affiliations: [3]
     url: https://reality.cs.ucl.ac.uk/weyrich.html
   - name: Bickel, Bernd
-    affiliations: [1]
-    url: https://berndbickel.com/    
+    affiliations: [4]
+    url: https://berndbickel.com/
   - name: Seidel, Hans-Peter
     affiliations: [1]
-    url: https://people.mpi-inf.mpg.de/~hpseidel/    
+    url: https://people.mpi-inf.mpg.de/~hpseidel/
   - name: Pfister, Hanspeter
-    affiliations: [1]
-    url: https://vcg.seas.harvard.edu/people/hanspeter-pfister    
+    affiliations: [5]
+    url: https://vcg.seas.harvard.edu/people/hanspeter-pfister
   - name: Matusik, Wojciech
-    affiliations: [1]
-    url: https://cdfg.mit.edu/wojciech      
+    affiliations: [6]
+    url: https://cdfg.mit.edu/wojciech
   - name: Elgharib, Mohamed
     affiliations: [1]
-    url: https://people.mpi-inf.mpg.de/~elgharib/    
+    url: https://people.mpi-inf.mpg.de/~elgharib/
   - name: Theobalt, Christian
     affiliations: [1]
-    url: https://people.mpi-inf.mpg.de/~theobalt/            
+    url: https://people.mpi-inf.mpg.de/~theobalt/
 
 affiliations:
   - name: Max Planck Institute for Informatics, Saarland Informatics Campus
@@ -54,12 +54,12 @@ date: 2021-06-09
 
 bibtex: |
   @inproceedings{tewari2021monocular,
-  title={Monocular Reconstruction of Neural Face Reflectance Fields},
-  author={Tewari, Ayush and Oh, Tae-Hyun and Weyrich, Tim and Bickel, Bernd and Seidel, Hans-Peter and Pfister, Hanspeter and Matusik, Wojciech and Elgharib, Mohamed and Theobalt, Christian and others},
-  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
-  pages={4791--4800},
-  year={2021}
-}
+    title={Monocular Reconstruction of Neural Face Reflectance Fields},
+    author={Tewari, Ayush and Oh, Tae-Hyun and Weyrich, Tim and Bickel, Bernd and Seidel, Hans-Peter and Pfister, Hanspeter and Matusik, Wojciech and Elgharib, Mohamed and Theobalt, Christian and others},
+    booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+    pages={4791--4800},
+    year={2021}
+  }
 
 
 paper: https://openaccess.thecvf.com/content/CVPR2021/papers/R_Monocular_Reconstruction_of_Neural_Face_Reflectance_Fields_CVPR_2021_paper.pdf
