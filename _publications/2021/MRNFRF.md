@@ -97,14 +97,6 @@ teaser:
 * [Official publisher page]({{page.doi}}) &nbsp; [![ACM](ACM_logo.svg){: width="40x"}]({{page.doi}})
 -->
 
-### Video Presentation (20 min)
-
-{% include youtube.html id='BP1XUiC49dQ' %}
-
-### Submission Video
-
-{% include youtube.html id='8dUAey0W-Es' %}
-
 ### Citation
 
 {% include citation.html citation=page.bibtex %}
