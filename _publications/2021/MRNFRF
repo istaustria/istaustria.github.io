@@ -50,7 +50,7 @@ affiliations:
 
 publication: Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition
 date: 2021-06-09
-doi: 
+
 
 bibtex: |
   @inproceedings{tewari2021monocular,
