@@ -103,6 +103,10 @@ teaser:
 
 Short 5min Version: [https://youtu.be/MYf2vdybC_U](https://youtu.be/MYf2vdybC_U)
 
+### Graphics Replicability Stamp Initiative
+
+This paper has been awarded the Graphics Replicability Stamp: [http://www.replicabilitystamp.org/#https-git-ist-ac-at-gsperl-madypg](http://www.replicabilitystamp.org/#https-git-ist-ac-at-gsperl-madypg)
+
 ### Citation
 
 {% include citation.html citation=page.bibtex %}
