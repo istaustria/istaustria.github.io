@@ -28,7 +28,7 @@ affiliations:
   - name: IST Austria
     url: http://ist.ac.at
 
-publication: ACM Transactions on Graphics 34(3)
+publication: ACM Transactions on Graphics 40(6) (SIGGRAPH Asia 2021)
 date: 2021-12-01
 
 paper: http://vcg.isti.cnr.it/Publications/2021/AMBCP21/rigidmolds-authorversion.pdf
