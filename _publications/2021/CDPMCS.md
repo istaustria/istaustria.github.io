@@ -22,7 +22,7 @@ date: 2021-08-09
 doi: https://www.doi.org/10.1145/3453477
 
 bibtex: |
-  @article{hafner2021tdsopec,
+  @article{zhang2021multistable,
     author    = {Zhang, Ran and Auzinger, Thomas and Bickel, Bernd},
     title     = {Computational Design of Planar Multistable Compliant Structures},
     journal   = {ACM Transactions on Graphics (TOG)},
