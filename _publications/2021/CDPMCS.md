@@ -26,8 +26,9 @@ bibtex: |
     author    = {Zhang, Ran and Auzinger, Thomas and Bickel, Bernd},
     title     = {Computational Design of Planar Multistable Compliant Structures},
     journal   = {ACM Transactions on Graphics (TOG)},
-    number    = {},
-    volume    = {},
+    volume    = {40},
+    number    = {5},
+    pages     = {1--16},
     year      = {2021},
     publisher = {ACM}
   }
