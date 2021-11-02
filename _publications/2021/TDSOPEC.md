@@ -30,8 +30,8 @@ bibtex: |
   }
 
 
-paper: http://pub.ist.ac.at/~chafner/ElasticCurves2021/elastic-curves-paper.pdf
-suppldoc: http://pub.ist.ac.at/~chafner/ElasticCurves2021/elastic-curves-supp.pdf
+paper: https://research-explorer.app.ist.ac.at/download/9817/10150/elastic-curves-paper.pdf
+suppldoc: https://research-explorer.app.ist.ac.at/download/9817/10151/elastic-curves-supp.pdf
 video: http://pub.ist.ac.at/~chafner/ElasticCurves2021/elastic-curves-video.mp4
 code: http://pub.ist.ac.at/~chafner/ElasticCurves2021/elastic-curves-code.zip
 
