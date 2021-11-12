@@ -56,6 +56,7 @@ bibtex: |
 
 
 paper: https://research-explorer.app.ist.ac.at/download/7117/7120/XCAD_authors_version.pdf
+supplemental: https://research-explorer.app.ist.ac.at/download/7117/7119/xcad_sup_mat_siga19.pdf
 video: https://research-explorer.app.ist.ac.at/download/7117/7121/XCAD_video.mp4
 doi: https://doi.org/10.1145/3355089.3356576
 
@@ -87,6 +88,7 @@ teaser:
 ### Links
 
 * [Paper]({{page.paper}})
+* [Supplemental Material]({{page.supplemental}})
 * [Video]({{page.video}})
 * [Official publisher page]({{page.doi}}) &nbsp; [![ACM](ACM_logo.svg){: width="40x"}]({{page.doi}})
 
