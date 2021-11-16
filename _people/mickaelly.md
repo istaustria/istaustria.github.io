@@ -1,6 +1,6 @@
 ---
 id: mickaelly
-name: Mickaël, Ly
+name: Ly, Mickaël
 type: postdoc # one of [faculty, assistant, postdoc, phdstudent, intern]
 
 # optional fields
