@@ -1,6 +1,6 @@
 ---
 id: raphael
-name: Raphaël, Charrondière
+name: Charrondière, Raphaël
 type: postdoc # one of [faculty, assistant, postdoc, phdstudent, intern]
 
 # optional fields
