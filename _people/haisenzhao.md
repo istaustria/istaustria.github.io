@@ -1,6 +1,6 @@
 ---
 id: haisenzhao
-name: Haisen, Zhao
+name: Zhao, Haisen
 type: postdoc # one of [faculty, assistant, postdoc, phdstudent, intern]
 
 # optional fields
