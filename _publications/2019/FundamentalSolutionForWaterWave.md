@@ -9,6 +9,7 @@ authors:
     url: https://pub.ist.ac.at/~cschreck/
   - name: Hafner, Christian
     affiliations: [1]
+    url: https://chrishafner.github.io/
   - name: Wojtan, Chris
     affiliations: [1]
     url: http://pub.ist.ac.at/group_wojtan/
