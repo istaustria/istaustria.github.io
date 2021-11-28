@@ -5,7 +5,7 @@ title: "The Design Space of Plane Elastic Curves"
 authors:
   - name: Hafner, Christian
     affiliations: [1]
-    url: 
+    url: https://chrishafner.github.io/
   - name: Bickel, Bernd
     affiliations: [1]
     url: https://berndbickel.com/
