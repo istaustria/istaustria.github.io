@@ -5,7 +5,7 @@ title: "X-CAD: Optimizing CAD Models with Extended Finite Elements"
 authors:
   - name: Hafner, Christian
     affiliations: [1]
-    url: 
+    url: https://chrishafner.github.io/
   - name: Schumacher, Christian
     affiliations: [2]
     url: http://schumacher.graphics/
