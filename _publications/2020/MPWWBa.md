@@ -8,6 +8,7 @@ authors:
     url: http://www.stefan-jeschke.com/
   - name: Hafner, Christian
     affiliations: [2]
+    url: https://chrishafner.github.io/
   - name: Chentanez, Nuttapong
     affiliations: [1]
     url: http://www.chentanez.info
