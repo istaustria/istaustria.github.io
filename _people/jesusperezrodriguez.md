@@ -1,6 +1,6 @@
 ---
 id: jesusperezrodriguez
-name: Perez Rogriguez, Jesus
+name: Perez Rodriguez, Jesus
 type: alumni # one of [faculty, assistant, postdoc, phdstudent, intern]
 
 # optional fields
