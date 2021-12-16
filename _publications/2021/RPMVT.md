@@ -37,7 +37,7 @@ affiliations:
   - name: IST Austria
     url: http://ist.ac.at
 
-publication: Optics Express 29, no. 5 (2021)
+publication: Optics Express
 date: 2021-12-01
 
 paper: https://research-explorer.app.ist.ac.at/download/9241/9269/2021_OpticsExpress_Elek.pdf
