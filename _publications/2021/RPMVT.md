@@ -1,5 +1,5 @@
 ---
-title: Robust and practical measurement of volume transport parameters in solid photo-polymer materials for 3D printing
+title: Robust and practical measurement of volume transport parameters in solid photo polymer materials for 3D printing
 
 authors:
   - name:  Elek, Oskar
