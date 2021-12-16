@@ -15,7 +15,7 @@ affiliations:
   - name: Saarland University 
     url: https://www.uni-saarland.de/en/home.html
   - name: German Research Center for Artifcial Intelligence (DFKI)
-    url:https://www.dfki.de/en/web	
+    url: https://www.dfki.de/en/web	
   - name: IST Austria
     url: http://ist.ac.at
 
