@@ -7,25 +7,25 @@ authors:
     url: https://elek.pub/
   - name: Zhang, Ran
     affiliations: [3]
-    url: https://elek.pub/
+    url: https://ran-zhang.com/
   - name: Sumin, Denis 
     affiliations: [4]
-    url: https://elek.pub/
+    url: https://people.mpi-inf.mpg.de/~dsumin/
   - name: Myszkowski, Karol
     affiliations: [4]
-    url: https://elek.pub/
+    url: https://people.mpi-inf.mpg.de/~karol/
   - name: Bickel, Bernd
     affiliations: [3]
     url: http://berndbickel.com/about-me/
   - name: Wilkie, Alexander
     affiliations: [1]
-    url: http://berndbickel.com/about-me/
+    url: https://informatics.tuwien.ac.at/people/alexander-wilkie
   - name: Krivánek, Jaroslav
     affiliations: [1]
-    url: http://berndbickel.com/about-me/
+    url: https://cgg.mff.cuni.cz/~jaroslav/
   - name: Weyrich, Tim
     affiliations: [5]
-    url: http://berndbickel.com/about-me/
+    url: https://reality.cs.ucl.ac.uk/weyrich.html
 
 affiliations:
   - name: Charles University
