@@ -2,8 +2,29 @@
 title: Robust and practical measurement of volume transport parameters in solid photo-polymer materials for 3D printing
 
 authors:
+  - name: Elek, Oskar
+    affiliations: [1,2]
+    url: https://elek.pub/
+  - name: Zhang, Ran
+    affiliations: [3]
+    url: https://elek.pub/
+  - name: Sumin, Denis 
+    affiliations: [4]
+    url: https://elek.pub/
+  - name: Myszkowski, Karol
+    affiliations: [4]
+    url: https://elek.pub/
   - name: Bickel, Bernd
     affiliations: [3]
+    url: http://berndbickel.com/about-me/
+  - name: Wilkie, Alexander
+    affiliations: [1]
+    url: http://berndbickel.com/about-me/
+  - name: Krivánek, Jaroslav
+    affiliations: [1]
+    url: http://berndbickel.com/about-me/
+  - name: Weyrich, Tim
+    affiliations: [5]
     url: http://berndbickel.com/about-me/
 
 affiliations:
