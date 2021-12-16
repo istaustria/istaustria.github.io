@@ -39,8 +39,8 @@ affiliations:
   - name: University College London
     url: https://www.ucl.ac.uk/
 
-publication: ACM Transactions on Graphics 40(6) (SIGGRAPH Asia 2021)
-date: 2021-12-01
+publication: Optics Press 2021
+date: 2021-03-01
 
 paper: https://research-explorer.app.ist.ac.at/download/9241/9269/2021_OpticsExpress_Elek.pdf
 project: https://research-explorer.app.ist.ac.at/record/9241
