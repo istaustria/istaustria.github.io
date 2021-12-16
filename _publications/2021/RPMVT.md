@@ -7,12 +7,16 @@ authors:
     url: http://berndbickel.com/about-me/
 
 affiliations:
-  - name: University of Pisa
-    url: https://www.unipi.it/index.php/english
-  - name: University of Technology Sidney
-    url: https://www.uts.edu.au/	
+  - name: Charles University
+    url: https://www.mff.cuni.cz/en
+  - name: University of California
+    url: https://www.universityofcalifornia.edu/
   - name: IST Austria
     url: http://ist.ac.at
+  - name: Max Planck Institute for Informatics
+    url: https://www.mpi-inf.mpg.de/home
+  - name: University College London
+    url: https://www.ucl.ac.uk/
 
 publication: ACM Transactions on Graphics 40(6) (SIGGRAPH Asia 2021)
 date: 2021-12-01
