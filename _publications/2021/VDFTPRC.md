@@ -56,7 +56,7 @@ teaser:
   caption: |
 
   images:
-  - url: thumb.jpg
+  - url: teaser.jpg
     alt: Volume decomposition for two-piece rigid casting (Teaser Image)
 
 ---
