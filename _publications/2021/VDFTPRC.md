@@ -77,7 +77,6 @@ teaser:
 
 * [Paper (17 MB)]({{ page.paper }})
 * [Submission Video (120 MB)]({{ page.video }})
-* [Matlab Code (0.3 MB)]({{ page.code }})
 
 <!--
 * [Official publisher page]({{page.doi}}) &nbsp; [![ACM](ACM_logo.svg){: width="40x"}]({{page.doi}})
@@ -85,11 +84,11 @@ teaser:
 
 ### Video Presentation (20 min)
 
-{% include youtube.html id='BP1XUiC49dQ' %}
+{% include youtube.html id='spjTRArOeNY' %}
 
 ### Submission Video
 
-{% include youtube.html id='8dUAey0W-Es' %}
+{% include youtube.html id='jAEtRVMoSF0' %}
 
 ### Citation
 
