@@ -45,8 +45,7 @@ bibtex: |
   }
 
 paper: http://vcg.isti.cnr.it/Publications/2021/AMBCP21/rigidmolds-authorversion.pdf
-video: http://pub.ist.ac.at/~chafner/ElasticCurves2021/elastic-curves-video.mp4
-code: http://pub.ist.ac.at/~chafner/ElasticCurves2021/elastic-curves-code.zip
+video: https://www.youtube.com/watch?v=jAEtRVMoSF0
 
 abstract: |
   We introduce a novel technique to automatically decompose an input object's volume into a set of parts that can be represented by two opposite height fields. Such decomposition enables the manufacturing of individual parts using two-piece reusable rigid molds. Our decomposition strategy relies on a new energy formulation that utilizes a pre-computed signal on the mesh volume representing the accessibility for a predefined set of extraction directions. Thanks to this novel formulation, our method allows for efficient optimization of a fabrication-aware partitioning of volumes in a completely automatic way. We demonstrate the efficacy of our approach by generating valid volume partitionings for a wide range of complex objects and physically reproducing several of them.
@@ -75,14 +74,14 @@ teaser:
 
 ### Resources
 
-* [Paper (17 MB)]({{ page.paper }})
+* [Paper (102 MB)]({{ page.paper }})
 * [Submission Video (120 MB)]({{ page.video }})
 
 <!--
 * [Official publisher page]({{page.doi}}) &nbsp; [![ACM](ACM_logo.svg){: width="40x"}]({{page.doi}})
 -->
 
-### Video Presentation (20 min)
+### Video Presentation (19 min)
 
 {% include youtube.html id='spjTRArOeNY' %}
 
