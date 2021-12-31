@@ -39,7 +39,7 @@ affiliations:
   - name: University College London
     url: https://www.ucl.ac.uk/
 
-publication: Optics Press 2021
+publication: Optics Express 2021
 date: 2021-03-01
 
 paper: https://research-explorer.app.ist.ac.at/download/9241/9269/2021_OpticsExpress_Elek.pdf
