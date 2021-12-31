@@ -36,7 +36,7 @@ teaser:
   image:
     - url: teaser.jpg
       alt: Detailed Spatio-Temporal Reconstruction of Eyelids
-paper: http://www.disneyresearch.com/wp-content/uploads/Detailed-Spatio-Temporal-Reconstruction-of-Eyelids-Paper.pdf
+paper: https://www.cs.tau.ac.il/~amberman/eyelids_paper.pdf
 ---
 
 ## {{ page.title }}
