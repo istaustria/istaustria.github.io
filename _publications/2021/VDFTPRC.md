@@ -44,7 +44,7 @@ bibtex: |
     publisher = {ACM}
   }
 
-paper: http://vcg.isti.cnr.it/Publications/2021/AMBCP21/rigidmolds-authorversion.pdf
+paper: https://research-explorer.app.ist.ac.at/download/10184/10185/rigidmolds-authorversion.pdf
 video: https://www.youtube.com/watch?v=jAEtRVMoSF0
 
 abstract: |
