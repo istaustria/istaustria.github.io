@@ -37,7 +37,7 @@ teaser:
   caption: |
 
   images:
-  - url: teaser.jpg
+  - url: thumb.jpg
     alt: One-sided Frank-Wolfe algorithms for saddle problems (Teaser Image)
 
 ---
