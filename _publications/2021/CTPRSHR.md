@@ -85,5 +85,3 @@ teaser:
 ### Acknowledgements
 Our gratitude goes out to Kamila Mushkina, Akhmajon Makhsadov, Jordan Espenshade, Bruno Fruchard, Roland Bennewitz, and Robert Drumm. This project has received funding from the EU’s Horizon 2020 research and innovation programme, under the Marie Skłodowska-Curie grant agreement No 642841 (DISTRO).
 
-### ![EU](flag_yellow_low.jpg){: width="150x"}
-### ![ERC](LOGO-ERC.jpg){: width="150px"}
