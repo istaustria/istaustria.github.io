@@ -72,7 +72,7 @@ teaser:
   caption: |
 
   images:
-  - url: teaser.jpg
+  - url: thumb.jpg
     alt: Robust and practical measurement of volume transport parameters in solid photo-polymer materials for 3D printing (Teaser Image)
 
 ---
