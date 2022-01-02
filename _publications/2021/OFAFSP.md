@@ -7,12 +7,14 @@ authors:
     affiliations: [1]
     url: http://pub.ist.ac.at/~vnk/
   - name: Pock, Thomas
-    affiliations: [1]
-    url: https://www.tugraz.at/institutes/icg/research/team-pock/
+    affiliations: [2]
+    url: https://www.tugraz.at/institute/icg/research/team-pock/people/pock/
 
 affiliations:
   - name: IST Austria
     url: https://ist.ac.at
+  - name: Graz University of Technology
+    url: https://www.tugraz.at/home/
 
 publication: ICML 2021
 date: 2021-07-01
