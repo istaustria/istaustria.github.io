@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "The Design Space of Plane Elastic Curves"
+title: "One-sided Frank-Wolfe algorithms for saddle problems"
 
 authors:
   - name: Kolmogorov, Vladimir
