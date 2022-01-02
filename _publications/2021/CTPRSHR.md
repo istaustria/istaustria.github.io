@@ -69,7 +69,7 @@ teaser:
 * [Official publisher page]({{page.doi}}) &nbsp; [![ACM](ACM_logo.svg){: width="40x"}]({{page.doi}})
 -->
 
-### Video Presentation (20 min)
+### Video Presentation (8 min)
 
 {% include youtube.html id='qN9b-cAhRXc' %}
 
