@@ -27,13 +27,13 @@ authors:
   - name: Matusik, Wojciech
     affiliations: [6]
     url: https://cdfg.csail.mit.edu/wojciech
-  - name: Chevallier， Louis
+  - name: Chevallier, Louis
     affiliations: [2]
     url: https://scholar.google.fr/citations?user=hC_BTU8AAAAJ&hl=en
-  - name: Elgharib， Mohamed
+  - name: Elgharib, Mohamed
     affiliations: [1]
     url: http://people.mpi-inf.mpg.de/~elgharib/
-  - name: Theobalt， Christian
+  - name: Theobalt, Christian
     affiliations: [1]
     url: http://www.mpi-inf.mpg.de/~theobalt/
 
