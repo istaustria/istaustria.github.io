@@ -52,7 +52,7 @@ bibtex: |
 
 paper: https://desmondlzy.me/publications/rigidity/paper.pdf
 suppldoc: 
-video: 
+video: https://www.youtube.com/watch?v=YOr1bgBM_xY
 
 abstract: |
   We study structural rigidity for assemblies with mechanical joints.
@@ -69,7 +69,7 @@ project: https://desmondlzy.me/publications/rigidity
 teaser:
   images:
   - url: teaser.jpg
-    alt: Computational Design of Planar Multistable Compliant Structures (Teaser Image)
+    alt: Worst-Case Rigidity Analysis and Optimization for Assemblies with Mechanical Joints (Teaser Image)
 
 ---
 
@@ -88,7 +88,7 @@ teaser:
 ### Resources
 
 * [Paper (19.4 MB)]({{ page.paper }})
-* [Video (coming soon)]({{ page.video }})
+* [Video]({{ page.video }})
 
 <!--
 * [Official publisher page]({{page.doi}}) &nbsp; [![ACM](ACM_logo.svg){: width="40x"}]({{page.doi}})
@@ -96,7 +96,7 @@ teaser:
 
 ### Video
 
-Coming soon
+{% include youtube.html id='YOr1bgBM_xY' %}
 
 ### Citation
 
