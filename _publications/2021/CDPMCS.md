@@ -17,7 +17,7 @@ affiliations:
   - name: IST Austria
     url: https://ist.ac.at
 
-publication: ACM Transactions on Graphics 2021 (to appear)
+publication: ACM Transactions on Graphics 40(5) (Presented at SIGGRAPH Asia 2021) 
 date: 2021-08-09
 doi: https://www.doi.org/10.1145/3453477
 
