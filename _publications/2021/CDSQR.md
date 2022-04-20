@@ -93,7 +93,3 @@ teaser:
 
 ### Acknowledgements
 The authors would like to thank anonymous reviewers for their constructive comments. Weiwei Xu is partially supported by Zhejiang Lab. Yin Yang is partially spported by NSF under Grant Nos. CHS 1845024 and 1717972. Weiwei Xu and Hujun Bao are supported by Fundamental Research Funds for the Central Universities. This project has received funding from the European Research Council (ERC) under the European Unions Horizon 2020 research and innovation programme (Grant agreement No 715767).
-
-
-### Acknowledgements
-The authors thank Marco Callieri for all his precious help with the resin casts. The models used in the paper are courtesy of the Stanford 3D Scanning Repository, the AIM@SHAPE Shape Repository, and Thingi10K Repository. The research was partially funded by the European Research Council (ERC) MATERIALIZABLE: Intelligent fabrication-oriented computational design and modeling (grant no. 715767).
