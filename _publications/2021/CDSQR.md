@@ -87,11 +87,9 @@ teaser:
 * [Official publisher page]({{page.doi}}) &nbsp; [![ACM](ACM_logo.svg){: width="40x"}]({{page.doi}})
 -->
 
-
 ### Citation
 
 {% include citation.html citation=page.bibtex %}
-
 
 ### Acknowledgements
 The authors would like to thank anonymous reviewers for their constructive comments. Weiwei Xu is partially supported by Zhejiang Lab. Yin Yang is partially spported by NSF under Grant Nos. CHS 1845024 and 1717972. Weiwei Xu and Hujun Bao are supported by Fundamental Research Funds for the Central Universities. This project has received funding from the European Research Council (ERC) under the European Unions Horizon 2020 research and innovation programme (Grant agreement No 715767).
