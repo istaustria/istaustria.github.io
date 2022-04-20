@@ -79,7 +79,7 @@ teaser:
 
 ### Resources
 
-* [Paper (102 MB)]({{ page.paper }})
+* [Paper (6.18 MB)]({{ page.paper }})
 
 <!--
 * [Official publisher page]({{page.doi}}) &nbsp; [![ACM](ACM_logo.svg){: width="40x"}]({{page.doi}})
