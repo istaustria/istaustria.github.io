@@ -41,15 +41,7 @@ date: 2021-12-01
 doi: https://dl.acm.org/doi/abs/10.1145/3478513.3480555
 
 bibtex: |
-  @article{feng2019computational,
-  title={Computational Design of Skinned Quad-Robots},
-  author={Feng, Xudong and Liu, Jiafeng and Wang, Huamin and Yang, Yin and Bao, Hujun and Bickel, Bernd and Xu, Weiwei},
-  journal={IEEE Transactions on Visualization and Computer Graphics},
-  volume={27},
-  number={6},
-  pages={2881--2895},
-  year={2019},
-  publisher={IEEE}
+  @article{
 }
 
 paper: https://research-explorer.app.ist.ac.at/download/9408/9427/2021_TVCG_Feng.pdf
