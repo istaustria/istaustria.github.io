@@ -26,12 +26,12 @@ authors:
     url: http://www.cad.zju.edu.cn/home/weiweixu/weiweixu_en.htm
 
 affiliations:
-  - name: ISTI - CNR
-    url: http://www.isti.cnr.it/
-  - name: University of Pisa
-    url: https://www.unipi.it/index.php/english
-  - name: University of Technology Sidney
-    url: https://www.uts.edu.au/	
+  - name: Zhejiang University,
+    url: https://www.zju.edu.cn/
+  - name: Ohio State University, Columbus
+    url: https://www.osu.edu/
+  - name: University of New Mexico, Albuquerque
+    url: https://www.unm.edu/	
   - name: IST Austria
     url: http://ist.ac.at
 
