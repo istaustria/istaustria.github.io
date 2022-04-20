@@ -1,22 +1,29 @@
 ---
-title: "Volume decomposition for two-piece rigid casting"
+layout: publication
+title: "Computational Design of Skinned Quad-Robots"
 
 authors:
-  - name: Alderighi, Thomas
-    affiliations: [1,2]
-    url: http://vcg.isti.cnr.it/~alderighi/
-  - name: Malomo, Luigi
+  - name: Feng, Xudong
     affiliations: [1]
-    url: http://vcg.isti.cnr.it/~malomo/
+    url: https://github.com/Rullec
+  - name: Liu, Jiafeng
+    affiliations: [1]
+    url: https://github.com/Hanke98
+  - name: Wang, Huamin
+    affiliations: [2]
+    url: https://web.cse.ohio-state.edu/~wang.3602/
+  - name: Yang, Yin
+    affiliations: [3]
+    url: https://yangzzzy.github.io/
+  - name: Bao, Hujun
+    affiliations: [1]
+    url: http://www.cad.zju.edu.cn/home/bao/
   - name: Bickel, Bernd
     affiliations: [4]
     url: http://berndbickel.com/about-me/
-  - name: Cignoni, Paolo
+  - name: Xu, Weiwei
     affiliations: [1]
-    url: http://vcg.isti.cnr.it/~cignoni/
-  - name: Pietroni, Nico
-    affiliations: [1,3]
-    url: http://vcg.isti.cnr.it/~pietroni/
+    url: http://www.cad.zju.edu.cn/home/weiweixu/weiweixu_en.htm
 
 affiliations:
   - name: ISTI - CNR
