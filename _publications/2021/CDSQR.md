@@ -40,16 +40,15 @@ date: 2021-12-01
 doi: https://dl.acm.org/doi/abs/10.1145/3478513.3480555
 
 bibtex: |
-  @article{feng2019computational,
-  title={Computational Design of Skinned Quad-Robots},
-  author={Feng, Xudong and Liu, Jiafeng and Wang, Huamin and Yang, Yin and Bao, Hujun and Bickel, Bernd and Xu, Weiwei},
-  journal={IEEE Transactions on Visualization and Computer Graphics},
-  volume={27},
-  number={6},
-  pages={2881--2895},
-  year={2019},
-  publisher={IEEE}
-}
+  @article{alderighi2021volume,
+    author    = {Alderighi, Thomas and Malomo, Luigi and Bickel, Bernd and Cignoni, Paolo and Pietroni, Nico},
+    title     = {Volume decomposition for two-piece rigid casting},
+    journal   = {ACM Transactions on Graphics (TOG)},
+    number    = {6},
+    volume    = {40},
+    year      = {2021},
+    publisher = {ACM}
+  }
 
 paper: https://research-explorer.app.ist.ac.at/download/9408/9427/2021_TVCG_Feng.pdf
 video: https://www.youtube.com/watch?v=jAEtRVMoSF0
