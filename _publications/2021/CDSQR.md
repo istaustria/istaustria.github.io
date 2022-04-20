@@ -51,7 +51,6 @@ bibtex: |
   }
 
 paper: https://research-explorer.app.ist.ac.at/download/9408/9427/2021_TVCG_Feng.pdf
-video: https://www.youtube.com/watch?v=jAEtRVMoSF0
 
 abstract: |
   We present a computational design system that assists users to model, optimize, and fabricate quad-robots with soft skins.Our system addresses the challenging task of predicting their physical behavior by fully integrating the multibody dynamics of the mechanical skeleton and the elastic behavior of the soft skin. The developed motion control strategy uses an alternating optimization scheme to avoid expensive full space time-optimization, interleaving space-time optimization for the skeleton and frame-by-frame optimization for the full dynamics. The output are motor torques to drive the robot to achieve a user prescribed motion trajectory.We also provide a collection of convenient engineering tools and empirical manufacturing guidance to support the fabrication of the designed quad-robot. We validate the feasibility of designs generated with our system through physics simulations and with a physically-fabricated prototype.
