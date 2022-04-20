@@ -54,7 +54,7 @@ paper: https://research-explorer.app.ist.ac.at/download/9408/9427/2021_TVCG_Feng
 video: https://www.youtube.com/watch?v=jAEtRVMoSF0
 
 abstract: |
-  We introduce a novel technique to automatically decompose an input object's volume into a set of parts that can be represented by two opposite height fields. Such decomposition enables the manufacturing of individual parts using two-piece reusable rigid molds. Our decomposition strategy relies on a new energy formulation that utilizes a pre-computed signal on the mesh volume representing the accessibility for a predefined set of extraction directions. Thanks to this novel formulation, our method allows for efficient optimization of a fabrication-aware partitioning of volumes in a completely automatic way. We demonstrate the efficacy of our approach by generating valid volume partitionings for a wide range of complex objects and physically reproducing several of them.
+  We present a computational design system that assists users to model, optimize, and fabricate quad-robots with soft skins.Our system addresses the challenging task of predicting their physical behavior by fully integrating the multibody dynamics of the mechanical skeleton and the elastic behavior of the soft skin. The developed motion control strategy uses an alternating optimization scheme to avoid expensive full space time-optimization, interleaving space-time optimization for the skeleton and frame-by-frame optimization for the full dynamics. The output are motor torques to drive the robot to achieve a user prescribed motion trajectory.We also provide a collection of convenient engineering tools and empirical manufacturing guidance to support the fabrication of the designed quad-robot. We validate the feasibility of designs generated with our system through physics simulations and with a physically-fabricated prototype.
 
 
 teaser:
@@ -62,7 +62,7 @@ teaser:
 
   images:
   - url: teaser.jpg
-    alt: Volume decomposition for two-piece rigid casting (Teaser Image)
+    alt: Computational Design of Skinned Quad-Robots (Teaser Image)
 
 ---
 
@@ -81,21 +81,20 @@ teaser:
 ### Resources
 
 * [Paper (102 MB)]({{ page.paper }})
-* [Submission Video (120 MB)]({{ page.video }})
 
 <!--
 * [Official publisher page]({{page.doi}}) &nbsp; [![ACM](ACM_logo.svg){: width="40x"}]({{page.doi}})
 -->
 
-### Video Presentation (19 min)
-
-{% include youtube.html id='spjTRArOeNY' %}
-
-### Submission Video
-
-{% include youtube.html id='jAEtRVMoSF0' %}
 
 ### Citation
+
+{% include citation.html citation=page.bibtex %}
+
+
+### Acknowledgements
+The authors would like to thank anonymous reviewers for their constructive comments. Weiwei Xu is partially supported by Zhejiang Lab. Yin Yang is partially spported by NSF under Grant Nos. CHS 1845024 and 1717972. Weiwei Xu and Hujun Bao are supported by Fundamental Research Funds for the Central Universities. This project has received funding from the European Research Council (ERC) under the European Unions Horizon 2020 research and innovation programme (Grant agreement No 715767).
+
 
 {% include citation.html citation=page.bibtex %}
 
