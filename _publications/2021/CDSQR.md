@@ -1,5 +1,4 @@
 ---
-layout: publication
 title: "Volume decomposition for two-piece rigid casting"
 
 authors:
