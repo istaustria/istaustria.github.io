@@ -17,6 +17,14 @@ affiliations:
     url: https://www.inria.fr/
 
 
+
+paper: https://diglib.eg.org/bitstream/handle/10.1111/cgf14478/v41i2pp343-353.pdf?sequence=1&isAllowed=y
+video: https://diglib.eg.org/bitstream/handle/10.1111/cgf14478/paper1086_1.mp4?sequence=2&isAllowed=y
+doi: https://diglib.eg.org:443/handle/10.1111/cgf14478
+publication: Computer Graphics Forum (Eurographics 2022)
+date: 2022-01-10
+
+
 bibtex: |
   @article {10.1111:cgf.14478,
   journal   = "Computer Graphics Forum",
@@ -27,11 +35,6 @@ bibtex: |
   ISSN      = "1467-8659",
   DOI       = "10.1111/cgf.14478"
   }
-
-paper: https://diglib.eg.org/bitstream/handle/10.1111/cgf14478/v41i2pp343-353.pdf?sequence=1&isAllowed=y
-video: https://diglib.eg.org/bitstream/handle/10.1111/cgf14478/paper1086_1.mp4?sequence=2&isAllowed=y
-doi: https://diglib.eg.org:443/handle/10.1111/cgf14478
-publication: Computer Graphics Forum (Eurographics 2022)
 
 
 abstract: |
@@ -63,7 +66,7 @@ teaser:
 
 * [Paper](https://diglib.eg.org/bitstream/handle/10.1111/cgf14478/v41i2pp343-353.pdf?sequence=1&isAllowed=y)
 * [Video](https://diglib.eg.org/bitstream/handle/10.1111/cgf14478/paper1086_1.mp4?sequence=2&isAllowed=y)
-* [Sources (Houdini plugin](https://github.com/schreckc/Coupling_FSWW)
+* [Sources (Houdini plugin)](https://github.com/schreckc/Coupling_FSWW)
 <br>
 
 ### Citation
