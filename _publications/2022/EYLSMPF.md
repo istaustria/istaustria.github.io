@@ -14,7 +14,7 @@ authors:
     url: https://www.manwenli.com/
   - name: Wojtan, Chris
     affiliations: [1]
-    url: http://pub.ist.ac.at/group_wojtan/
+    url: https://pub.ist.ac.at/group_wojtan/
   - name: Otaduy, Miguel A.
     affiliations: [4]
     url: http://mslab.es/otaduy
@@ -45,8 +45,8 @@ bibtex: |
   }
 
 
-paper: http://mslab.es/projects/YarnLevelFabrics/contents/sperl2022eylsmpf.pdf
-project: http://mslab.es/projects/YarnLevelFabrics/
+paper: https://mslab.es/projects/YarnLevelFabrics/contents/sperl2022eylsmpf.pdf
+project: https://mslab.es/projects/YarnLevelFabrics/
 
 
 abstract: |
