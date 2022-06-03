@@ -34,9 +34,9 @@ affiliations:
   - name: Hasso Plattner Institute
     url: https://hpi.de/en/index.html
 
-publication: Computer Graphics Forum (Eurographics 2022) (Conditionally accepted)
+publication: Computer Graphics Forum (Eurographics 2022)
 date: 2022-01-10
-doi: 
+doi: 10.1111/cgf.14490
 
 bibtex: |
   @article{liu2022rigidity,
@@ -46,7 +46,7 @@ bibtex: |
     journal = {Computer Graphics Forum}, 
     volume = {41},
     number = {2},
-    note = {to appear}
+    doi = {10.1111/cgf.14490}
   }
 
 
