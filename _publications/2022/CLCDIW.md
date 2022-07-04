@@ -25,14 +25,14 @@ authors:
     url: https://www.cse.cuhk.edu.hk/~cwfu
 
 affiliations:
-  - name: IST Austria
+  - name: Institute of Science and Technology Austria, ISTA
     url: https://ist.ac.at
-  - name: The Chinese University of Hong Kong
-    url: https://cuhk.edu.hk
-  - name: Singapore University of Technology and Design
-    url: https://www.sutd.edu.sg
-  - name: Hasso Plattner Institute
-    url: https://hpi.de/en/index.html
+  - name: MIT CSAIL
+    url: https://www.csail.mit.edu/
+  - name: Max-Planck Institute for Informatik
+    url: https://www.mpi-inf.mpg.de/home
+  - name: Università della Svizzera italiana
+    url: https://www.usi.ch/it
 
 publication: ACM Transactions on Graphics (ACM SIGGRAPH 2022)
 date: 2022-08-08
