@@ -39,6 +39,8 @@ affiliations:
     url: https://www.mpi-inf.mpg.de/home
   - name: Università della Svizzera italiana
     url: https://www.usi.ch/it
+  - name: Princeton University
+    url: https://www.princeton.edu/
 
 publication: ACM Transactions on Graphics (ACM SIGGRAPH 2022)
 date: 2022-08-08
