@@ -42,7 +42,7 @@ affiliations:
   - name: Princeton University
     url: https://www.princeton.edu/
 
-publication: ACM Transactions on Graphics (ACM SIGGRAPH 2022)
+publication: ACM Transactions on Graphics (SIGGRAPH 2022)
 date: 2022-08-08
 doi: 
 
