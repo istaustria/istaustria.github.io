@@ -66,7 +66,7 @@ project: https://misop.github.io/projects/DirectInkReinforcementLearning/index.h
 
 teaser:
   images:
-  - url: teaser.jpg
+  - url: teaser.png
     alt: Closed-Loop Control of Direct Ink Writing via Reinforcement Learning (Teaser Image)
 
 ---
