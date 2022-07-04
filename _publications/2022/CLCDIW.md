@@ -79,7 +79,7 @@ teaser:
 
 ### Resources
 
-* [Paper (19.4 MB)]({{ page.paper }})
+* [Paper (33.0 MB)]({{ page.paper }})
 * [Video]({{ page.video }})
 
 <!--
