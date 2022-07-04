@@ -25,10 +25,10 @@ authors:
     url: https://www.cse.cuhk.edu.hk/~cwfu
 
 affiliations:
-  - name: The Chinese University of Hong Kong
-    url: https://cuhk.edu.hk
   - name: IST Austria
     url: https://ist.ac.at
+  - name: The Chinese University of Hong Kong
+    url: https://cuhk.edu.hk
   - name: Singapore University of Technology and Design
     url: https://www.sutd.edu.sg
   - name: Hasso Plattner Institute
