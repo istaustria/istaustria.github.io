@@ -3,26 +3,32 @@ layout: publication
 title: "Closed-Loop Control of Direct Ink Writing via Reinforcement Learning"
 
 authors:
-  - name: Liu, Zhenyuan
-    affiliations: [1, 2]
-    url: https://desmondlzy.me
-  - name: Hu, Jingyu
+  - name: Piovarči, Michal
     affiliations: [1]
-  - name: Xu, Hao
-    affiliations: [1]
-    url: https://www.cse.cuhk.edu.hk/~haoxu
-  - name: Song, Peng
-    affiliations: [3]
-    url: https://songpenghit.github.io
-  - name: Zhang, Ran
-    affiliations: [4]
-    url: https://ran-zhang.com/
-  - name: Bickel, Bernd
+    url: http://pdf.mmci.uni-saarland.de/people/misop/
+  - name: Foshey, Michael
     affiliations: [2]
-    url: https://berndbickel.com/about-me
-  - name: Fu, Chi-Wing
+    url: https://www.csail.mit.edu/person/michael-foshey
+  - name: Jie, Xu
+    affiliations: [2]
+    url: http://people.csail.mit.edu/jiex/
+  - name: Erps, Timothy
+    affiliations: [2]
+  - name: Babaei, Vahid
+    affiliations: [3]
+    url: http://aidam.mpi-inf.mpg.de/
+  - name: Didyk, Piotr
+    affiliations: [4]
+    url: https://www.pdf.inf.usi.ch/index.html
+  - name: Rusinkiewicz, Szymon
+    affiliations: [5]
+    url: https://www.cs.princeton.edu/~smr/
+  - name: Matusik, Wojciech
+    affiliations: [2]
+    url: https://cdfg.csail.mit.edu/wojciech
+  - name: Bickel, Bernd
     affiliations: [1]
-    url: https://www.cse.cuhk.edu.hk/~cwfu
+    url: https://berndbickel.com/about-me
 
 affiliations:
   - name: Institute of Science and Technology Austria, ISTA
