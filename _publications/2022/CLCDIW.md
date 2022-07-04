@@ -34,25 +34,24 @@ affiliations:
   - name: Hasso Plattner Institute
     url: https://hpi.de/en/index.html
 
-publication: Computer Graphics Forum (Eurographics 2022) (Conditionally accepted)
-date: 2022-01-10
+publication: ACM Transactions on Graphics (ACM SIGGRAPH 2022)
+date: 2022-08-08
 doi: 
 
 bibtex: |
-  @article{liu2022rigidity,
-    title = {Worst-Case Rigidity Analysis and Optimization for Assemblies with Mechanical Joints},
-    author = {Zhenyuan Liu and Jingyu Hu and Hao Xu and Peng Song and Ran Zhang and Bernd Bickel and Chi-Wing Fu},
+  @article{Piovarci2022,
+    title = {Closed-Loop Control of Direct Ink Writing via Reinforcement Learning},
+    author = {Michal Piovar\v{c}i and Michael Foshey and Jie Xu and Timothy Erps and Vahid Babaei and Piotr Didyk and Szymon Rusinkiewicz and Wojciech Matusik and Bernd Bickel},
     year = {2022},
-    journal = {Computer Graphics Forum}, 
+    journal = {ACM Transactions on Graphics (Proc. SIGGRAPH)}, 
     volume = {41},
-    number = {2},
-    note = {to appear}
+    number = {4}
   }
 
 
-paper: https://desmondlzy.me/publications/rigidity/paper.pdf
-suppldoc: 
-video: https://www.youtube.com/watch?v=YOr1bgBM_xY
+paper: https://misop.github.io/projects/DirectInkReinforcementLearning/files/Piovarci2022.pdf
+suppldoc: https://misop.github.io/projects/DirectInkReinforcementLearning/files/Piovarci2022_supplement.pdf
+video: https://youtu.be/8nIYLAbi8uc
 
 abstract: |
   Enabling additive manufacturing to employ a wide range of novel, functional materials can be a major boost to this technology. However, making such materials printable requires painstaking trial-and-error by an expert operator, as they typically tend to exhibit peculiar rheological or hysteresis properties. Even in the case of successfully finding the process parameters, there is no guarantee of print-to-print consistency due to material differences between batches. These challenges make closed-loop feedback an attractive option where the process parameters are adjusted on-the-fly. There are several challenges for designing an efficient controller: the deposition parameters are complex and highly coupled, artifacts occur after long time horizons, simulating the deposition is computationally costly, and learning on hardware is intractable. In this work, we demonstrate the feasibility of learning a closed-loop control policy for additive manufacturing using reinforcement learning. We show that approximate, but efficient, numerical simulation is sufficient as long as it allows learning the behavioral patterns of deposition that translate to real-world experiences. In combination with reinforcement learning, our model can be used to discover control policies that outperform baseline controllers. Furthermore, the recovered policies have a minimal sim-to-real gap. We showcase this by applying our control policy in-vivo on a single-layer printer using low and high viscosity materials.
