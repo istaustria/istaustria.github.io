@@ -1,46 +1,29 @@
 ---
 layout: publication
-title: "Closed-Loop Control of Direct Ink Writing via Reinforcement Learning"
+title: "Computational Design of High-level Interlocking Puzzles"
 
 authors:
-  - name: Piovarči, Michal
+  - name: Chen, Rulin
     affiliations: [1]
-    url: http://pdf.mmci.uni-saarland.de/people/misop/
-  - name: Foshey, Michael
-    affiliations: [2]
-    url: https://www.csail.mit.edu/person/michael-foshey
-  - name: Jie, Xu
-    affiliations: [2]
-    url: http://people.csail.mit.edu/jiex/
-  - name: Erps, Timothy
-    affiliations: [2]
-  - name: Babaei, Vahid
-    affiliations: [3]
-    url: http://aidam.mpi-inf.mpg.de/
-  - name: Didyk, Piotr
-    affiliations: [4]
-    url: https://www.pdf.inf.usi.ch/index.html
-  - name: Rusinkiewicz, Szymon
-    affiliations: [5]
-    url: https://www.cs.princeton.edu/~smr/
-  - name: Matusik, Wojciech
-    affiliations: [2]
-    url: https://cdfg.csail.mit.edu/wojciech
+  - name: Wang, Ziqi
+    affiliations: [2, 3]
+    url: https://kiki007.github.io/
+  - name: Song, Peng
+    affiliations: [1]
+    url: https://songpenghit.github.io/
   - name: Bickel, Bernd
-    affiliations: [1]
+    affiliations: [4]
     url: https://berndbickel.com/about-me
 
 affiliations:
+  - name: SUTD
+    url: https://sutd.edu.sg/
+  - name: EPFL
+    url: https://www.epfl.ch/en/
+  - name: ETH Zürich 
+    url: https://www.epfl.ch/en/
   - name: Institute of Science and Technology Austria, ISTA
     url: https://ist.ac.at
-  - name: MIT CSAIL
-    url: https://www.csail.mit.edu/
-  - name: Max-Planck Institute for Informatik
-    url: https://www.mpi-inf.mpg.de/home
-  - name: Università della Svizzera italiana
-    url: https://www.usi.ch/it
-  - name: Princeton University
-    url: https://www.princeton.edu/
 
 publication: ACM Transactions on Graphics (SIGGRAPH 2022)
 date: 2022-08-08
