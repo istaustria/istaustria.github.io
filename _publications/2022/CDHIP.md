@@ -47,12 +47,12 @@ video: https://youtu.be/sl6GiL5z2OM
 abstract: |
   Interlocking puzzles are intriguing geometric games where the puzzle pieces are held together based on their geometric arrangement, preventing the puzzle from falling apart. High-level-of-difficulty, or simply high-level, interlocking puzzles are a subclass of interlocking puzzles that require multiple moves to take out the first subassembly from the puzzle. Solving a high-level interlocking puzzle is a challenging task since one has to explore many different configurations of the puzzle pieces until reaching a configuration where the first subassembly can be taken out. Designing a high-level interlocking puzzle with a user-specified level of difficulty is even harder since the puzzle pieces have to be interlocking in all the configurations before the first subassembly is taken out. In this paper, we present a computational approach to design high-level interlocking puzzles. The core idea is to represent all possible configurations of an interlocking puzzle as well as transitions among these configurations using a rooted, undirected graph called a disassembly graph and leverage this graph to find a disassembly plan that requires a minimal number of moves to take out the first subassembly from the puzzle. At the design stage, our algorithm iteratively constructs the geometry of each puzzle piece to expand the disassembly graph incrementally, aiming to achieve a user-specified level of difficulty. We show that our approach allows efficient generation of high-level interlocking puzzles of various shape complexities, including new solutions not attainable by state-of-the-art approaches.
 
-project: https://misop.github.io/projects/DirectInkReinforcementLearning/index.html
+project: https://sutd-cgl.github.io/supp/Publication/projects/2022-SIGGRAPH-High-LevelPuzzle/index.html
 
 teaser:
   images:
   - url: teaser.png
-    alt: Closed-Loop Control of Direct Ink Writing via Reinforcement Learning (Teaser Image)
+    alt: Computational Design of High-level Interlocking Puzzles (Teaser Image)
 
 ---
 
@@ -70,7 +70,7 @@ teaser:
 
 ### Resources
 
-* [Paper (33.0 MB)]({{ page.paper }})
+* [Paper (17.0 MB)]({{ page.paper }})
 * [Video]({{ page.video }})
 
 <!--
@@ -79,7 +79,7 @@ teaser:
 
 ### Video
 
-{% include youtube.html id='8nIYLAbi8uc' %}
+{% include youtube.html id='sl6GiL5z2OM' %}
 
 ### Citation
 
@@ -87,4 +87,4 @@ teaser:
 
 
 ### Acknowledgments
-This work is graciously supported by the following grant agencies: FWF Lise Meitner (Grant M 3319), SNSF (Grant 200502), ERC Starting Grant (MATERIALIZABLE-715767), NSF (Grant IIS-181507).
+This work was supported by the SUTD Start-up Research Grant (Number: SRG ISTD 2019 148), the Swiss National Science Foundation (NCCR Digital Fabrication Agreement #51NF40-141853), and the European Research Council (ERC) under the European Union’s Horizon 2020 research and innovation programme (Grant Agreement No 715767 – MATERIALIZABLE).
