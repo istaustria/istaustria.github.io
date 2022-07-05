@@ -35,7 +35,6 @@ bibtex: |
     author = {Rulin Chen and Ziqi Wang and Peng Song and Bernd Bickel},
     year = {2022},
     journal = {ACM Transactions on Graphics (Proc. SIGGRAPH)},
-    pages   = {150:1 -- 150:15},
     volume = {41},
     number = {4}
   }
