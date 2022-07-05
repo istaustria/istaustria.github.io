@@ -30,11 +30,11 @@ date: 2022-08-08
 doi: 
 
 bibtex: |
-  @article{Piovarci2022,
-    title = {Closed-Loop Control of Direct Ink Writing via Reinforcement Learning},
-    author = {Michal Piovar\v{c}i and Michael Foshey and Jie Xu and Timothy Erps and Vahid Babaei and Piotr Didyk and Szymon Rusinkiewicz and Wojciech Matusik and Bernd Bickel},
+  @article{Chen-2022-HighLevelPuzzle,
+    title = {Computational Design of High-level Interlocking Puzzles},
+    author = {Rulin Chen and Ziqi Wang and Peng Song and Bernd Bickel},
     year = {2022},
-    journal = {ACM Transactions on Graphics (Proc. SIGGRAPH)}, 
+    journal = {ACM Transactions on Graphics (Proc. SIGGRAPH)},
     volume = {41},
     number = {4}
   }
