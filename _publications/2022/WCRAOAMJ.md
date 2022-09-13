@@ -50,7 +50,7 @@ bibtex: |
   }
 
 
-paper: https://desmondlzy.me/publications/rigidity/paper.pdf
+paper: https://research-explorer.app.ist.ac.at/download/10922/10923/paper.pdf
 suppldoc: 
 video: https://www.youtube.com/watch?v=YOr1bgBM_xY
 
