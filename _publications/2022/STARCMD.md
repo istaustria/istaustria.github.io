@@ -4,20 +4,24 @@ title: State of the Art in Computational Mould Design
 
 authors:
   - name: Alderighi, Thomas
-    url: https://people.mpi-inf.mpg.de/~oklehm/
+    url: http://vcg.isti.cnr.it/~alderighi/
     affiliations: [1]
   - name: Malomo, Luigi
     affiliations: [1]
+    url: http://vcg.isti.cnr.it/~malomo/
   - name: Auzinger, Thomas
     affiliations: [2]
+    url: https://auzinger.name/
   - name: Bickel, Bernd
     affiliations: [2]
+    url: http://berndbickel.com
     id: berndbickel
   - name: Cignoni, Paolo
     affiliations: [1]
+    url: http://vcg.isti.cnr.it/~cignoni/
   - name: Pietroni, Nico
     affiliations: [3]
-    url: http://berndbickel.com
+    url: https://www.nicopietroni.com/
 
 affiliations:
   - name: CNR-ISTI
