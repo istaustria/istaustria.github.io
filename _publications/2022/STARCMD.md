@@ -58,4 +58,4 @@ teaser:
 
 ### Links
 
-![Paper pre-peer review version](paper.jpg) [PDF, 32.48MB]({{page.paper}}) DOI [https://doi.org/10.1111/cgf.14581](https://doi.org/10.1111/cgf.14581)
+![Paper](paper.jpg) [Pre-peer review version PDF, 32.48MB]({{page.paper}}) This is the pre-peer reviewed version of the following article: Alderighi, T., Malomo, L., Auzinger, T., Bickel, B., Cignoni, P. and Pietroni, N. (2022), State of the Art in Computational Mould Design. Computer Graphics Forum, which has been published in final form at [https://doi.org/10.1111/cgf.14581] (https://doi.org/10.1111/cgf.14581). This article may be used for non-commercial purposes in accordance with Wiley Terms and Conditions for Use of Self-Archived Versions.
