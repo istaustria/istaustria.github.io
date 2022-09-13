@@ -36,8 +36,8 @@ abstract: |
 
 teaser:
   image:
-    - url: teaser.png
-      alt: Recent Advances in Facial Appearance Capture
+    - url: teaser.jpg
+      alt: A simple example illustrating the main concepts and terms that describe a casting mold
 ---
 
 ## {{ page.title }}
