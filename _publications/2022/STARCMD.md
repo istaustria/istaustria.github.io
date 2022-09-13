@@ -58,4 +58,4 @@ teaser:
 
 ### Links
 
-![Paper](paper.jpg) Paper pre-peer review version [PDF, 32.48MB]({{page.paper}}) DOI [https://doi.org/10.1111/cgf.14581](https://doi.org/10.1111/cgf.14581)
+![Paper pre-peer review version](paper.jpg) [PDF, 32.48MB]({{page.paper}}) DOI [https://doi.org/10.1111/cgf.14581](https://doi.org/10.1111/cgf.14581)
