@@ -5,7 +5,7 @@ title: "Mechanics-Aware Deformation of Yarn Pattern Geometry"
 authors:
   - name: Sperl, Georg
     affiliations: [1]
-    url: https://pub.ist.ac.at/~gsperl/
+    url: https://sperl.me/
   - name: Narain, Rahul
     affiliations: [2]
     url: http://www.cse.iitd.ac.in/~narain/
