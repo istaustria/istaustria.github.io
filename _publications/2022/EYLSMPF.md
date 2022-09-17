@@ -5,7 +5,7 @@ title: "Estimation of Yarn-Level Simulation Models for Production Fabrics
 authors:
   - name: Sperl, Georg
     affiliations: [1]
-    url: https://pub.ist.ac.at/~gsperl/
+    url: https://sperl.me/
   - name: Sánchez-Banderas, Rosa M.
     affiliations: [2]
     url: http://www.thepenguincode.com/rosa/blog/
