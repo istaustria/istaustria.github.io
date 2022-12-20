@@ -1,7 +1,7 @@
 ---
 id: raphael
 name: Charrondière, Raphaël
-type: postdoc # one of [faculty, assistant, postdoc, phdstudent, intern]
+type: alumni
 
 
 # optional fields
