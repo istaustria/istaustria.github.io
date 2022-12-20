@@ -9,7 +9,7 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-
+    
 social:
   - title: twitter
     url: https://twitter.com/istaustria
@@ -19,6 +19,24 @@ social:
     url: http://github.com/istaustria
   - title: youtube
     url: https://www.youtube.com/user/ISTAustria
+
+roles:
+  - id: faculty
+    title: Faculty
+  - id: assistant
+    title: Administrative Assistants
+  - id: postdoc
+    title: Senior Researchers
+  - id: phdstudent
+    title: PhD Students
+  - id: engineer
+    title: Engineers
+  - id: intern
+    title: Interns
+  - id: alumni
+    title: Alumni
+  - id: visitor
+    title: Visitors
 
 title: Visual Computing @ IST Austria
 url: https://istaustria.github.io

@@ -2,73 +2,24 @@
 layout: default
 ---
 <section id="people">
-    <div class="container text-center">
-        <h2>People</h2>
+  <div class="container text-center">
+    <h2>People</h2>
+  </div>
+
+  <div class="container">
+    
+    {% for role in site.roles %}
+    {% assign cat = site.people | where: "type", role.id %}
+    {% if cat.size > 0 %}
+    <div class="row">
+      <div class="col-sm-12">
+        <h3>{{ role.title }}</h3>
+      </div>
     </div>
+    {% include people-list.html type=role.id %}
+    {% endif %}
+    {% endfor %}
 
-    <div class="container">
-        <div class="row">
-            <div class="col-sm-12">
-                <h3>Faculty</h3>
-            </div>
-        </div>
-
-        {% include people-list.html type='faculty' %}
-
-        <div class="row">
-            <div class="col-sm-12">
-                <h3>Administrative Assistants</h3>
-            </div>
-        </div>
-
-        {% include people-list.html type='assistant' %}
-
-        <div class="row">
-            <div class="col-sm-12">
-                <h3>Senior Researchers</h3>
-            </div>
-        </div>
-
-        {% include people-list.html type='postdoc' %}
-
-        <div class="row">
-            <div class="col-sm-12">
-                <h3>PhD Students</h3>
-            </div>
-        </div>
-
-        {% include people-list.html type='phdstudent' %}
-
-	        <div class="row">
-            <div class="col-sm-12">
-                <h3>Engineers</h3>
-            </div>
-        </div>
-
-		{% include people-list.html type='engineer' %}
-
-			        <div class="row">
-            <div class="col-sm-12">
-                <h3>Interns</h3>
-            </div>
-        </div>
-
-        {% include people-list.html type='intern' %}
-
-        <div class="row">
-            <div class="col-sm-12">
-                <h3>Alumni</h3>
-            </div>
-        </div>
-
-        {% include people-list.html type='alumni' %}
-
-	<div class="row">
-          <div class="col-sm-12">
-            <h3>Visitors</h3>
-          </div>
-        </div>
-	
-        {% include people-list.html type='visitor' %}
-    </div>
+  </div>
+  
 </section>
