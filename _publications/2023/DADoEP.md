@@ -76,9 +76,7 @@ teaser:
 
 ### Acknowledgements
 
-We thank Georg Sperl for helping with early research for this paper, Mickael Ly and Yi-Lu Chen for proofreading, and members of the ISTA Visual Computing Group for general feedback. This project was funded in part by the European Research Council (ERC Consolidator Grant 101045083 CoDiNA).
-
-The <a href="https://sketchfab.com/3d-models/yacht-0dd451f295d049cea20c17d3ffa87ee3">motorboat</a> and <a href="https://sketchfab.com/3d-models/sailboat-76d0b1e24be14d2f9a524bfce3001aeb">sailboat</a> were modeled by Sergei and the <a href="https://sketchfab.com/3d-models/palm-trees-55690379305145488e20afb05fc687e6">palmtrees</a> by YadroGames. The <a href="https://www.humus.name/index.php?page=Textures&ID=100">environment map</a> was created by Emil Persson.
+This work was supported by the European Research Council (ERC) under the European Union’s Horizon 2020 research and innovation programme (grant agreement No 715767 – MATERIALIZABLE), and FWF Lise Meitner (Grant M 3319). We thank the anonymous reviewers for their insightful feedback; Solal Pirelli, Shardul Chiplunkar, and Paola Mejia for proofreading; everyone in the visual computing group at ISTA for inspiring lunch and coffee breaks; Thibault Tricard for help producing the results of Phasor Noise.
 
 ![EU](flag_yellow_low.jpg){: height="70x"}
 ![ERC](LOGO-ERC.jpg){: height="70px"}
