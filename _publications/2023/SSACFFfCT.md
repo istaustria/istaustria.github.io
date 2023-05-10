@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Gloss-aware Color Correction for 3D Printing"
+title: "Skin-Screen: A Computational Fabrication Framework for Color Tattoos"
 
 authors:
   - name: Piovarci, Michal
