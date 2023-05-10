@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Directionality-Aware Design of Embroidery Patterns"
+title: "Learning Deposition Policies for Fused Multi-Material 3D Printing"
 
 authors:
   - name: Liao, Kang
