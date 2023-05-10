@@ -76,4 +76,3 @@ teaser:
 We thank Todor Asenov and the Miba Machine Shop for their help in assembling the tattoo machine and manufacturing the substrates. We thank Geysler Rodrigues for the insightful discussions on tattooing practices from a professional artist's perspective. We thank Maria Fernanda Portugal for sharing a doctor's perspective on medical applications of tattoos. This work is graciously supported by the FWF Lise Meitner (Grant M 3319).
 
 ![FWF](fwf.jpg){: height="70px"}
-![SNF](snf.png){: height="70px"}
