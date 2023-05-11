@@ -6,4 +6,5 @@ email: ran.zhang@ist.ac.at
 bio: Computational Design
 webpage: https://ran-zhang.com/ # personal webpage
 type: alumni
+grp: bickel
 ---

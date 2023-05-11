@@ -20,6 +20,7 @@ social:
   - title: youtube
     url: https://www.youtube.com/user/ISTAustria
 
+
 roles:
   - id: faculty
     title: Faculty
@@ -42,3 +43,13 @@ title: Visual Computing @ IST Austria
 url: https://istaustria.github.io
 email: mortenbh@ist.ac.at
 description: "Visual Computing @ IST Austria"
+
+## Fix use of this plugin
+#plugins:
+#  - jekyll-datapage-generator
+#page_gen-dirs: true
+#page-gen:
+#- data: 'groups'
+#  template: 'people'
+#  name: 'grpid'
+#  dir: 'people'

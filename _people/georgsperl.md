@@ -6,4 +6,5 @@ email: georg.sperl@ist.ac.at
 bio: Physics-Based Simulation
 webpage: https://sperl.me/
 type: alumni
+grp: wojtan
 ---

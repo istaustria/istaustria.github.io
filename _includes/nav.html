@@ -8,10 +8,22 @@
         <div id="navbar" class="navbar-collapse collapse">
             <ul class="nav navbar-nav">
                 <li><a href="{{ '/' | prepend: site.baseurl }}">News</a>
-                <li><a href="{{ '/people' | prepend: site.baseurl }}">People</a>
+                <li class="navlist">
+                  <div class="dropdown">
+                    <button class="dropbtn">
+                      <a href="{{ '/people' | prepend: site.baseurl }}">People</a>
+                    </button>
+                    <div class="dropdown-content">
+                      <a href="{{ '/people/grpbickel' | prepend: site.baseurl }}">Bickel group</a>
+                      <a href="{{ '/people/grpkolmogorov' | prepend: site.baseurl }}">Kolmogorov group</a>
+                      <a href="{{ '/people/grplampert' | prepend: site.baseurl }}">Lampert group</a>
+                      <a href="{{ '/people/grpwojtan' | prepend: site.baseurl }}">Wojtan group</a>
+                    </div>
+                  </div> 
                 <li><a href="{{ '/publications' | prepend: site.baseurl }}">Publications</a>
                 <li><a href="{{ '/openpositions' | prepend: site.baseurl }}">Open Positions</a>
             </ul>
-        </div>
+        </div> 
     </div>
 </nav>
+

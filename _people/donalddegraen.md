@@ -2,6 +2,7 @@
 id: donalddegraen
 name: Degraen, Donald
 type: alumni # one of [faculty, assistant, postdoc, phdstudent, intern]
+grp: missing
 
 # optional fields
 room: 

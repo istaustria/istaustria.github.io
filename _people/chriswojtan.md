@@ -7,4 +7,6 @@ email: wojtan@ist.ac.at
 bio: Physics Simulation, Geometry Processing
 webpage: http://pub.ist.ac.at/group_wojtan/
 type: faculty
+grp: wojtan
 ---
+ 

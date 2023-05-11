@@ -6,4 +6,5 @@ email: tomas.skrivan@ist.ac.at
 bio: 
 webpage: https://lecopivo.github.io/
 type: alumni
+grp: wojtan
 ---

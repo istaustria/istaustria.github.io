@@ -7,4 +7,5 @@ email: bernd.bickel@ist.ac.at
 bio: Computational Fabrication
 webpage: http://berndbickel.com/
 type: faculty
+grp: bickel
 ---

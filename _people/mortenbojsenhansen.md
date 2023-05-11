@@ -4,6 +4,7 @@ name: Bojsen-Hansen, Morten
 email: mortenbh@ist.ac.at
 webpage: http://alas.dk
 type: alumni
+grp: wojtan
 bio: |
   Morten Bojsen-Hansen is a fifth year PhD student advised by [Chris
   Wojtan](http://pub.ist.ac.at/group_wojtan/). He studied [Computer

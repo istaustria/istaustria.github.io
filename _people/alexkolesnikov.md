@@ -6,4 +6,5 @@ email: akolesnikov@ist.ac.at
 bio: computer vision, machine learning
 webpage: http://pub.ist.ac.at/~akolesnikov/
 type: alumni
+grp: missing
 ---

@@ -6,4 +6,5 @@ email: christian.hafner@ist.ac.at
 bio: Computational Fabrication, Physics-based Simulation
 webpage: https://chrishafner.github.io/
 type: phdstudent
+grp: wojtan
 ---

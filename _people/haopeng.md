@@ -5,6 +5,7 @@ room: Lab Building West, 2nd floor
 email: penghao@mail.sdu.edu.cn
 webpage: https://penghao94.github.io/
 type: alumni
+grp: bickel
 bio: |
   Hao was a research intern at IST Austria, advised by Prof. Bernd Bickel.
 ---

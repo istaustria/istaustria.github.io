@@ -1,0 +1,11 @@
+- grpid: bickel-grp
+  grpname: Bickel group
+
+- grpid: kolmogorov-grp
+  grpname: Kolmogorov group
+
+- grpid: lampert-grp
+  grpname: Lampert group
+
+- grpid: wojtan-grp
+  grpname: Wojtan group

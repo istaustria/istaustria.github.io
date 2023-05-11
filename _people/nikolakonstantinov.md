@@ -6,4 +6,5 @@ email: nikola.konstantinov@ist.ac.at
 bio: machine learning
 webpage: https://nkonstan.pages.ist.ac.at/
 type: alumni
+grp: missing
 ---

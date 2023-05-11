@@ -6,4 +6,5 @@ email: patrick.blies@ist.ac.at
 bio:
 
 type: alumni
+grp: missing
 ---

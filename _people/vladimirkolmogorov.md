@@ -7,4 +7,5 @@ email: vnk@ist.ac.at
 bio: Computer Vision, Discrete Optimization
 webpage: http://pub.ist.ac.at/~vnk/
 type: faculty
+grp: kolmogorov
 ---

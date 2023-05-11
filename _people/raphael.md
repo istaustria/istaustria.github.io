@@ -2,6 +2,7 @@
 id: raphael
 name: Charrondière, Raphaël
 type: alumni
+grp: bickel
 
 
 # optional fields

@@ -6,4 +6,5 @@ email: ruslan.guseinov@ist.ac.at
 bio: Computational Fabrication
 webpage: http://ruslanguseinov.com/
 type: alumni
+grp: bickel
 ---

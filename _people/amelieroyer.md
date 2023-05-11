@@ -6,4 +6,5 @@ email: aroyer@ist.ac.at
 bio: computer vision, machine learning
 webpage: http://pub.ist.ac.at/~aroyer/
 type: alumni
+grp: missing
 ---

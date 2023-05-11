@@ -1,25 +1,5 @@
 ---
-layout: default
+layout: people
+grpname: People
+grpid: all
 ---
-<section id="people">
-  <div class="container text-center">
-    <h2>People</h2>
-  </div>
-
-  <div class="container">
-    
-    {% for role in site.roles %}
-    {% assign cat = site.people | where: "type", role.id %}
-    {% if cat.size > 0 %}
-    <div class="row">
-      <div class="col-sm-12">
-        <h3>{{ role.title }}</h3>
-      </div>
-    </div>
-    {% include people-list.html type=role.id %}
-    {% endif %}
-    {% endfor %}
-
-  </div>
-  
-</section>
