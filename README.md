@@ -88,7 +88,7 @@ A minimal example of a publication follows.
 	  - name: Jeschke, Stefan
 	  - name: Wojtan, Chris
 	    id: chriswojtan
-	    url: http://pub.ist.ac.at/group_wojtan/
+	    url: https://pub.ista.ac.at/~wojtan/
 
 	publication: ACM Transactions on Graphics 34(3)
 	date: 2015-05-01

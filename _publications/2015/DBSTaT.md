@@ -8,7 +8,7 @@ authors:
   - name: Wojtan, Chris
     affiliations: [1]
     id: chriswojtan
-    url: http://pub.ist.ac.at/group_wojtan/
+    url: https://pub.ista.ac.at/~wojtan/
   - name: Grinspun, Eitan
 
 affiliations:

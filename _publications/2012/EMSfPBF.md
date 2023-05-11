@@ -5,7 +5,7 @@ authors:
   - name: Yu, Jihun
   - name: Wojtan, Chris
     id: chriswojtan
-    url: http://pub.ist.ac.at/group_wojtan/
+    url: https://pub.ista.ac.at/~wojtan/
   - name: Turk, Greg
   - name: Yap, Chee
 

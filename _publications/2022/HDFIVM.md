@@ -7,7 +7,7 @@ authors:
     url: https://sadashigeishida.bitbucket.io/
   - name: Wojtan, Chris
     affiliations: [1]
-    url: https://pub.ist.ac.at/group_wojtan/
+    url: https://pub.ista.ac.at/~wojtan/
   - name: Chern, Albert
     affiliations: [2]
     url: https://cseweb.ucsd.edu/~alchern/

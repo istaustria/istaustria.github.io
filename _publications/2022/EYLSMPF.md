@@ -14,7 +14,7 @@ authors:
     url: https://www.manwenli.com/
   - name: Wojtan, Chris
     affiliations: [1]
-    url: https://pub.ist.ac.at/group_wojtan/
+    url: https://pub.ista.ac.at/~wojtan/
   - name: Otaduy, Miguel A.
     affiliations: [4]
     url: http://mslab.es/otaduy

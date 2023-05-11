@@ -21,7 +21,7 @@ authors:
     url: http://mmacklin.com
   - name: Wojtan, Chris
     affiliations: [2]
-    url: http://pub.ist.ac.at/group_wojtan/
+    url: https://pub.ista.ac.at/~wojtan/
 
 affiliations:
   - name: NVIDIA

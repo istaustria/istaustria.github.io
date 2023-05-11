@@ -11,7 +11,7 @@ authors:
     url: http://www.cse.iitd.ac.in/~narain/
   - name: Wojtan, Chris
     affiliations: [1]
-    url: http://pub.ist.ac.at/group_wojtan/
+    url: https://pub.ista.ac.at/~wojtan/
 
 affiliations:
   - name: IST Austria
