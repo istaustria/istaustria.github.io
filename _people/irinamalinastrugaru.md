@@ -6,5 +6,7 @@ grp: bickel
 # Optional
 room: Lab Building West, 2nd floor, 107; 3rd floor, 204
 email: irina-malina.strugaru@ist.ac.at
-bio: 
+bio:
+coaffiliate: Palacci group (ISTA)
+coaffiliateurl: http://palaccilab.ucsd.edu/
 ---

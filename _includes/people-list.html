@@ -40,6 +40,17 @@
                         <a href="{{ p.webpage }}">{{ p.webpage | split: '//' | last || truncate: 25, '...' }}</a>
                     </li>
                 {% endif %}
+                {% if p.coaffiliate %}
+                    <li>
+                      <span class="glyphicon glyphicon-link" aria-hidden="true"></span>
+                      Co-affiliation: 
+                      {% if p.coaffiliateurl %}
+                      <a href="{{ p.coaffiliateurl }}">{{ p.coaffiliate }}</a>
+                      {% else %}
+                      {{ p.coaffiliate }}
+                      {% endif %}
+                    </li>
+                {% endif %}
                 {% if p.bio %}
                     <li>
                         <span class="glyphicon glyphicon-chevron-down" aria-hidden="true"></span>
