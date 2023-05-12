@@ -12,6 +12,6 @@ authors:
 
 publication: ACM Transactions on Graphics 32(4) (SIGGRAPH 2013)
 date: 2013-07-20
-paper: http://pub.ist.ac.at/group_wojtan/projects/2013_Ando_HALSoTM/download/tetflip_fixed.pdf
-project: http://pub.ist.ac.at/group_wojtan/projects/2013_Ando_HALSoTM/index.html
+paper: https://pub.ista.ac.at/group_wojtan/projects/2013_Ando_HALSoTM/download/tetflip_fixed.pdf
+project: https://pub.ista.ac.at/group_wojtan/projects/2013_Ando_HALSoTM/index.html
 ---

@@ -93,8 +93,8 @@ A minimal example of a publication follows.
 	publication: ACM Transactions on Graphics 34(3)
 	date: 2015-05-01
 
-	paper: http://pub.ist.ac.at/group_wojtan/projects/2015_Jeschke_WWAvWPI/wavefront_preprint.pdf
-	project: http://pub.ist.ac.at/group_wojtan/projects/2015_Jeschke_WWAvWPI/index.html
+	paper: http://pub.ista.ac.at/group_wojtan/projects/2015_Jeschke_WWAvWPI/wavefront_preprint.pdf
+	project: http://pub.ista.ac.at/group_wojtan/projects/2015_Jeschke_WWAvWPI/index.html
 	---
 
 This will create a publication without a publication with an *external* project
@@ -126,7 +126,7 @@ sure you crop the picture to a reasonable size before uploading it.
 
 Large files such as preprints or videos should *not* be uploaded to GitHub! We
 are still working on a more systematic approach to handling such large files,
-but for now, please store them at your IST website (http://pub.ist.ac.at/~yourusername).
+but for now, please store them at your IST website (http://pub.ista.ac.at/~yourusername).
 
 It is possible to add comments, which are not shown on the final web page, to [Markdown](http://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) pages with
 

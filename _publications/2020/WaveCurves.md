@@ -15,7 +15,7 @@ authors:
     affiliations: [2]
   - name: Wojtan, Chris
     affiliations: [1]
-    url: http://pub.ist.ac.at/group_wojtan
+    url: http://pub.ist.ac.at/~wojtan
 
 
 affiliations:
@@ -38,11 +38,11 @@ bibtex: |
     publisher = {ACM}
   }
 
-paper: http://pub.ist.ac.at/group_wojtan/projects/2020_Skrivan_WaveCurves/wave_curves_2020.pdf
-video: http://pub.ist.ac.at/group_wojtan/projects/2020_Skrivan_WaveCurves/wave_curves_main_with_authors.mp4
-extravideo: http://pub.ist.ac.at/group_wojtan/projects/2020_Skrivan_WaveCurves/wave_curves_comparisons_with_authors.mp4
-errata: http://pub.ist.ac.at/group_wojtan/projects/2020_Skrivan_WaveCurves/wave_curves_errata.pdf
-erratavideo: http://pub.ist.ac.at/group_wojtan/projects/2020_Skrivan_WaveCurves/results_errata.zip
+paper: https://pub.ista.ac.at/group_wojtan/projects/2020_Skrivan_WaveCurves/wave_curves_2020.pdf
+video: https://pub.ista.ac.at/group_wojtan/projects/2020_Skrivan_WaveCurves/wave_curves_main_with_authors.mp4
+extravideo: https://pub.ista.ac.at/group_wojtan/projects/2020_Skrivan_WaveCurves/wave_curves_comparisons_with_authors.mp4
+errata: https://pub.ista.ac.at/group_wojtan/projects/2020_Skrivan_WaveCurves/wave_curves_errata.pdf
+erratavideo: https://pub.ista.ac.at/group_wojtan/projects/2020_Skrivan_WaveCurves/results_errata.zip
 
 abstract: |
   We propose a method to enhance the visual detail of a water surface simulation. Our method works as a post-processing step which takes a simulation as input and increases its apparent resolution by simulating many detailed Lagrangian water waves on top of it. We extend linear water wave theory to work in non-planar domains which deform over time, and we discretize the theory using Lagrangian wave packets attached to spline curves. The method is numerically stable and trivially parallelizable, and it produces high frequency ripples with dispersive wave-like behaviors customized to the underlying fluid simulation.

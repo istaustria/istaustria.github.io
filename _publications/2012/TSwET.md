@@ -25,8 +25,8 @@ publication: ACM Transactions on Graphics 31(4) (SIGGRAPH 2012)
 date: 2012-08-01
 doi: http://dx.doi.org/10.1145/2185520.2185549
 
-paper: http://pub.ist.ac.at/group_wojtan/projects/tracking_surfaces/topoReg_web.pdf
-video: http://pub.ist.ac.at/group_wojtan/projects/tracking_surfaces/topoReg_final_med.mp4
+paper: https://pub.ista.ac.at/group_wojtan/projects/tracking_surfaces/topoReg_web.pdf
+video: https://pub.ista.ac.at/group_wojtan/projects/tracking_surfaces/topoReg_final_med.mp4
 
 abstract: |
   We present a method for recovering a temporally coherent, deforming triangle

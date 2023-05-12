@@ -14,11 +14,11 @@ affiliations:
 
 publication: Computer Graphics Forum 35(2)
 date: 2016-05-01
-paper: http://pub.ist.ac.at/group_wojtan/projects/2016_Jeschke_GDCI/paper_preprint.pdf
-results: http://pub.ist.ac.at/group_wojtan/projects/2016_Jeschke_GDCI/additionalMaterial_preprint.pdf
-video: http://pub.ist.ac.at/group_wojtan/projects/2016_Jeschke_GDCI/video_preprint.mp4
-binary: http://pub.ist.ac.at/group_wojtan/projects/2016_Jeschke_GDCI/GDCIEditorBinary.zip
-code: http://pub.ist.ac.at/group_wojtan/projects/2016_Jeschke_GDCI/GDCIEditorSource.zip
+paper: https://pub.ista.ac.at/group_wojtan/projects/2016_Jeschke_GDCI/paper_preprint.pdf
+results: https://pub.ista.ac.at/group_wojtan/projects/2016_Jeschke_GDCI/additionalMaterial_preprint.pdf
+video: https://pub.ista.ac.at/group_wojtan/projects/2016_Jeschke_GDCI/video_preprint.mp4
+binary: https://pub.ista.ac.at/group_wojtan/projects/2016_Jeschke_GDCI/GDCIEditorBinary.zip
+code: https://pub.ista.ac.at/group_wojtan/projects/2016_Jeschke_GDCI/GDCIEditorSource.zip
 
 
 abstract: |

@@ -17,10 +17,10 @@ date: 2016-09-15
 doi: http://dx.doi.org/10.15479/AT:ISTA:th_640
 
 paper: http://dx.doi.org/10.15479/AT:ISTA:th_640
-paper_mirror: http://pub.ist.ac.at/group_wojtan/projects/2016_Bojsen-Hansen_TCaAWSW/2016_Bojsen-Hansen_TCaAWSW.pdf
+paper_mirror: https://pub.ista.ac.at/group_wojtan/projects/2016_Bojsen-Hansen_TCaAWSW/2016_Bojsen-Hansen_TCaAWSW.pdf
 source: http://dx.doi.org/10.15479/AT:ISTA:48
-source_mirror: http://pub.ist.ac.at/group_wojtan/projects/2016_Bojsen-Hansen_TCaAWSW/2016_Bojsen-Hansen_TCaAWSW.tar.bz2
-presentation: http://pub.ist.ac.at/group_wojtan/projects/2016_Bojsen-Hansen_TCaAWSW/2016_Bojsen-Hansen_TCaAWSW.zip
+source_mirror: https://pub.ista.ac.at/group_wojtan/projects/2016_Bojsen-Hansen_TCaAWSW/2016_Bojsen-Hansen_TCaAWSW.tar.bz2
+presentation: https://pub.ista.ac.at/group_wojtan/projects/2016_Bojsen-Hansen_TCaAWSW/2016_Bojsen-Hansen_TCaAWSW.zip
 
 abstract: |
   Computer graphics is an extremely exciting field for two reasons. On the one
