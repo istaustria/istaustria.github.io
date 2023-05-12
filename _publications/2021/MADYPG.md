@@ -35,6 +35,8 @@ bibtex: |
   }
 
 
+
+grp: wojtan
 paper: https://pub.ista.ac.at/group_wojtan/projects/2021_Sperl_MADYPG/2021_MADYPG_paper.pdf
 paperLR: https://pub.ista.ac.at/group_wojtan/projects/2021_Sperl_MADYPG/2021_MADYPG_paper_lowres.pdf
 suppldoc: https://pub.ista.ac.at/group_wojtan/projects/2021_Sperl_MADYPG/2021_MADYPG_supplementary.pdf

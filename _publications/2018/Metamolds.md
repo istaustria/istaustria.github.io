@@ -60,6 +60,8 @@ bibtex: |
   }
 
 
+
+grp: bickel
 paper: https://repository.ist.ac.at/1038/1/metamolds_authorversion.pdf
 video: https://www.youtube.com/watch?v=7M2TbQnRLNg&feature=youtu.be
 doi: http://doi.acm.org/10.1145/3197517.3201381

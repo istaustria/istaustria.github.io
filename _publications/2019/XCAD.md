@@ -55,6 +55,8 @@ bibtex: |
   } 
 
 
+
+grp: bickel
 paper: https://research-explorer.app.ist.ac.at/download/7117/7120/XCAD_authors_version.pdf
 supplemental: https://research-explorer.app.ist.ac.at/download/7117/7119/xcad_sup_mat_siga19.pdf
 video: https://research-explorer.app.ist.ac.at/download/7117/7121/XCAD_video.mp4

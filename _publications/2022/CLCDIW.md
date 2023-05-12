@@ -57,6 +57,8 @@ bibtex: |
   }
 
 
+
+grp: bickel
 paper: https://misop.github.io/projects/DirectInkReinforcementLearning/files/Piovarci2022.pdf
 suppldoc: https://misop.github.io/projects/DirectInkReinforcementLearning/files/Piovarci2022_supplement.pdf
 video: https://youtu.be/8nIYLAbi8uc

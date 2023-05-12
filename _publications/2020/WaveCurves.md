@@ -38,6 +38,8 @@ bibtex: |
     publisher = {ACM}
   }
 
+
+grp: wojtan
 paper: https://pub.ista.ac.at/group_wojtan/projects/2020_Skrivan_WaveCurves/wave_curves_2020.pdf
 video: https://pub.ista.ac.at/group_wojtan/projects/2020_Skrivan_WaveCurves/wave_curves_main_with_authors.mp4
 extravideo: https://pub.ista.ac.at/group_wojtan/projects/2020_Skrivan_WaveCurves/wave_curves_comparisons_with_authors.mp4

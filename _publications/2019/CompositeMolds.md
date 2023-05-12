@@ -59,6 +59,8 @@ bibtex: |
   }
 
 
+
+grp: bickel
 paper: https://research-explorer.app.ist.ac.at/download/6650/6651/2019_ACM_Alderighi_AuthorVersion.pdf
 video: COMING
 doi: http://doi.acm.org/10.1145/3306346.3322981

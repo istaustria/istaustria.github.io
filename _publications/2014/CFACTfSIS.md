@@ -10,6 +10,8 @@ authors:
 publication: European Conference on Computer Vision (ECCV 2014)
 date: 2014-09-06
 
+
+grp: lampert
 paper: http://pub.ist.ac.at/~akolesnikov/files/ECCV2014/paper.pdf
 
 abstract: |

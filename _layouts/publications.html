@@ -1,0 +1,124 @@
+---
+layout: default
+---
+<section id="publications">
+  <div class="container text-center">
+    {% if page.grpid == 'all' %}
+    <h2>Publications</h2>
+    {% else %}
+    {% if page.grpid == 'lampert' or page.grpname == 'kolmogorov' %}
+    <h2>Publications - {{ page.grpname }} group (outdated) </h2>
+    {% else %}
+    <h2>Publications - {{ page.grpname }} group </h2>
+    {% endif %}
+    {% endif %}
+  </div>
+
+    <div class="container-fluid">
+        <div class="row">
+        {% assign current_year = 0 %}
+        {% assign publications = site.publications | sort: 'date' | reverse %}
+        {% if page.grpid != 'all' %}
+        {% assign publications = publications | where: "grp", page.grpid %}
+        {% endif %}
+
+        <ul class="years list-inline">
+        {% for p in publications %}
+            {% assign year = p.date | split: '-' | first %}
+            {% if year != current_year %}
+            <li><a href="#{{ year }}">{{ year }}</a></li>
+            {% endif %}
+            {% assign current_year = year %}
+        {% endfor %}
+        </ul>
+
+        {% assign index = 1 %}
+        {% assign current_year = 0 %}
+        {% for p in publications %}
+            {% assign year = p.date | split: '-' | first %}
+            <div class="publication text-center col-sm-6 col-md-4 col-lg-3">
+                {% if year != current_year %}
+                    <div class="well">
+                        <h4><a name="{{ year }}">{{ year }}</a></h4>
+                    </div>
+                {% endif %}
+                <div class="well">
+                    <img class="img-responsive" style="margin: 0 auto;" src="{{ '/thumb.jpg' | prepend: p.url | prepend: site.baseurl }}" alt="{{ p.title }}">
+                    <h4>{{ p.title }}</h4>
+                    {% if p.doi %}
+                    <p><a href="{{p.doi}}">{{ p.publication }}</a></p>
+                    {% else %}
+                    <p>{{ p.publication }}</p>
+                    {% endif %}
+
+                    <ul class="authors list-inline">
+                    {% for author in p.authors %}
+                    {% if author.name %}
+                        <li>{{ author.name | split: ',' | first }}</li>
+                    {% endif %}
+                    {% endfor %}
+                    </ul>
+
+                    <ul class="buttons list-inline">
+                    {% if p.abstract %}
+                        <li>
+                        <button
+                            class="btn btn-default"
+                            type="button"
+                            data-toggle="collapse"
+                            data-target="#abstract{{ index }}"
+                            aria-expanded="false"
+                            aria-controls="abstract{{ index }}">Abstract</button>
+                        </li>
+                    {% endif %}
+                    {% if p.layout == "publication" or p.project %}
+                        <li>
+                        {% if p.layout == "publication" %}
+                            <a href="{{ p.url }}" class="btn btn-default">Project</a>
+                        {% else %}
+                            <a href="{{ p.project }}" class="btn btn-default">Project</a>
+                        {% endif %}
+                        </li>
+                    {% endif %}
+                    {% if p.paper %}
+                        <li>
+                            <a href="{{ p.paper }}" class="btn btn-default">Paper</a>
+                        </li>
+                    {% endif %}
+                    {% if p.bibtex %}
+                        <li>
+                        <button
+                            class="btn btn-default"
+                            type="button"
+                            data-toggle="collapse"
+                            data-target="#bibtex{{ index }}"
+                            aria-expanded="false"
+                            aria-controls="bibtex{{ index }}">BibTeX</button>
+                        </li>
+                    {% endif %}
+                    </ul>
+
+                    {% if p.abstract %}
+                    <div class="collapse" id="abstract{{ index }}">
+                        <p class="text-left">{{ p.abstract }}</p>
+                    </div>
+                    {% endif %}
+                    {% if p.bibtex %}
+                    <div class="collapse" id="bibtex{{ index }}">
+                            <pre class="text-left"><code>{{ p.bibtex }}</code></pre>
+                    </div>
+                    {% endif %}
+                </div>
+            </div>
+            {% assign current_year = year %}
+            {% assign indexmod2 = index | modulo: 2 %}
+            {% assign indexmod3 = index | modulo: 3 %}
+            {% assign indexmod4 = index | modulo: 4 %}
+            {% assign index = index | plus: 1 %}
+            {% if indexmod2 == 0 %}<div class="clearfix visible-xs visible-sm"></div>{% endif %}
+            {% if indexmod3 == 0 %}<div class="clearfix visible-md"></div>{% endif %}
+            {% if indexmod4 == 0 %}<div class="clearfix visible-lg"></div>{% endif %}
+        {% endfor %}
+        </div>
+    </div>
+</section>

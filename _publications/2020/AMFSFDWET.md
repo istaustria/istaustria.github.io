@@ -39,6 +39,8 @@ bibtex: |
     publisher = {ACM}
   }
 
+
+grp: wojtan
 paper: https://sadashigeishida.bitbucket.io/soapfilm_with_thickness/soapfilm_with_thickness.pdf
 project: https://sadashigeishida.bitbucket.io/soapfilm_with_thickness/index.html
 

@@ -29,6 +29,8 @@ bibtex: |
   year         = "2020",
   }
 
+
+grp: wojtan
 paper: https://pub.ista.ac.at/group_wojtan/projects/2020_Schreck_AMPM/eg2020_ampm_cameraready.pdf
 video: https://pub.ista.ac.at/group_wojtan/projects/2020_Schreck_AMPM/eg2020_ampm_cameraready.mp4
 

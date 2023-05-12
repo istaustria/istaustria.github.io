@@ -17,6 +17,8 @@ affiliations:
 publication: IEEE Computer Vision and Pattern Recognition (CVPR)
 date: 2014-06-24
 project: http://pub.ist.ac.at/~chl/erc
+
+grp: lampert
 paper: http://pub.ist.ac.at/~chl/papers/sydorov-cvpr2014.pdf
 supplemental: http://pub.ist.ac.at/~chl/papers/sydorov-cvpr2014-supp.pdf
 

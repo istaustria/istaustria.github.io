@@ -18,6 +18,8 @@ affiliations:
 
 
 
+
+grp: wojtan
 paper: https://diglib.eg.org/bitstream/handle/10.1111/cgf14478/v41i2pp343-353.pdf?sequence=1&isAllowed=y
 video: https://diglib.eg.org/bitstream/handle/10.1111/cgf14478/paper1086_1.mp4?sequence=2&isAllowed=y
 doi: https://diglib.eg.org:443/handle/10.1111/cgf14478

@@ -16,6 +16,8 @@ publication: IST Austria (PhD thesis)
 date: 2016-09-15
 doi: http://dx.doi.org/10.15479/AT:ISTA:th_640
 
+
+grp: wojtan
 paper: http://dx.doi.org/10.15479/AT:ISTA:th_640
 paper_mirror: https://pub.ista.ac.at/group_wojtan/projects/2016_Bojsen-Hansen_TCaAWSW/2016_Bojsen-Hansen_TCaAWSW.pdf
 source: http://dx.doi.org/10.15479/AT:ISTA:48

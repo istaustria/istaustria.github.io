@@ -22,6 +22,8 @@ affiliations:
 publication: IEEE Conference on Computer Vision and Pattern Recognition (CVPR 2015)
 date: 2015-06-08
 
+
+grp: lampert
 paper: http://pub.ist.ac.at/~chl/papers/pentina-cvpr2015.pdf
 project: http://pub.ist.ac.at/~chl/erc/
 

@@ -8,6 +8,8 @@ authors:
 publication: British Machine Vision Conference (BMVC 2016)
 date: 2016-09-19
 
+
+grp: lampert
 paper: http://cvml.ist.ac.at/papers/kolesnikov-bmvc2016.pdf
 
 abstract: |

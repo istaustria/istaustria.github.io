@@ -11,6 +11,8 @@ authors:
 
 publication: Computer Graphics Forum 31 (Eurographics 2012)
 date: 2012-06-01
+
+grp: wojtan
 paper: https://pub.ista.ac.at/group_wojtan/projects/meshSPH/meshSPH.pdf
 project: https://pub.ista.ac.at/group_wojtan/projects/meshSPH/index.html
 ---

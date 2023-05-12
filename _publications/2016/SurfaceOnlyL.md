@@ -13,6 +13,8 @@ authors:
 
 publication: ACM Transactions on Graphics 35(4) (SIGGRAPH 2016)
 date: 2016-08-01
+
+grp: wojtan
 paper: http://www.cs.columbia.edu/cg/surfaceliquids/droplets.pdf
 project: http://www.cs.columbia.edu/cg/surfaceliquids/
 ---

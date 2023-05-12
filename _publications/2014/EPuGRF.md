@@ -39,6 +39,8 @@ bibtex: |
   pages = {15:1--15:15}
   }
 
+
+grp: wojtan
 paper: https://pub.ista.ac.at/group_wojtan/projects/2014_Guerrero_EPuGRF/Guerrero-2014-GRF-paper.pdf
 project: https://www.cg.tuwien.ac.at/research/publications/2014/Guerrero-2014-GRF/
 ---

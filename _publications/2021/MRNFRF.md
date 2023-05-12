@@ -62,6 +62,8 @@ bibtex: |
   }
 
 
+
+grp: bickel
 paper: https://openaccess.thecvf.com/content/CVPR2021/papers/R_Monocular_Reconstruction_of_Neural_Face_Reflectance_Fields_CVPR_2021_paper.pdf
 
 abstract: |
