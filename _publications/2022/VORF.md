@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: VoRF: Volumetric Relightable Faces
+title: VoRF Volumetric Relightable Faces
 
 authors:
   - name: Rao, Pramod
