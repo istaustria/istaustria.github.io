@@ -46,6 +46,8 @@ teaser:
   image:
     - url: teaser.png
       alt: Design and fabrication of custom input devices.
+
+grp: bickel
 paper: http://pub.ist.ac.at/~bbickel/downloads/DefSensePaper.pdf
 ---
 

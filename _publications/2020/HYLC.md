@@ -34,6 +34,8 @@ bibtex: |
     publisher = {ACM}
   }
 
+
+grp: wojtan
 paper: https://pub.ista.ac.at/group_wojtan/projects/2020_Sperl_HYLC/2020_HYLC_paper.pdf
 paperLR: https://pub.ista.ac.at/group_wojtan/projects/2020_Sperl_HYLC/2020_HYLC_paper_lowres.pdf
 suppl: https://pub.ista.ac.at/group_wojtan/projects/2020_Sperl_HYLC/2020_HYLC_supplementary.pdf

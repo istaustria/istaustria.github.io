@@ -34,6 +34,8 @@ teaser:
   image:
     - url: OmniAD.JPG
       alt: OmniAD Data-driven Omni-directional Aerodynamics
+
+grp: bickel
 paper: http://www.disneyresearch.com/wp-content/uploads/OmniAD-Data-driven-Omni-directional-Aerodynamics-Paper.pdf
 ---
 

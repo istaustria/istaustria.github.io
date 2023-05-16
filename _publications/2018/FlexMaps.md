@@ -57,6 +57,8 @@ bibtex: |
   }
 
 
+
+grp: bickel
 paper: http://vcg.isti.cnr.it/Publications/2018/MPIPMCB18/flexmaps_author_version.pdf
 video: https://youtu.be/73VvpKlrrQU
 doi: https://doi.org/10.1145/3272127.3275076

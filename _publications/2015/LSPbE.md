@@ -14,6 +14,8 @@ affiliations:
   - name: IST Austria
     url: http://ist.ac.at
 
+grp: wojtan
+
 publication: ACM Trans. Graph. 34, 4 (SIGGRAPH 2015 Papers)
 date: 2015-08-01
 project: https://www.cg.tuwien.ac.at/research/publications/2015/guerrero-2015-lsp/

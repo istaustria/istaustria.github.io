@@ -21,6 +21,8 @@ publication: ACM Transactions on Graphics 36(4) (SIGGRAPH 2017)
 date: 2017-07-10
 doi: http://dx.doi.org/10.1145/3072959.3073678
 
+
+grp: wojtan
 paper: https://pub.ista.ac.at/group_wojtan/projects/2017_Jeschke_WaterWavePackets/wavepackets_author.pdf
 video: https://pub.ista.ac.at/group_wojtan/projects/2017_Jeschke_WaterWavePackets/WavePacketsFinal.mp4
 versionedCode: https://zenodo.org/record/525184

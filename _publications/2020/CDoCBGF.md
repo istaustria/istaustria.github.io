@@ -43,6 +43,8 @@ publication: ACM Transactions on Graphics 39(6) (SIGGRAPH Asia 2020)
 date: 2020-12-1
 doi: https://doi.org/http://dx.doi.org/10.1145/3414685.3417843
 
+
+grp: bickel
 paper: http://pub.ist.ac.at/~rguseino/cold_glass_bending.pdf
 video: https://youtu.be/FStBxKC4GkQ
 code: https://github.com/russelmann/cold-glass-acm

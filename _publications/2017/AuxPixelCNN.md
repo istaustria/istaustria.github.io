@@ -10,6 +10,8 @@ authors:
 publication: International Conference on Machine Learning (ICML 2017)
 date: 2017-08-06
 
+
+grp: lampert
 paper: http://cvml.ist.ac.at/papers/kolesnikov-icml2017.pdf
 
 abstract: |

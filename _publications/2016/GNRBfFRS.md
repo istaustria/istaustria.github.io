@@ -20,6 +20,8 @@ publication: ACM Transactions on Graphics 35(4) (SIGGRAPH 2016)
 date: 2016-08-01
 doi: http://dx.doi.org/10.1145/2897824.2925963
 
+
+grp: wojtan
 paper: https://pub.ista.ac.at/group_wojtan/projects/2016_Bojsen-Hansen_GNRBfFRS/2016_Bojsen-Hansen_GNRBfFRS.pdf
 video: https://pub.ista.ac.at/group_wojtan/projects/2016_Bojsen-Hansen_GNRBfFRS/2016_Bojsen-Hansen_GNRBfFRS.mp4
 code: https://pub.ista.ac.at/group_wojtan/projects/2016_Bojsen-Hansen_GNRBfFRS/2016_Bojsen-Hansen_GNRBfFRS.zip

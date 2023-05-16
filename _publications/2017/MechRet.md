@@ -32,6 +32,8 @@ publication: ACM Transactions on Graphics 36(4) (SIGGRAPH 2017)
 date: 2017-07-10
 doi: http://dx.doi.org/10.1145/3072959.3073710
 
+
+grp: bickel
 paper: http://pub.ist.ac.at/~rzhang/MechRet.pdf
 paperhtml: http://pub.ist.ac.at/~rzhang/MechRet.html
 video: https://youtu.be/hwLNbFNI1uk

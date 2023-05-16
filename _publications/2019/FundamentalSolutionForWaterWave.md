@@ -36,6 +36,8 @@ bibtex: |
   }
 
 
+
+grp: wojtan
 paper: https://pub.ista.ac.at/group_wojtan/projects/2019_Schreck_FSfWWA/fsww_author_version.pdf 
 video: https://pub.ista.ac.at/group_wojtan/projects/2019_Schreck_FSfWWA/fsww_siggraph19_art130.mp4
 doi: https://doi.org/10.1145/3306346.3323002

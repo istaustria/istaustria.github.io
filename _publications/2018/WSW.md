@@ -32,6 +32,8 @@ affiliations:
 publication: ACM Transactions on Graphics (SIGGRAPH 2018)
 date: 2018-04-25
 
+
+grp: wojtan
 paper: https://pub.ista.ac.at/group_wojtan/projects/2018_Jeschke_WaterSurfaceWavelets/WaterSurfaceWavelets.pdf
 material: https://pub.ista.ac.at/group_wojtan/projects/2018_Jeschke_WaterSurfaceWavelets/WaterSurfaceWavelets_implementationDetails.pdf
 video: https://pub.ista.ac.at/group_wojtan/projects/2018_Jeschke_WaterSurfaceWavelets/WaterSurfaceWavelets_main.mp4

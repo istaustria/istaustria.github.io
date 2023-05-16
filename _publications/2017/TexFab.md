@@ -44,6 +44,8 @@ publication: ACM Transactions on Graphics 36(6) (SIGGRAPH Asia 2017)
 date: 2017-09-19
 doi: https://doi.org/http://dx.doi.org/10.1145/3130800.3130890
 
+
+grp: bickel
 paper: https://research-explorer.app.ist.ac.at/download/486/7189.pdf
 material: https://drive.google.com/open?id=0B2SCoCMH_ho2bFR6UjA5VTdfZ0U
 

@@ -24,6 +24,8 @@ affiliations:
 publication: SIGGRAPH 2023 Conference Papers
 date: 2023-08-06
 
+
+grp: bickel
 paper: https://misop.github.io/projects/ColorGloss/files/Condor2023.pdf
 project: https://misop.github.io/projects/ColorGloss/index.html
 

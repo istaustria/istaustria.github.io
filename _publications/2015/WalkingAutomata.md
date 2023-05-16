@@ -38,6 +38,8 @@ teaser:
   image:
     - url: teaser.jpg
       alt: Computational Design of Walking Automata
+
+grp: bickel
 paper: http://people.seas.harvard.edu/~gaurav/papers/cdwa_sca_2015/cdwa_sca_2015.pdf
 ---
 

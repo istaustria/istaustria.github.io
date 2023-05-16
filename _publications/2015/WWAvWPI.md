@@ -18,6 +18,8 @@ affiliations:
 publication: ACM Transactions on Graphics 34(3)
 date: 2015-05-01
 project: https://pub.ista.ac.at/group_wojtan/projects/2015_Jeschke_WWAvWPI
+
+grp: wojtan
 paper: https://pub.ista.ac.at/group_wojtan/projects/2015_Jeschke_WWAvWPI/wavefront_preprint.pdf
 
 

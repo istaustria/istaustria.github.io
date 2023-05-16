@@ -20,6 +20,8 @@ publication: ACM Transactions on Graphics 32(4) (SIGGRAPH 2013)
 date: 2013-08-01
 doi: http://dx.doi.org/10.1145/2461912.2461991
 
+
+grp: wojtan
 paper: https://pub.ista.ac.at/group_wojtan/projects/2013_Bojsen-Hansen_LSwEC/liquidError_web.pdf
 video: https://pub.ista.ac.at/group_wojtan/projects/2013_Bojsen-Hansen_LSwEC/liquidError_medium.mp4
 

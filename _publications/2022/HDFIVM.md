@@ -20,6 +20,8 @@ affiliations:
 
 
 
+
+grp: wojtan
 paper: https://arxiv.org/pdf/2206.02008.pdf
 video: https://youtu.be/nHG4Fmq-Jmk
 publication: ACM Transactions on Graphics (SIGGRAPH Asia 2022)

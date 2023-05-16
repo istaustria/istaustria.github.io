@@ -31,6 +31,8 @@ affiliations:
 publication: Computer Graphics Forum (SCA '20)
 date: 2020-10-6
 
+
+grp: wojtan
 paper: http://pub.ist.ac.at/~chafner/JeschkeWaveCages.pdf
 material: http://pub.ist.ac.at/~chafner/JeschkeWaveCagesSupp.pdf
 video: http://pub.ist.ac.at/~chafner/WaveCagesSCA2020.mp4

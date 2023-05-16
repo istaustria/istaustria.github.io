@@ -23,6 +23,8 @@ affiliations:
 publication: IEEE Conference on Computer Vision and Pattern Recognition (CVPR 2017)
 date: 2017-07-21
 
+
+grp: lampert
 paper: http://cvml.ist.ac.at/papers/rebuffi-cvpr2017.pdf
 
 abstract: |

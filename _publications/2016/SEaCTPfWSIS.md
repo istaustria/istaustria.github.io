@@ -8,6 +8,8 @@ authors:
 publication: European Conference on Computer Vision (ECCV 2016)
 date: 2016-10-10
 
+
+grp: lampert
 paper: http://pub.ist.ac.at/~akolesnikov/files/ECCV2016/main.pdf
 
 abstract: |

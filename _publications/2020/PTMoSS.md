@@ -35,6 +35,8 @@ publication: Nature Communications (2020)
 date: 2020-01-14
 doi: https://doi.org/10.1038/s41467-019-14015-2
 
+
+grp: bickel
 paper: http://pub.ist.ac.at/~rguseino/temporal-morphing-ncomms.pdf
 video: https://youtu.be/WPPmu5RUXkU
 

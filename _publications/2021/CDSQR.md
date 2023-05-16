@@ -50,6 +50,8 @@ bibtex: |
     publisher = {IEEE}
   }
 
+
+grp: bickel
 paper: https://research-explorer.app.ist.ac.at/download/9408/9427/2021_TVCG_Feng.pdf
 
 abstract: |

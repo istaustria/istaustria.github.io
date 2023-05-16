@@ -49,6 +49,8 @@ bibtex: |
   url          = "http://vcg.isti.cnr.it/Publications/2019/LMPPPBC19"
   }
 
+
+grp: bickel
 paper: http://vcg.isti.cnr.it/Publications/2019/LMPPPBC19/IASS2019FlexMaps_Preprint.pdf
 
 abstract: |

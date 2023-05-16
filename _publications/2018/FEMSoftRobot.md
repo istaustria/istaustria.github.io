@@ -39,6 +39,8 @@ affiliations:
 publication: IEEE International Conference on Robotics and Automation 2018
 date: 2018-03-10
 
+
+grp: bickel
 paper: http://pub.ist.ac.at/~bbickel/downloads/Pozzi-Miguel-18-ICRA.pdf
 video: https://www.youtube.com/watch?v=5RdYZfqTI1Y
 

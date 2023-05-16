@@ -40,6 +40,8 @@ bibtex: |
   }
 
 
+
+grp: bickel
 paper: https://sutd-cgl.github.io/supp/Publication/projects/2022-SIGGRAPH-High-LevelPuzzle/download/2022-SIGGRAPH-High-LevelPuzzle.pdf
 suppldoc: https://sutd-cgl.github.io/supp/Publication/projects/2022-SIGGRAPH-High-LevelPuzzle/download/Supplementary_other.pdf
 video: https://youtu.be/sl6GiL5z2OM

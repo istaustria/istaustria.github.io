@@ -67,6 +67,8 @@ bibtex: |
   }
 
 
+
+grp: bickel
 paper: https://research-explorer.app.ist.ac.at/download/9819/9834/2021_ACMTransactionsOnGraphics_Mallikarjun.pdf
 
 abstract: |

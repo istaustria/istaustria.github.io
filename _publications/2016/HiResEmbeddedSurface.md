@@ -10,6 +10,8 @@ authors:
 
 publication: Computer Graphics Forum 35(2)
 date: 2016-05-01
+
+grp: wojtan
 paper: http://poisson.cs.uwaterloo.ca/papers/errorcorrection.pdf
 project: http://poisson.cs.uwaterloo.ca/errorcorrection/
 ---

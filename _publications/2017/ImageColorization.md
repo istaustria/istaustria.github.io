@@ -12,6 +12,8 @@ authors:
 publication: British Machine Vision Conference (BMVC 2017)
 date: 2017-09-04
 
+
+grp: lampert
 paper: http://cvml.ist.ac.at/papers/royer-bmvc2017.pdf
 
 abstract: |

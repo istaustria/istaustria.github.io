@@ -48,6 +48,8 @@ teaser:
   image:
     - url: MtCEi3DP.jpg
       alt: Microstructures to Control Elasticity in 3D Printing
+
+grp: bickel
 paper: http://pub.ist.ac.at/~bbickel/downloads/Microstructures-to-Control-Elasticity-in-3D-Printing-Paper.pdf
 ---
 
