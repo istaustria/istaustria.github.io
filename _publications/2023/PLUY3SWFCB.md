@@ -13,7 +13,7 @@ authors:
   - name: Schreck, Camille
     affiliations: [2]
     url: https://schreckc.github.io/
-  - name: Hugron Pierre-Alexandre
+  - name: Hugron, Pierre-Alexandre
     affiliations: [2]
     url: https://www.instagram.com/pa_hugron/
   - name: Bickel, Bernd
