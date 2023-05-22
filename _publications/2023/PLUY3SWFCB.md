@@ -4,7 +4,7 @@ title: "PCBend: Light Up Your 3D Shapes With Foldable Circuit Boards"
 doi: https://doi.org/10.1145/3592411
 
 authors:
-  - name: Friere*, Marco
+  - name: Freire*, Marco
     affiliations: [2]
     url: https://perso.eleves.ens-rennes.fr/people/marco.freire/
   - name: Bhargava*, Manas
