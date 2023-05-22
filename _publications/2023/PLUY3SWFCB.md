@@ -36,7 +36,7 @@ paper: https://manas-avi.github.io/projects/PCBend/files/FoldableElectronics-202
 project: https://manas-avi.github.io/projects/PCBend/index.html
 
 bibtex: |
-  @inproceedings{FriereAndBhargava2023PCBend,
+  @inproceedings{FreireAndBhargava2023PCBend,
   author = {Marco Freire and Manas Bhargava and Camille Schreck and Pierre-Alexandre Hugron and Bernd Bickel and Sylvain Lefebvre},
   title = {PCBend: Light Up Your 3D Shapes With Foldable Circuit Boards},
   journal = {ACM Transactions on Graphics (Proc. SIGGRAPH)},
