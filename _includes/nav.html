@@ -7,34 +7,34 @@
 
         <div id="navbar" class="navbar-collapse collapse">
             <ul class="nav navbar-nav">
-                <li><a href="{{ '/' | prepend: site.baseurl }}">News</a>
+                <li id="navbar-nodropdown"><a href="{{ '/' | prepend: site.baseurl }}">News</a>
                 <li class="navlist">
                   <div class="dropdown">
                     <a href="{{ '/people' | prepend: site.baseurl }}">
-                      <button class="dropbtn">People
+                      <button class="dropbtn">People <span class="caret"></span>
                       </button>
                     </a>
                     <div class="dropdown-content">
                       <a href="{{ '/people/grpbickel' | prepend: site.baseurl }}">Bickel group</a>
-                      <a href="{{ '/people/grpkolmogorov' | prepend: site.baseurl }}">Kolmogorov group</a>
-                      <a href="{{ '/people/grplampert' | prepend: site.baseurl }}">Lampert group</a>
                       <a href="{{ '/people/grpwojtan' | prepend: site.baseurl }}">Wojtan group</a>
+                      <div>Our Friends at ISTA:</div>
+                      <a href="https://ist.ac.at/en/research/kolmogorov-group/" target="_blank">Kolmogorov group &nbsp;<span class="glyphicon glyphicon-new-window"></span></a>
+                      <a href="https://cvml.ista.ac.at/" target="_blank">Lampert group &nbsp;<span class="glyphicon glyphicon-new-window"></span></a>
                     </div>
                   </div> 
                 <li class="navlist">
                   <div class="dropdown">
                     <a href="{{ '/publications' | prepend: site.baseurl }}">
-                      <button class="dropbtn">Publications
+                      <button class="dropbtn">Publications <span class="caret"></span>
                       </button>
                     </a>
                     <div class="dropdown-content">
                       <a href="{{ '/publications/grpbickel' | prepend: site.baseurl }}">Bickel group</a>
-                      <a href="{{ '/publications/grpkolmogorov' | prepend: site.baseurl }}">Kolmogorov group</a>
-                      <a href="{{ '/publications/grplampert' | prepend: site.baseurl }}">Lampert group</a>
                       <a href="{{ '/publications/grpwojtan' | prepend: site.baseurl }}">Wojtan group</a>
+                      <a href="{{ '/publications' | prepend: site.baseurl }}">All</a>
                     </div>
                   </div> 
-                <li><a href="{{ '/openpositions' | prepend: site.baseurl }}">Open Positions</a>
+                <li id="navbar-nodropdown"><a href="{{ '/openpositions' | prepend: site.baseurl }}">Open Positions</a>
             </ul>
         </div> 
     </div>

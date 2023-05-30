@@ -6,11 +6,7 @@ layout: default
     {% if page.grpid == 'all' %}
     <h2>Publications</h2>
     {% else %}
-    {% if page.grpid == 'lampert' or page.grpname == 'kolmogorov' %}
-    <h2>Publications - {{ page.grpname }} group (outdated) </h2>
-    {% else %}
-    <h2>Publications - {{ page.grpname }} group </h2>
-    {% endif %}
+    <h2>Publications <small>of the</small> {{ page.grpname }} group </h2>
     {% endif %}
   </div>
 

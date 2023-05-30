@@ -7,7 +7,7 @@ authors:
   - name: Müller-Fischer, Matthias
   - name: Brochu, Tyson
 
-
+grp: wojtan
 publication: ACM SIGGRAPH 2011 Courses
 date: 2011-08-01
 project: https://pub.ista.ac.at/group_wojtan/projects/meshyfluidscourse/meshyfluidscourse.html
