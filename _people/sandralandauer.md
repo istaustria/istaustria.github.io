@@ -6,4 +6,5 @@ phone: +43 2243 9000 1209
 email: sandra.landauer@ist.ac.at
 type: alumni
 grp: missing
+hidden: True
 ---

@@ -5,6 +5,10 @@
 
     <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
     <!-- <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap-theme.min.css"> -->
+    <!-- jQuery library -->
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/3.6.4/jquery.min.js"></script>
+    <!-- Latest compiled JavaScript -->
+    <script src="//maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
 
     <!-- custom fonts -->
     <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
@@ -14,8 +18,11 @@
     <link href='//fonts.googleapis.com/css?family=Droid+Serif:400,700,400italic,700italic' rel='stylesheet' type='text/css'>
     <link href='//fonts.googleapis.com/css?family=Roboto+Slab:400,100,300,700' rel='stylesheet' type='text/css'>
 
-    <link rel="stylesheet" href="{{ '/css/style.css' | prepend: site.baseurl }}">
+    <link rel="stylesheet" href="{{ '/css/style.css' | prepend: site.baseurl }}?{{site.time | date: '%s%N'}}">
 	<link rel="shortcut icon" type="image/png" href="{{ '/favicon.png' | prepend:site.baseurl }}">
+    
+    
+
 
     <title>{{site.title}}</title>
 </head>

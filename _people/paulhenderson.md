@@ -6,4 +6,5 @@ email: paul.henderson@ist.ac.at
 webpage: https://www.pmh47.net/
 type: alumni
 grp: missing
+hidden: True
 ---

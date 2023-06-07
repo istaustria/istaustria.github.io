@@ -8,4 +8,5 @@ bio: Computer Vision, Discrete Optimization
 webpage: http://pub.ist.ac.at/~vnk/
 type: faculty
 grp: kolmogorov
+hidden: True
 ---

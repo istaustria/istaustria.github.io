@@ -7,4 +7,5 @@ bio: computer vision, machine learning
 webpage: http://pub.ist.ac.at/~akolesnikov/
 type: alumni
 grp: missing
+hidden: True
 ---

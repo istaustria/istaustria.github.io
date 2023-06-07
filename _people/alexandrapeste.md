@@ -7,4 +7,5 @@ bio: machine learning
 webpage: https://at.linkedin.com/in/alexandra-peste-08a1b2130
 type: phdstudent
 grp: lampert
+hidden: True
 ---

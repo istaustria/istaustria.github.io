@@ -7,4 +7,5 @@ bio: machine learning
 webpage: https://mary-phuong.github.io/
 type: alumni
 grp: missing
+hidden: True
 ---

@@ -6,4 +6,5 @@ phone: +43 (0)2243 9000-1029
 email: caroline.petz@ist.ac.at
 type: alumni
 grp: missing
+hidden: True
 ---

@@ -60,10 +60,15 @@ table tr th :last-child, table tr td :last-child {
 }
 
 .jumbotron {
-    margin: 100px 200px 200px 200px;
+    margin: 100px 200px 200px 50px;
     padding: 0;
     color: white;
     background: transparent;
+}
+@media (min-width: 768px) {
+    .jumbotron {
+        margin: 100px 200px 200px 200px;
+    }
 }
 
 .jumbotron span {
@@ -87,6 +92,10 @@ table tr th :last-child, table tr td :last-child {
  text-decoration:underline;
 }
 
+.navbar-nav>li, .navbar-nav {
+    float: left !important;
+  }
+
 /* The container <div> - needed to position the dropdown content */
 .dropdown {
   position: relative;
@@ -101,27 +110,42 @@ table tr th :last-child, table tr td :last-child {
     text-decoration:underline;
 }
 
- /* Dropdown Button */
+#pubscrollspy {
+    top: 65px;
+    position: sticky;
+}
+
+#pubscrollspy a {
+    padding: 5px 10px;
+}
+
+/* Dropdown Button */
 .dropbtn {
-  padding: 15px;
-  border: none;
-  background-color:transparent;
+    padding: 10px;
+    border: none;
+    background-color:transparent;
+}
+/* Hack to fix vertical positions of menu items on small displays in combination with preventing the menu buttons from stacking */
+@media (min-width: 768px) {
+    .dropbtn {
+        padding: 15px;
+    }
 }
 
 #dropbtn a {
     color: inherit;
 }
 
-.dropbtn:hover {
+/*.dropbtn:hover {
     text-decoration:underline;
-}
+}*/
 
 /* Dropdown Content (Hidden by Default) */
 .dropdown-content {
   display: none;
   position: absolute;
   background-color: #f1f1f1;
-  min-width: 175px;
+  min-width: 176px;
   box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
   z-index: 1;
 }
@@ -230,4 +254,18 @@ table tr th :last-child, table tr td :last-child {
 .paperthumbnail {
     box-shadow: 1px 4px 8px 0 rgba(0, 0, 0, 0.5), 0 10px 14px 0 rgba(0, 0, 0, 0.2);
     margin: 6px 16px 16px 16px;
+}
+
+#top-year {
+    display: block;
+    position: relative;
+    top: -100px;
+    visibility: hidden;
+}
+
+.year-anchor {
+    display: block;
+    position: relative;
+    top: -85px;
+    visibility: hidden;
 }
