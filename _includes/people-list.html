@@ -1,6 +1,6 @@
 <div class="row">
 {% assign people = site.people | sort: 'name' %}
-{% assign people = people | where: 'hidden', Nil %}
+{% assign people = people | where_exp: 'p', 'p.hidden != true' %}
 {% assign i = 1 %}
 {% for p in people %}
 {% if p.type == include.type %}
