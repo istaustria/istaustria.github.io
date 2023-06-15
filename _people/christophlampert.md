@@ -8,4 +8,5 @@ bio: Computer Vision, Machine Learning
 webpage: http://cvml.ist.ac.at/
 type: faculty
 grp: lampert
+hidden: True
 ---

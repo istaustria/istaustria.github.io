@@ -3,7 +3,7 @@ layout: publication
 title: "Spin-It: Optimizing Moment of Inertia for Spinnable Objects"
 
 authors:  
-  - name: Baecher, Moritz
+  - name: Bächer, Moritz
     affiliations: [1]
   - name: Whiting, Emily
     affiliations: [2]
