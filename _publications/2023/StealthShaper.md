@@ -24,7 +24,7 @@ affiliations:
   - name: Insitute of Science and Technology Austria 
     url: https://www.ista.ac.at/
     
-publication: ACM Transactions on Graphics (SIGGRAPH 2023)
+publication: SIGGRAPH 2023 Conference Papers
 date: 2023-08-11
 
 
