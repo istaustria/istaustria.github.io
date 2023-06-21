@@ -48,7 +48,7 @@ teaser:
   caption: |
     
   images:
-  - url: Teaser.png
+  - url: teaser.jpg
     alt: teaser
 ---
 
