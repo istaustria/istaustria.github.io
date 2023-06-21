@@ -33,11 +33,11 @@ paper: https://drive.google.com/file/d/13652dJMGVGwqG2AbfL-eg9lOFh6tVQpA/view?us
 
 bibtex: |
   @inproceedings{Tojo2023Stealth,
-title = {Stealth Shaper: Reflectivity Optimization as Surface Stylization},
-author = {Tojo, Kenji and Shamir, Ariel and Bickel, Bernd and Umetani, Nobuyuki},
-booktitle = {ACM SIGGRAPH 2023 Conference Proceedings},
-year = {2023},
-series = {SIGGRAPH '23},
+  title = {Stealth Shaper: Reflectivity Optimization as Surface Stylization},
+  author = {Tojo, Kenji and Shamir, Ariel and Bickel, Bernd and Umetani, Nobuyuki},
+  booktitle = {ACM SIGGRAPH 2023 Conference Proceedings},
+  year = {2023},
+  series = {SIGGRAPH '23},
   }
 
 
