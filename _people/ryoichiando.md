@@ -7,8 +7,8 @@ bio: Fluid Simulation
 type: alumni
 grp: wojtan
 
-left: 2014
-formerly: Intern
-career: Cloth Simulation Researcher Engineer at ZOZO
+left: 2016
+formerly: Postdoc
+career: Cloth Simulation Research Engineer at ZOZO
 career-as-of: 2023
 ---

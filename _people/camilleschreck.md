@@ -4,7 +4,7 @@ name: Schreck, Camille
 type: alumni # one of [faculty, assistant, postdoc, phdstudent, intern]
 left: 2020
 formerly: Postdoc
-career: Researcher at Inria Nancy in the MFX Team
+career: Starting Faculty at Inria Nancy in the MFX Team
 career-as-of: 2023
 
 # optional fields
