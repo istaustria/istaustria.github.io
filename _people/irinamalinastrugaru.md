@@ -1,12 +1,12 @@
 ---
-id: irinamalinastrugaru
+pid: irinamalinastrugaru
 name: Strugaru, Irina-Malina
 type: phdstudent
 grp: bickel
 # Optional
-room: Lab Building West, 2nd floor, 107; 3rd floor, 204
+room: Office Building West <br/> 3nd Floor, Room 204
 email: irina-malina.strugaru@ist.ac.at
-bio:
+bio: Malina is a PhD student at ISTA, co-affiliated with Chris Wojtan and Jérémie Palacci. In her research, she studies the simulation, design, and control of liquid crystalline elastomers.
 coaffiliate: Palacci group (ISTA)
-coaffiliateurl: http://palaccilab.ucsd.edu/
+coaffiliateurl: https://palaccilab.pages.ist.ac.at/
 ---

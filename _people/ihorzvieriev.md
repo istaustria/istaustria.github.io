@@ -1,10 +1,10 @@
 ---
-id: ihorzvieriev
+pid: ihorzvieriev
 name: Zvieriev, Ihor
 type: intern
 grp: wojtan
 # Optional
-room: Lab Building West, 2nd floor, 107
+room: Office Building West <br/> 2nd Floor, Room 107
 email: naomipappe.zvieriev@gmail.com
-bio: 
+bio: Ihor is an intern in the Wojtan group, and works on the simulation of crack formation and propagation in complex materials.
 ---

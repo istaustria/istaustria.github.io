@@ -1,5 +1,5 @@
 ---
-id: edermiguel
+pid: edermiguel
 name: Miguel, Eder
 room: Lab Building West, 2nd floor, 108
 email: emiguel@ist.ac.at
@@ -8,4 +8,9 @@ bio:
 webpage: http://eder-miguel.github.io/
 type: alumni
 grp: bickel
+
+left: 2022
+formerly: Research Engineer
+career: Research Software Engineer at Meta
+career-as-of: 2023
 ---
