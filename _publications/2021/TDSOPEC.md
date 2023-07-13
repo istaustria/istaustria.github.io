@@ -16,7 +16,7 @@ affiliations:
 
 publication: ACM Transactions on Graphics 40(4) (SIGGRAPH 2021)
 date: 2021-08-09
-doi: https://dl.acm.org/toc/tog/2021/40/4
+doi: https://dl.acm.org/doi/10.1145/3450626.3459800
 
 bibtex: |
   @article{hafner2021tdsopec,
