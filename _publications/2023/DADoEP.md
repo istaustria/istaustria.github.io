@@ -26,6 +26,8 @@ affiliations:
 publication: Computer Graphics Forum (EUROGRAPHICS 2023)
 date: 2023-05-08
 
+
+grp: bickel
 paper: https://misop.github.io/projects/Embroidery/files/Zhenyuan2023.pdf
 project: https://misop.github.io/projects/Embroidery/index.html
 

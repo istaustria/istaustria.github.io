@@ -12,7 +12,7 @@ authors:
     url: https://chrishafner.github.io/
   - name: Wojtan, Chris
     affiliations: [1]
-    url: http://pub.ist.ac.at/group_wojtan/
+    url: https://pub.ista.ac.at/~wojtan/
 
 affiliations:
   - name: IST Austria
@@ -36,8 +36,10 @@ bibtex: |
   }
 
 
-paper: http://pub.ist.ac.at/group_wojtan/projects/2019_Schreck_FSfWWA/fsww_author_version.pdf 
-video: http://pub.ist.ac.at/group_wojtan/projects/2019_Schreck_FSfWWA/fsww_siggraph19_art130.mp4
+
+grp: wojtan
+paper: https://pub.ista.ac.at/group_wojtan/projects/2019_Schreck_FSfWWA/fsww_author_version.pdf 
+video: https://pub.ista.ac.at/group_wojtan/projects/2019_Schreck_FSfWWA/fsww_siggraph19_art130.mp4
 doi: https://doi.org/10.1145/3306346.3323002
 
 abstract: |
@@ -67,8 +69,8 @@ teaser:
 
 ### Links
 
-* [Paper](http://pub.ist.ac.at/group_wojtan/projects/2019_Schreck_FSfWWA/fsww_author_version.pdf)
-* [Video](http://pub.ist.ac.at/group_wojtan/projects/2019_Schreck_FSfWWA/fsww_siggraph19_art130.mp4)
+* [Paper](https://pub.ista.ac.at/group_wojtan/projects/2019_Schreck_FSfWWA/fsww_author_version.pdf)
+* [Video](https://pub.ista.ac.at/group_wojtan/projects/2019_Schreck_FSfWWA/fsww_siggraph19_art130.mp4)
 * [Sources C++](https://github.com/schreckc/FSWW)
 * [Houdini plugin (simplified version)](https://github.com/schreckc/FSWW_houdini)	
 <br>

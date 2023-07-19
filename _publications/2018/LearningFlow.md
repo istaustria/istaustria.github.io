@@ -38,6 +38,8 @@ bibtex: |
   }
 
 
+
+grp: bickel
 paper: http://pub.ist.ac.at/~bbickel/downloads/2018_sigg_Learning3DAerodynamics.pdf
 data: http://www.nobuyuki-umetani.com/publication/mlcfd_data.zip
 video: https://www.youtube.com/watch?v=U38cKk-sxyY

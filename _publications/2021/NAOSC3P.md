@@ -66,6 +66,8 @@ bibtex: |
   }
 
 
+
+grp: bickel
 paper: https://research-explorer.app.ist.ac.at/download/9547/10120/ScatteringAwareColor3DPrinting_authorVersion.pdf
 
 abstract: |

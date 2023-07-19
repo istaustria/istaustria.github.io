@@ -36,6 +36,8 @@ teaser:
   image:
     - url: teaser.jpg
       alt: Detailed Spatio-Temporal Reconstruction of Eyelids
+
+grp: bickel
 paper: https://www.cs.tau.ac.il/~amberman/eyelids_paper.pdf
 ---
 

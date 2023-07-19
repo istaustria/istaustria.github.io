@@ -33,6 +33,8 @@ affiliations:
 
 publication: Computer Graphics Forum 2022 
 date: 2022-08-22
+
+grp: bickel
 paper: https://research-explorer.app.ist.ac.at/download/11993/11994/star_molding_preprint.pdf
 
 abstract: |

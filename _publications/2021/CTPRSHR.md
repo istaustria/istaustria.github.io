@@ -34,6 +34,8 @@ bibtex: |
   }
 
 
+
+grp: bickel
 paper: https://research-explorer.app.ist.ac.at/download/10148/10149/degraen-UIST2021_Texture_Appropriation_CR_preprint.pdf
 
 abstract: |

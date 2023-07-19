@@ -9,7 +9,7 @@ authors:
   - name: Wojtan, Chris
     affiliations: [1]
     id: chriswojtan
-    url: http://pub.ist.ac.at/group_wojtan/
+    url: https://pub.ista.ac.at/~wojtan/
 
 affiliations:
   - name: IST Austria
@@ -17,8 +17,10 @@ affiliations:
 
 publication: ACM Transactions on Graphics 34(3)
 date: 2015-05-01
-project: http://pub.ist.ac.at/group_wojtan/projects/2015_Jeschke_WWAvWPI
-paper: http://pub.ist.ac.at/group_wojtan/projects/2015_Jeschke_WWAvWPI/wavefront_preprint.pdf
+project: https://pub.ista.ac.at/group_wojtan/projects/2015_Jeschke_WWAvWPI
+
+grp: wojtan
+paper: https://pub.ista.ac.at/group_wojtan/projects/2015_Jeschke_WWAvWPI/wavefront_preprint.pdf
 
 
 abstract: |

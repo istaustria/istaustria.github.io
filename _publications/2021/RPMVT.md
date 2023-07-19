@@ -62,6 +62,8 @@ bibtex: |
     doi = {10.1364/OE.406095}
   }
 
+
+grp: bickel
 paper: https://research-explorer.app.ist.ac.at/download/9241/9269/2021_OpticsExpress_Elek.pdf
 
 abstract: |

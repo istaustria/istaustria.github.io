@@ -13,7 +13,7 @@ authors:
     url: http://www.ci.i.u-tokyo.ac.jp/~hachisuka/
   - name: Wojtan, Chris
     affiliations: [1]
-    url: http://pub.ist.ac.at/group_wojtan/
+    url: https://pub.ista.ac.at/~wojtan/
 
 affiliations:
   - name: IST Austria
@@ -39,6 +39,8 @@ bibtex: |
     publisher = {ACM}
   }
 
+
+grp: wojtan
 paper: https://sadashigeishida.bitbucket.io/soapfilm_with_thickness/soapfilm_with_thickness.pdf
 project: https://sadashigeishida.bitbucket.io/soapfilm_with_thickness/index.html
 

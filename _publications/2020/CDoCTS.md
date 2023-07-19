@@ -16,6 +16,8 @@ publication: IST Austria (PhD thesis)
 date: 2020-09-21
 doi: http://dx.doi.org/10.15479/AT:ISTA:8366
 
+grp: bickel
+
 paper: http://dx.doi.org/10.15479/AT:ISTA:8366
 material: http://dx.doi.org/10.15479/AT:ISTA:8375
 video: https://youtu.be/Fg62lHjy97w

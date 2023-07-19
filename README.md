@@ -46,6 +46,7 @@ follows.
 	id: chriswojtan # same as the filename but without the .md extension
 	name: Wojtan, Chris
 	type: faculty # one of [faculty, assistant, postdoc, phdstudent, intern, alumni]
+        grp: wojtan # one of [bickel, lampert, kolmogorov, wojtan]
 
 	# optional fields
 	room: Central Building, 3rd floor
@@ -56,6 +57,8 @@ follows.
 	bio: |
 	  Chris Wojtan is a professor at IST Austria since 2016. He received a
 	  PhD in Computer Science from Georgia Tech in 2010.
+        coaffiliate: [Name of other group]
+        coaffiliateurl: [Link to the other group]
 	---
 
 Make sure to include `---` both at the beginning and end of the file. Some
@@ -88,13 +91,14 @@ A minimal example of a publication follows.
 	  - name: Jeschke, Stefan
 	  - name: Wojtan, Chris
 	    id: chriswojtan
-	    url: http://pub.ist.ac.at/group_wojtan/
+	    url: https://pub.ista.ac.at/~wojtan/
 
 	publication: ACM Transactions on Graphics 34(3)
 	date: 2015-05-01
 
-	paper: http://pub.ist.ac.at/group_wojtan/projects/2015_Jeschke_WWAvWPI/wavefront_preprint.pdf
-	project: http://pub.ist.ac.at/group_wojtan/projects/2015_Jeschke_WWAvWPI/index.html
+        grp: wojtan
+	paper: http://pub.ista.ac.at/group_wojtan/projects/2015_Jeschke_WWAvWPI/wavefront_preprint.pdf
+	project: http://pub.ista.ac.at/group_wojtan/projects/2015_Jeschke_WWAvWPI/index.html
 	---
 
 This will create a publication without a publication with an *external* project
@@ -126,7 +130,7 @@ sure you crop the picture to a reasonable size before uploading it.
 
 Large files such as preprints or videos should *not* be uploaded to GitHub! We
 are still working on a more systematic approach to handling such large files,
-but for now, please store them at your IST website (http://pub.ist.ac.at/~yourusername).
+but for now, please store them at your IST website (http://pub.ista.ac.at/~yourusername).
 
 It is possible to add comments, which are not shown on the final web page, to [Markdown](http://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) pages with
 

@@ -43,6 +43,8 @@ teaser:
   image:
     - url: CompDesignMechCharacters.JPG
       alt: Computational Design of Mechanical Characters
+
+grp: bickel
 paper: https://s3-us-west-1.amazonaws.com/disneyresearch/wp-content/uploads/20140804211255/CDMC1.pdf
 ---
 

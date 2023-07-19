@@ -9,7 +9,7 @@ authors:
     url: https://pub.ist.ac.at/~cschreck/
   - name: Wojtan, Chris
     affiliations: [1]
-    url: http://pub.ist.ac.at/group_wojtan/
+    url: https://pub.ista.ac.at/~wojtan/
 
 affiliations:
   - name: IST Austria
@@ -29,8 +29,10 @@ bibtex: |
   year         = "2020",
   }
 
-paper: http://pub.ist.ac.at/group_wojtan/projects/2020_Schreck_AMPM/eg2020_ampm_cameraready.pdf
-video: http://pub.ist.ac.at/group_wojtan/projects/2020_Schreck_AMPM/eg2020_ampm_cameraready.mp4
+
+grp: wojtan
+paper: https://pub.ista.ac.at/group_wojtan/projects/2020_Schreck_AMPM/eg2020_ampm_cameraready.pdf
+video: https://pub.ista.ac.at/group_wojtan/projects/2020_Schreck_AMPM/eg2020_ampm_cameraready.mp4
 
 
 abstract: |
@@ -60,8 +62,8 @@ teaser:
 
 ### Links
 
-* [Paper](http://pub.ist.ac.at/group_wojtan/projects/2020_Schreck_AMPM/eg2020_ampm_cameraready.pdf)
-* [Video](http://pub.ist.ac.at/group_wojtan/projects/2020_Schreck_AMPM/eg2020_ampm_cameraready.mp4)
+* [Paper](https://pub.ista.ac.at/group_wojtan/projects/2020_Schreck_AMPM/eg2020_ampm_cameraready.pdf)
+* [Video](https://pub.ista.ac.at/group_wojtan/projects/2020_Schreck_AMPM/eg2020_ampm_cameraready.mp4)
 <br>
 
 ### Citation

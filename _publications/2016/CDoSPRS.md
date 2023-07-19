@@ -24,6 +24,8 @@ date: 2016-07-10
 doi: http://dx.doi.org/10.1145/2897824.2925978
 
 
+
+grp: bickel
 paper: https://research-explorer.app.ist.ac.at/download/1364/4853/IST-2017-763-v1%2B1_wirebending.pdf
 video: https://youtu.be/YfrQyO1czBU
 

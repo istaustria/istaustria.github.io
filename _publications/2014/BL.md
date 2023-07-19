@@ -11,6 +11,8 @@ authors:
 publication: ACM Transactions on Graphics 33(4)
 date: 2014-05-01
 
-paper: http://pub.ist.ac.at/group_wojtan/projects/2014_Raveendran_BL/BlendingLiquids-Preprint.pdf
+
+grp: wojtan
+paper: https://pub.ista.ac.at/group_wojtan/projects/2014_Raveendran_BL/BlendingLiquids-Preprint.pdf
 project: http://endingcredits.com/publications/blending-liquids/
 ---

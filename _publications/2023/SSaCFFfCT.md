@@ -20,6 +20,8 @@ affiliations:
 publication: ACM Transactions on Graphics (SIGGRAPH 2023)
 date: 2023-08-11
 
+
+grp: bickel
 paper: https://misop.github.io/projects/ComputationalTattoo/files/Piovarci2023.pdf
 project: https://misop.github.io/projects/ComputationalTattoo/index.html
 

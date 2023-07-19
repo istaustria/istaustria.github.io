@@ -1,7 +1,12 @@
 <!DOCTYPE html>
 <html lang="en">
     {% include head.html %}
+    {% if layout.subpage == 'publications' %}
+    <body data-spy="scroll" data-target="#pubscrollspy" data-offset="5">
+        <a id="top-year"></a>
+    {% else %}
     <body>
+    {% endif %}
         {% include nav.html %}
 
         <div class="jumbotron">
@@ -12,6 +17,5 @@
         {{ content }}
 
         {% include footer.html %}
-        {% include js.html %}
     </body>
 </html>

@@ -11,7 +11,7 @@ authors:
     url: http://www.cse.iitd.ac.in/~narain/
   - name: Wojtan, Chris
     affiliations: [1]
-    url: http://pub.ist.ac.at/group_wojtan/
+    url: https://pub.ista.ac.at/~wojtan/
 
 affiliations:
   - name: IST Austria
@@ -35,12 +35,14 @@ bibtex: |
   }
 
 
-paper: http://pub.ist.ac.at/group_wojtan/projects/2021_Sperl_MADYPG/2021_MADYPG_paper.pdf
-paperLR: http://pub.ist.ac.at/group_wojtan/projects/2021_Sperl_MADYPG/2021_MADYPG_paper_lowres.pdf
-suppldoc: http://pub.ist.ac.at/group_wojtan/projects/2021_Sperl_MADYPG/2021_MADYPG_supplementary.pdf
-supplvids: http://pub.ist.ac.at/group_wojtan/projects/2021_Sperl_MADYPG/2021_MADYPG_suppl_videos.zip
-video: http://pub.ist.ac.at/group_wojtan/projects/2021_Sperl_MADYPG/2021_MADYPG_video.mp4
-fastforward: http://pub.ist.ac.at/group_wojtan/projects/2021_Sperl_MADYPG/2021_MADYPG_fastforward.mov
+
+grp: wojtan
+paper: https://pub.ista.ac.at/group_wojtan/projects/2021_Sperl_MADYPG/2021_MADYPG_paper.pdf
+paperLR: https://pub.ista.ac.at/group_wojtan/projects/2021_Sperl_MADYPG/2021_MADYPG_paper_lowres.pdf
+suppldoc: https://pub.ista.ac.at/group_wojtan/projects/2021_Sperl_MADYPG/2021_MADYPG_supplementary.pdf
+supplvids: https://pub.ista.ac.at/group_wojtan/projects/2021_Sperl_MADYPG/2021_MADYPG_suppl_videos.zip
+video: https://pub.ista.ac.at/group_wojtan/projects/2021_Sperl_MADYPG/2021_MADYPG_video.mp4
+fastforward: https://pub.ista.ac.at/group_wojtan/projects/2021_Sperl_MADYPG/2021_MADYPG_fastforward.mov
 repository_madypg: https://git.ist.ac.at/gsperl/MADYPG
 repository_hylc: https://git.ist.ac.at/gsperl/HYLC
 

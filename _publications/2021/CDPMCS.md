@@ -34,6 +34,8 @@ bibtex: |
   }
 
 
+
+grp: bickel
 paper: https://research-explorer.app.ist.ac.at/download/9376/9377.pdf
 suppldoc: 
 video: https://youtu.be/kTYq7HnhMTU

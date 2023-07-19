@@ -44,6 +44,8 @@ bibtex: |
     publisher = {ACM}
   }
 
+
+grp: bickel
 paper: https://research-explorer.app.ist.ac.at/download/10184/10185/rigidmolds-authorversion.pdf
 video: https://www.youtube.com/watch?v=jAEtRVMoSF0
 

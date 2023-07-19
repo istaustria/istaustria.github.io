@@ -1,37 +1,55 @@
 <div class="row">
-{% assign people = site.people | sort: 'name' %}
+{% assign people = site.people | where: "type", include.type %}
+{% if include.type == 'alumni' %}
+    {% assign people = people | sort: "left" | reverse %}
+{% else %}
+    {% assign people = people | sort: "name" %}
+{% endif %}
+{% assign people = people | where_exp: 'p', 'p.hidden != true' %}
 {% assign i = 1 %}
 {% for p in people %}
-{% if p.type == include.type %}
+{% if include.grp == 'all' or p.grp contains include.grp %} <!-- -->
 {% assign fullname = p.name | split: ',' | reverse | join: ' ' %}
     <div class="person col-sm-6 col-lg-4">
         <div class="row">
             <div class="col-xs-4">
                 <img class="img-circle img-responsive"
                 style="max-width: 120px"
-                src="{{ site.baseurl | append: p.id | append: '.jpg' }}"
+                src="{{ site.baseurl | append: '/people/img/' | append: p.pid | append: '.jpg' }}"
                 alt="{{ fullname }}">
             </div>
             <div class="col-xs-8">
                 <h4>{{ fullname }}</h4>
                 <ul class="bio list-unstyled">
-                {% if p.room %}
+                {% if p.room and p.type != 'alumni' %}
                     <li>
                         <span class="glyphicon glyphicon-map-marker" aria-hidden="true"></span>
-                        {{ p.room }}
+                        <span>{{ p.room }}</span>
                     </li>
                 {% endif %}
-                {% if p.email %}
+                {% if p.email and p.type != 'alumni' %}
                     <li>
                         <span class="glyphicon glyphicon-envelope" aria-hidden="true"></span>
                         <a href="mailto:{{ p.email }}">{{ p.email | truncate: 25, '..' }}</a>
                     </li>
                 {% endif %}
-                {% if p.phone %}
+                {% if p.phone and (p.type == 'assistant' or p.type == 'faculty')%}
                     <li>
                         <span class="glyphicon glyphicon-earphone" aria-hidden="true"></span>
                         {{ p.phone }}
                     </li>
+                {% endif %}
+                {% if p.type == 'alumni' %}
+                    <li>
+                        <span class="glyphicon glyphicon-fast-backward" aria-hidden="true"></span>
+                        <span> {{ p.formerly }} &nbsp; <span class="glyphicon glyphicon-log-out" aria-hidden="true" style="font-size: smaller; margin-right: 3px"></span><span style="font-size: smaller;">{{ p.left }}</span> </span>
+                    </li>
+                    {% if p.career %}
+                    <li>
+                        <span class="glyphicon glyphicon-send" aria-hidden="true"></span>
+                        <span>{{ p.career }} {% if p.career-as-of %}<nobr style="font-size: smaller;"> as of {{ p.career-as-of }}</nobr> {% endif %}</span>
+                    </li>
+                    {% endif %}
                 {% endif %}
                 {% if p.webpage %}
                     <li>
@@ -39,14 +57,24 @@
                         <a href="{{ p.webpage }}">{{ p.webpage | split: '//' | last || truncate: 25, '...' }}</a>
                     </li>
                 {% endif %}
-                {% if p.bio %}
+                {% if p.coaffiliate %}
+                    <li>
+                      <span class="glyphicon glyphicon-link" aria-hidden="true"></span> 
+                      {% if p.coaffiliateurl %}
+                      <a href="{{ p.coaffiliateurl }}">{{ p.coaffiliate }}</a>
+                      {% else %}
+                      {{ p.coaffiliate }}
+                      {% endif %}
+                    </li>
+                {% endif %}
+                {% if p.bio and p.type != 'alumni' %}
                     <li>
                         <span class="glyphicon glyphicon-chevron-down" aria-hidden="true"></span>
                         <button class="btn btn-link"
                             data-toggle="collapse"
-                            data-target="#bio{{ forloop.index }}"
+                            data-target="#bio{{ p.type }}{{ forloop.index }}"
                             aria-expanded="false"
-                            aria-controls="bio{{ forloop.index }}">
+                            aria-controls="bio{{ p.type }}{{ forloop.index }}">
                             Short bio
                         </button>
                     </li>
@@ -56,7 +84,7 @@
         </div>
 
         {% if p.bio %}
-        <div class="collapse" id="bio{{ forloop.index }}">
+        <div class="collapse" id="bio{{ p.type }}{{ forloop.index }}">
             <div class="bio text-muted">
             {{ p.bio | markdownify }}
             </div>
@@ -77,6 +105,6 @@
     <div class="clearfix visible-lg-block"></div>
 {% endif %}
 {% assign i = i | plus: 1 %}
-{% endif %}
+{% endif %} 
 {% endfor %}
 </div>

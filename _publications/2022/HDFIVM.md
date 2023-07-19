@@ -7,7 +7,7 @@ authors:
     url: https://sadashigeishida.bitbucket.io/
   - name: Wojtan, Chris
     affiliations: [1]
-    url: https://pub.ist.ac.at/group_wojtan/
+    url: https://pub.ista.ac.at/~wojtan/
   - name: Chern, Albert
     affiliations: [2]
     url: https://cseweb.ucsd.edu/~alchern/
@@ -20,6 +20,8 @@ affiliations:
 
 
 
+
+grp: wojtan
 paper: https://arxiv.org/pdf/2206.02008.pdf
 video: https://youtu.be/nHG4Fmq-Jmk
 publication: ACM Transactions on Graphics (SIGGRAPH Asia 2022)

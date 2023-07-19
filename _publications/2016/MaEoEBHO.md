@@ -18,6 +18,7 @@ affiliations:
   - name: IST Austria
     url: http://ist.ac.at
 
+grp: bickel
 publication: Computer Graphics Forum 35(2) (EUROGRAPHICS 2016)
 date: 2016-05-27
 

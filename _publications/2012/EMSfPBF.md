@@ -5,12 +5,14 @@ authors:
   - name: Yu, Jihun
   - name: Wojtan, Chris
     id: chriswojtan
-    url: http://pub.ist.ac.at/group_wojtan/
+    url: https://pub.ista.ac.at/~wojtan/
   - name: Turk, Greg
   - name: Yap, Chee
 
 publication: Computer Graphics Forum 31 (Eurographics 2012)
 date: 2012-06-01
-paper: http://pub.ist.ac.at/group_wojtan/projects/meshSPH/meshSPH.pdf
-project: http://pub.ist.ac.at/group_wojtan/projects/meshSPH/index.html
+
+grp: wojtan
+paper: https://pub.ista.ac.at/group_wojtan/projects/meshSPH/meshSPH.pdf
+project: https://pub.ista.ac.at/group_wojtan/projects/meshSPH/index.html
 ---

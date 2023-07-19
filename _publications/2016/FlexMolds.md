@@ -42,6 +42,8 @@ teaser:
     - url: teaser.png
       alt: Starting from a 3D model (a), we automatically generate a set of cuts over its surface that allow the generation of a flexible mold shell (b) that can be 3D printed (c) and used for casting multiple physical copies (d) of the original model.
 
+
+grp: bickel
 paper: https://research-explorer.app.ist.ac.at/download/1099/4918/IST-2017-760-v1%2B1_flexmolds.pdf
 ---
 

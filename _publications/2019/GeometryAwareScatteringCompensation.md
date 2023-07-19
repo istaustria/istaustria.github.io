@@ -56,6 +56,8 @@ bibtex: |
   }
 
 
+
+grp: bickel
 paper: http://reality.cs.ucl.ac.uk/projects/texture-repro/sumin19geometry-aware-lowres.pdf
 supplemental: http://reality.cs.ucl.ac.uk/projects/texture-repro/sumin19geometry-aware-suppl.zip
 doi: https://doi.org/10.1145/3306346.3322992

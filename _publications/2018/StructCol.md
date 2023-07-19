@@ -45,6 +45,8 @@ bibtex: |
 
 
 openaccess: https://research-explorer.app.ist.ac.at/record/304
+
+grp: bickel
 paper: https://research-explorer.app.ist.ac.at/download/304/5342/IST-2018-1024-v3%2B1_NanoStructColor-Auzinger-paper.pdf
 material: https://research-explorer.app.ist.ac.at/download/304/5345/IST-2018-1024-v3%2B5_NanoStructColor-Auzinger-supplemental.pdf
 blueprint: https://research-explorer.app.ist.ac.at/download/304/5344/IST-2018-1024-v3%2B4_NanoStructColor-Auzinger-blueprint.7z

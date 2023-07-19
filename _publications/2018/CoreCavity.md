@@ -56,6 +56,8 @@ bibtex: |
 
 
 openaccess: https://research-explorer.app.ist.ac.at/record/12
+
+grp: bickel
 paper: https://research-explorer.app.ist.ac.at/download/12/5360/IST-2018-1037-v1%2B1_CoreCavity-AuthorVersion.pdf
 material: https://research-explorer.app.ist.ac.at/download/12/5361/IST-2018-1037-v1%2B2_CoreCavity-Supplemental.zip
 video: https://research-explorer.app.ist.ac.at/download/12/5362/IST-2018-1037-v1%2B3_CoreCavity-Video.mp4

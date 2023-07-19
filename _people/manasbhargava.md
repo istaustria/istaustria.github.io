@@ -1,8 +1,10 @@
 ---
-id: manasbhargava
+pid: manasbhargava
 name: Bhargava, Manas
-room: Lab Building West, 2nd floor, 106
+room: Office Building West <br/> 2nd Floor, Room 106
 email: manas.bhargava@ist.ac.at
 type: phdstudent
-bio: Physics Based Simulation
+grp: bickel
+webpage: https://manas-avi.github.io/
+bio: Manas joined the PhD programme at ISTA with the cohort of 2019, and he is affiliated with the Bickel Group. Prior to that, he was an undergrad in the Computer Science department at the Indian Institute of Technology, Bombay. He is currently working on designing deformable structures.
 ---

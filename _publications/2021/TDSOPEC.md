@@ -16,7 +16,7 @@ affiliations:
 
 publication: ACM Transactions on Graphics 40(4) (SIGGRAPH 2021)
 date: 2021-08-09
-doi: https://dl.acm.org/toc/tog/2021/40/4
+doi: https://dl.acm.org/doi/10.1145/3450626.3459800
 
 bibtex: |
   @article{hafner2021tdsopec,
@@ -30,6 +30,8 @@ bibtex: |
   }
 
 
+
+grp: bickel
 paper: https://research-explorer.app.ist.ac.at/download/9817/10150/elastic-curves-paper.pdf
 suppldoc: https://research-explorer.app.ist.ac.at/download/9817/10151/elastic-curves-supp.pdf
 video: http://pub.ist.ac.at/~chafner/ElasticCurves2021/elastic-curves-video.mp4

@@ -9,6 +9,8 @@ authors:
 publication: ACM Transactions on Graphics 32(4) (SIGGRAPH 2013)
 date: 2013-08-01
 
+
+grp: wojtan
 paper: http://www.gilbertbernstein.com/resources/toptop2013.pdf
 project: http://www.gilbertbernstein.com/project_toptop.html
 ---

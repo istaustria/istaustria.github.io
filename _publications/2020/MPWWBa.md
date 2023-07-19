@@ -20,7 +20,7 @@ authors:
     url: http://matthias-mueller-fischer.ch/
   - name: Wojtan, Chris
     affiliations: [2]
-    url: http://pub.ist.ac.at/group_wojtan/
+    url: https://pub.ista.ac.at/~wojtan/
 
 affiliations:
   - name: NVIDIA
@@ -31,6 +31,8 @@ affiliations:
 publication: Computer Graphics Forum (SCA '20)
 date: 2020-10-6
 
+
+grp: wojtan
 paper: http://pub.ist.ac.at/~chafner/JeschkeWaveCages.pdf
 material: http://pub.ist.ac.at/~chafner/JeschkeWaveCagesSupp.pdf
 video: http://pub.ist.ac.at/~chafner/WaveCagesSCA2020.mp4

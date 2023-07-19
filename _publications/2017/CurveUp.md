@@ -24,6 +24,8 @@ publication: ACM Transactions on Graphics 36(4) (SIGGRAPH 2017)
 date: 2017-07-10
 doi: https://doi.org/http://dx.doi.org/10.1145/3072959.3073709
 
+
+grp: bickel
 paper: http://pub.ist.ac.at/~rguseino/CurveUp.pdf
 material: http://pub.ist.ac.at/~rguseino/CurveUp_supplemental.pdf
 video: https://youtu.be/OSo1HZFhVaU

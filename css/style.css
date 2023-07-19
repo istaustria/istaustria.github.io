@@ -60,10 +60,15 @@ table tr th :last-child, table tr td :last-child {
 }
 
 .jumbotron {
-    margin: 100px 200px 200px 200px;
+    margin: 100px 200px 200px 50px;
     padding: 0;
     color: white;
     background: transparent;
+}
+@media (min-width: 768px) {
+    .jumbotron {
+        margin: 100px 200px 200px 200px;
+    }
 }
 
 .jumbotron span {
@@ -72,6 +77,110 @@ table tr th :last-child, table tr td :last-child {
     background-color: rgb(54, 54, 54);
     background-color: rgba(54, 54, 54, .5);
 }
+
+/*
+ * header
+ */
+
+/* bad copy from bootstrap */
+.navlist a {
+ color:#9d9d9d
+}
+.navlist a:focus, .navlist a:hover {
+ color:#fff;
+ background-color:transparent;
+ text-decoration:underline;
+}
+
+.navbar-nav>li, .navbar-nav {
+    float: left !important;
+  }
+
+/* The container <div> - needed to position the dropdown content */
+.dropdown {
+  position: relative;
+  display: inline-block;
+}
+
+#dropdown a {
+    color:inherit;
+}
+
+#navbar-nodropdown a:hover {
+    text-decoration:underline;
+}
+
+#pubscrollspy {
+    top: 65px;
+    position: sticky;
+}
+
+#pubscrollspy a {
+    padding: 5px 10px;
+}
+
+/* Dropdown Button */
+.dropbtn {
+    padding: 10px;
+    border: none;
+    background-color:transparent;
+}
+/* Hack to fix vertical positions of menu items on small displays in combination with preventing the menu buttons from stacking */
+@media (min-width: 768px) {
+    .dropbtn {
+        padding: 15px;
+    }
+}
+
+#dropbtn a {
+    color: inherit;
+}
+
+/*.dropbtn:hover {
+    text-decoration:underline;
+}*/
+
+/* Dropdown Content (Hidden by Default) */
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #f1f1f1;
+  min-width: 176px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+
+.dropdown-content div {
+    background-color: #555;
+    color:#9d9d9d;
+    padding: 2px 8px;
+}
+
+/* Links inside the dropdown */
+.dropdown-content a {
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+  color:#cfcfcf;
+  background-color: #555;
+}
+
+
+/* Change color of dropdown links on hover */
+.dropdown-content a:hover {
+  background-color: #3f3f3f;
+}
+
+/* Show the dropdown menu on hover */
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+/* Change the background color of the dropdown button when the dropdown content is shown */
+.dropdown:hover .dropbtn {
+    background-image: linear-gradient(to bottom,#3f3f3f 0,#555 100%);
+} 
 
 /*
  * people
@@ -88,6 +197,8 @@ table tr th :last-child, table tr td :last-child {
 
 #people ul.bio li {
     margin-bottom: 0.2em;
+    display: flex;
+    align-items: center;
 }
 
 #people ul.bio .glyphicon {
@@ -145,4 +256,18 @@ table tr th :last-child, table tr td :last-child {
 .paperthumbnail {
     box-shadow: 1px 4px 8px 0 rgba(0, 0, 0, 0.5), 0 10px 14px 0 rgba(0, 0, 0, 0.2);
     margin: 6px 16px 16px 16px;
+}
+
+#top-year {
+    display: block;
+    position: relative;
+    top: -100px;
+    visibility: hidden;
+}
+
+.year-anchor {
+    display: block;
+    position: relative;
+    top: -85px;
+    visibility: hidden;
 }

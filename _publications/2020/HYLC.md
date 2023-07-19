@@ -11,7 +11,7 @@ authors:
     url: http://www.cse.iitd.ac.in/~narain/
   - name: Wojtan, Chris
     affiliations: [1]
-    url: http://pub.ist.ac.at/group_wojtan/
+    url: https://pub.ista.ac.at/~wojtan/
 
 affiliations:
   - name: IST Austria
@@ -34,13 +34,15 @@ bibtex: |
     publisher = {ACM}
   }
 
-paper: http://pub.ist.ac.at/group_wojtan/projects/2020_Sperl_HYLC/2020_HYLC_paper.pdf
-paperLR: http://pub.ist.ac.at/group_wojtan/projects/2020_Sperl_HYLC/2020_HYLC_paper_lowres.pdf
-suppl: http://pub.ist.ac.at/group_wojtan/projects/2020_Sperl_HYLC/2020_HYLC_supplementary.pdf
-pseudo: http://pub.ist.ac.at/group_wojtan/projects/2020_Sperl_HYLC/2020_HYLC_pseudocode.pdf
-datacode: http://pub.ist.ac.at/group_wojtan/projects/2020_Sperl_HYLC/2020_HYLC_data_code.zip
-video: http://pub.ist.ac.at/group_wojtan/projects/2020_Sperl_HYLC/2020_HYLC_video.mp4
-allvideos: http://pub.ist.ac.at/group_wojtan/projects/2020_Sperl_HYLC/2020_HYLC_allvideos.zip
+
+grp: wojtan
+paper: https://pub.ista.ac.at/group_wojtan/projects/2020_Sperl_HYLC/2020_HYLC_paper.pdf
+paperLR: https://pub.ista.ac.at/group_wojtan/projects/2020_Sperl_HYLC/2020_HYLC_paper_lowres.pdf
+suppl: https://pub.ista.ac.at/group_wojtan/projects/2020_Sperl_HYLC/2020_HYLC_supplementary.pdf
+pseudo: https://pub.ista.ac.at/group_wojtan/projects/2020_Sperl_HYLC/2020_HYLC_pseudocode.pdf
+datacode: https://pub.ista.ac.at/group_wojtan/projects/2020_Sperl_HYLC/2020_HYLC_data_code.zip
+video: https://pub.ista.ac.at/group_wojtan/projects/2020_Sperl_HYLC/2020_HYLC_video.mp4
+allvideos: https://pub.ista.ac.at/group_wojtan/projects/2020_Sperl_HYLC/2020_HYLC_allvideos.zip
 repository_hylc: https://git.ist.ac.at/gsperl/HYLC
 repository_arcsim: https://git.ist.ac.at/gsperl/ARCSim-HYLC
 

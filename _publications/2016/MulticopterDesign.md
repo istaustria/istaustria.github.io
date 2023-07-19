@@ -36,6 +36,8 @@ teaser:
   image:
     - url: teaser.png
       alt: Computational Multicopter Design.
+
+grp: bickel
 paper: http://cfg.mit.edu/sites/cfg.mit.edu/files/copter.pdf
 ---
 

@@ -1,17 +1,44 @@
 <nav class="navbar navbar-inverse navbar-fixed-top">
     <div class="container">
 
-        <button class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
-            <a href="#"><span>Navigation</span></a>
-        </button>
+        <!--<button class="navbar-toggle" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">-->
+        <!--<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar">
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+        </button>-->
 
-        <div id="navbar" class="navbar-collapse collapse">
-            <ul class="nav navbar-nav">
-                <li><a href="{{ '/' | prepend: site.baseurl }}">News</a>
-                <li><a href="{{ '/people' | prepend: site.baseurl }}">People</a>
-                <li><a href="{{ '/publications' | prepend: site.baseurl }}">Publications</a>
-                <li><a href="{{ '/openpositions' | prepend: site.baseurl }}">Open Positions</a>
+            <ul class="nav navbar-nav" id="navbar">
+                <li id="navbar-nodropdown"><a href="{{ '/' | prepend: site.baseurl }}">News</a>
+                <li class="navlist">
+                  <div class="dropdown">
+                    <a>
+                      <button class="dropbtn">People <span class="caret"></span>
+                      </button>
+                    </a>
+                    <div class="dropdown-content">
+                      <a href="{{ '/people' | prepend: site.baseurl }}"">All</a>
+                      <a href="{{ '/people/grpbickel' | prepend: site.baseurl }}">Bickel Group</a>
+                      <a href="{{ '/people/grpwojtan' | prepend: site.baseurl }}">Wojtan Group</a>
+                      <div>Our Friends at ISTA:</div>
+                      <a href="https://ist.ac.at/en/research/kolmogorov-group/" target="_blank">Kolmogorov Group &nbsp;<span class="glyphicon glyphicon-new-window"></span></a>
+                      <a href="https://cvml.ista.ac.at/" target="_blank">Lampert Group &nbsp;<span class="glyphicon glyphicon-new-window"></span></a>
+                    </div>
+                  </div> 
+                <li class="navlist">
+                  <div class="dropdown">
+                    <a>
+                      <button class="dropbtn">Publications <span class="caret"></span>
+                      </button>
+                    </a>
+                    <div class="dropdown-content">
+                      <a href="{{ '/publications' | prepend: site.baseurl }}">All</a>
+                      <a href="{{ '/publications/grpbickel' | prepend: site.baseurl }}">Bickel Group</a>
+                      <a href="{{ '/publications/grpwojtan' | prepend: site.baseurl }}">Wojtan Group</a>
+                    </div>
+                  </div> 
+                <li id="navbar-nodropdown"><a href="{{ '/openpositions' | prepend: site.baseurl }}">Jobs</a>
             </ul>
-        </div>
     </div>
 </nav>
+

@@ -1,7 +1,12 @@
 ---
-id: donalddegraen
+pid: donalddegraen
 name: Degraen, Donald
 type: alumni # one of [faculty, assistant, postdoc, phdstudent, intern]
+grp: bickel
+left: 2018
+formerly: Intern
+career: Postdoc at the UMTL at Saarland University
+career-as-of: 2023
 
 # optional fields
 room: 

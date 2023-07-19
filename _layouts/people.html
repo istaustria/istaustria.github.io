@@ -1,0 +1,36 @@
+---
+layout: default
+---
+
+<section id="people">
+  <div class="container text-center">
+    <h2>{{ page.grpname }}</h2>
+  </div>
+
+  <!-- Extra header content -->
+  {{ content }}
+  
+  <div class="container">
+    {% for role in site.roles %}
+      {% assign cat = site.people | where: "type", role.id  %}
+      {% if page.grpid != 'all' %}
+        {% assign cat = cat | where: "grp", page.grpid  %}
+      {% endif %}
+      {% if cat.size > 0 %}
+        <div class="row">
+          <div class="col-sm-12">
+            {% if page.grpid != 'all' and role.id == 'alumni' %}
+              <h3>{{ role.title }}</h3>
+            {% else %}
+              <h3>{{ role.title }}</h3>
+            {% endif %}
+          </div>
+        </div>
+      {% include people-list.html type=role.id grp=page.grpid %}
+      {% endif %}
+    {% endfor %}
+
+  </div>
+
+  
+</section> 

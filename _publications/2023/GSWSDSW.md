@@ -8,7 +8,7 @@ authors:
     url: http://www.stefan-jeschke.com/
   - name: Wojtan, Chris
     affiliations: [2]
-    url: http://pub.ist.ac.at/group_wojtan/
+    url: https://pub.ista.ac.at/~wojtan/
 
 affiliations:
   - name: NVIDIA	
@@ -18,6 +18,8 @@ affiliations:
 
 
 
+
+grp: wojtan
 paper: https://drive.google.com/file/d/105e9f7HZu2m0t8oCMOLTGwMz2Oa5e2Gh/view
 video: https://drive.google.com/file/d/1WH7a1Xben4yfndnnva2KaCzktZoMFxWT/view
 publication: ACM Transactions on Graphics (SIGGRAPH 2023)
@@ -61,6 +63,8 @@ teaser:
 
 * [Paper](https://drive.google.com/file/d/105e9f7HZu2m0t8oCMOLTGwMz2Oa5e2Gh/view)
 * [Video](https://drive.google.com/file/d/1WH7a1Xben4yfndnnva2KaCzktZoMFxWT/view)
+* [NVIDIA project page](https://research.nvidia.com/labs/prl/shallow-water-simulation/)
+
 <br>
 
 ### Citation

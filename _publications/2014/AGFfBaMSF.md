@@ -9,7 +9,7 @@ authors:
   - name: Wojtan, Chris
     affiliations: [1]
     id: chriswojtan
-    url: http://pub.ist.ac.at/group_wojtan/
+    url: https://pub.ista.ac.at/~wojtan/
 
 affiliations:
   - name: IST Austria
@@ -18,6 +18,8 @@ affiliations:
 publication: "ArXiv: 1405.4734"
 date: 2014-04-01
 project: http://arxiv.org/abs/1405.4734
+
+grp: wojtan
 paper: http://people.csail.mit.edu/jsolomon/assets/MeshBilateral.pdf
 
 abstract: |
