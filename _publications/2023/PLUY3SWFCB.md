@@ -6,7 +6,7 @@ doi: https://doi.org/10.1145/3592411
 authors:
   - name: Freire*, Marco
     affiliations: [2]
-    url: https://perso.eleves.ens-rennes.fr/people/marco.freire/
+    url: https://mfremer.github.io/
   - name: Bhargava*, Manas
     affiliations: [1]
     url: https://manas-avi.github.io/
@@ -36,14 +36,20 @@ paper: https://manas-avi.github.io/projects/PCBend/files/FoldableElectronics-202
 project: https://manas-avi.github.io/projects/PCBend/index.html
 
 bibtex: |
-  @inproceedings{FreireAndBhargava2023PCBend,
-  author = {Marco Freire and Manas Bhargava and Camille Schreck and Pierre-Alexandre Hugron and Bernd Bickel and Sylvain Lefebvre},
-  title = {PCBend: Light Up Your 3D Shapes With Foldable Circuit Boards},
-  journal = {ACM Transactions on Graphics (Proc. SIGGRAPH)},
-  year = {2023},
-  volume = {42},
-  number = {4}
+  @article{freire:hal-04129354,
+    TITLE = {PCBend: Light Up Your 3D Shapes With Foldable Circuit Boards},
+    AUTHOR = {Freire, Marco and Bhargava, Manas and Schreck, Camille and Hugron, Pierre-Alexandre and Bickel, Bernd and Lefebvre, Sylvain},
+    URL = {https://inria.hal.science/hal-04129354},
+    JOURNAL = {ACM Transactions on Graphics},
+    PUBLISHER = {Association for Computing Machinery},
+    YEAR = {2023},
+    DOI = {10.1145/3592411},
+    KEYWORDS = {PCB design ; PCB bending ; automated placement and routing ; 3D electronics},
+    PDF = {https://inria.hal.science/hal-04129354/file/main.pdf},
+    HAL_ID = {hal-04129354},
+    HAL_VERSION = {v1},
   }
+
 
 
 abstract: |
@@ -75,8 +81,7 @@ teaser:
 * [Paper](https://manas-avi.github.io/publications/2023/PCBend/FoldableElectronics-2023-camera-ready.pdf)
 * [Supplemental](https://manas-avi.github.io/publications/2023/PCBend/FoldableElectronics-2023-camera-ready-supplemental.pdf)
 * [Video](https://www.youtube.com/watch?v=nJspqdpyWq4)
-* Code: Coming soon!
-<!-- * [Code](https://github.com/mfremer/pcbend) -->
+* [Code](https://github.com/mfremer/pcbend)
 <br>
 
 ### Video
