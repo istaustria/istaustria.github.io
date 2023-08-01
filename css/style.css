@@ -197,6 +197,8 @@ table tr th :last-child, table tr td :last-child {
 
 #people ul.bio li {
     margin-bottom: 0.2em;
+    display: flex;
+    align-items: center;
 }
 
 #people ul.bio .glyphicon {

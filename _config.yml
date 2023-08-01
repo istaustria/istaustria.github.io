@@ -28,16 +28,17 @@ roles:
     title: Administrative Assistants
   - id: postdoc
     title: Senior Researchers
+    short: Postdoc
   - id: phdstudent
     title: PhD Students
   - id: engineer
     title: Engineers
+  - id: visitor
+    title: Visitors
   - id: intern
     title: Interns
   - id: alumni
     title: Alumni
-  - id: visitor
-    title: Visitors
 
 title: Visual Computing @ IST Austria
 url: https://istaustria.github.io

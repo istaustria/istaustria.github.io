@@ -1,8 +1,13 @@
 ---
-id: kazutakanakashima
+pid: kazutakanakashima
 name: Nakashima, Kazutaka 
 type: alumni # one of [faculty, assistant, postdoc, phdstudent, intern]
 grp: bickel
+
+left: 2019
+formerly: Intern
+career: Research Engineer at Yoshimoto Art Factory
+career-as-of: 2023
 
 # optional fields
 room: Lab Building West, 2nd floor, 107
