@@ -1,7 +1,7 @@
 ---
 pid: manasbhargava
 name: Bhargava, Manas
-room: Office Building West <br/> 2nd Floor, Room 106
+room: Moonstone Building <br/> 3rd Floor, Room 036
 email: manas.bhargava@ist.ac.at
 type: phdstudent
 grp: bickel

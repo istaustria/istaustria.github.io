@@ -1,10 +1,10 @@
 ---
 pid: evgenyzuenko
 name: Zuenko, Evgeny
-type: intern
+type: phdstudent
 grp: wojtan
 # Optional
-room: Office Building West <br/> 2nd Floor, Room 109
+room: Moonstone Building <br/> 3rd Floor, Room 036
 email: evgeny.zuenko@ist.ac.at
-bio: Evgeny is about to start his PhD in the Wojtan group, and currently works on water-wave simulation with geometrical optics.
+bio: Evgeny is a PhD student at ISTA and is currently working on water-wave simulation with geometrical optics.
 ---
