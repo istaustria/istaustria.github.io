@@ -1,18 +1,19 @@
 ---
 layout: default
 ---
+
+{% include showcase.html %}
+
 <section id="news">
-    <div class="container text-center">
+    <div class="container">
 	<h2>News</h2>
     </div>
 
     <div class="container">
-	<ul>
 	    <dl class="dl-horizontal">
 	    {% for news in site.data.news %}
 		<dt>{{ news.date }}</dt><dd>{{ news.content | markdownify }}</dd>
 	    {% endfor %}
 	    </dl>
-	</ul>
     </div>
 </section>

@@ -1,0 +1,20 @@
+- title: Hidden Degrees of Freedom in Implicit Vortex Filaments
+  authors: Sadashige Ishida, Chris Wojtan, Albert Chern
+  video: hidden-degrees.mp4
+  venue-year: Siggraph 2023
+  publication: HDFIVM
+- title: Generalizing Shallow Water Simulations With Dispersive Surface Waves
+  authors: Stefan Jeschke, Chris Wojtan
+  video: wake-patterns.mp4
+  venue-year: Siggraph 2023
+  publication: GSWSDSW
+- title: The Design Space of Kirchhoff Rods
+  authors: Christian Hafner, Bernd Bickel
+  video: kirchhoff-rods.mp4
+  venue-year: Siggraph Asia 2023
+  publication: TDSOKR
+- title: Mechanics-Aware Deformation of Yarn Pattern Geometry
+  authors: Georg Sperl, Rahul Narain, Chris Wojtan
+  video: yarns.mp4
+  venue-year: Siggraph 2021
+  publication: MADYPG

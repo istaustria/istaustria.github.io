@@ -1,0 +1,62 @@
+<div style="background-color: #000000">
+    <div class="container" style="position:relative; display:flex; aspect-ratio: 16/9; padding: 0px">
+        <video id="showcase-video" autoplay muted width="100%">
+            <source id="showcase-video-source" src="" type="video/mp4" >
+        </video>
+        <div style="position: absolute; color: white; z-index:1; align-self:flex-end; left:0px; margin-bottom:20px; margin-left:20px; margin-right:20px; text-shadow: 0 0 10px #000000;">
+            {% for i in (1..site.data.showcase.size) %}
+                <span onclick="playVideo({{ i | minus: 1 }})" id="showcase-check-{{ i | minus: 1 }}" class="glyphicon glyphicon-unchecked" style="cursor: pointer"></span>
+            {% endfor %}
+            <div id="showcase-description" style="cursor: pointer" onclick="">
+                <h4 id="showcase-title"></h4>
+                <span id="showcase-subtitle"></span>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script>
+    var video_sources = [{% for vid in site.data.showcase %}"{{vid.video}}"{% unless forloop.last %}, {% endunless %}{% endfor %}];
+    var video_titles = [{% for vid in site.data.showcase %}"{{vid.title}}"{% unless forloop.last %}, {% endunless %}{% endfor %}];
+    var video_venue_years = [{% for vid in site.data.showcase %}"{{vid.venue-year}}"{% unless forloop.last %}, {% endunless %}{% endfor %}];
+    var video_authors = [{% for vid in site.data.showcase %}"{{vid.authors}}"{% unless forloop.last %}, {% endunless %}{% endfor %}];
+    var video_urls = [{% for vid in site.data.showcase %}
+        {% assign md = vid.publication | append: ".md" %}{% for pub in site.publications %}{% assign url = pub.path | split: "/" | last %}{% if url == md %}{% if pub.layout == "publication" %} "{{ pub.url }}" {% else %} "{{ pub.project }}" {% endif %}{% endif %}{% endfor %}
+        {% unless forloop.last %}, {% endunless %}{% endfor %}];
+    var num_videos = {{ site.data.showcase.size }};
+    var baseurl = "{{ site.baseurl }}";
+
+    var source_element = document.getElementById("showcase-video-source");
+    var video_element = document.getElementById("showcase-video");
+    var title_element = document.getElementById("showcase-title");
+    var subtitle_element = document.getElementById("showcase-subtitle");
+    var description_element = document.getElementById("showcase-description");
+
+    i_current_video = -1;
+
+    video_element.onended = (event) => {
+        var i_next_video = (i_current_video+1) % num_videos;
+        playVideo(i_next_video);
+    };
+
+    function playVideo(i_next_video) {
+        if (i_current_video >= 0) {
+            var old_check_element = document.getElementById("showcase-check-".concat(i_current_video));
+            old_check_element.className = "glyphicon glyphicon-unchecked";
+        }
+
+        source_element.setAttribute('src', baseurl.concat('videos/').concat(video_sources[i_next_video]));
+        video_element.load();
+
+        var url = "location.href='".concat(video_urls[i_next_video]).concat("'");
+        description_element.setAttribute('onclick', url);
+        title_element.innerHTML = video_titles[i_next_video];
+        subtitle_element.innerHTML = video_venue_years[i_next_video].concat(" | ").concat(video_authors[i_next_video]);
+
+        var check_element = document.getElementById("showcase-check-".concat(i_next_video));
+        check_element.className = "glyphicon glyphicon-expand";
+
+        i_current_video = i_next_video;
+    }
+    playVideo(Math.floor(Math.random() * num_videos));
+</script>

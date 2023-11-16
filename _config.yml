@@ -40,10 +40,10 @@ roles:
   - id: alumni
     title: Alumni
 
-title: Visual Computing @ IST Austria
+title: ISTA Visual Computing
 url: https://istaustria.github.io
-email: mortenbh@ist.ac.at
-description: "Visual Computing @ IST Austria"
+email: chafner@ist.ac.at
+description: "ISTA Visual Computing"
 
 ## Fix use of this plugin
 #plugins:

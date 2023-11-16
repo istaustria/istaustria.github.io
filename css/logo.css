@@ -1,0 +1,43 @@
+---
+---
+#logo-bg {
+    margin-top:50px;
+    display: flex;
+    align-items: center;
+    background: #ffffff url({{'/img/moonstone-bg.jpg' | prepend: site.baseurl }}) right no-repeat;
+    background-size: auto 100%;
+    background-clip: content-box, padding-box;
+    padding: 0px;
+}
+
+#logo-image {
+    height: 100px;
+    margin-top: 15px;
+    margin-bottom: 10px;
+    margin-left: 15px;
+    opacity: 1;
+}
+
+#logo-text {
+    color: #066335;
+    text-shadow: 0 0 10px #ffffff;
+    font-size: 40px;
+    line-height: 1.1;
+    font-family: 'Work Sans';
+    font-weight: 700;
+    margin-left: 0px;
+    opacity: 1;
+}
+
+@media only screen and (min-width: 768px) {
+    #logo-image {
+        height: 150px;
+        margin-top: 30px;
+        margin-bottom: 30px;
+    }
+
+    #logo-text {
+        font-size: 65px;
+        margin-left: auto;
+    }
+}

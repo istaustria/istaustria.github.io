@@ -11,7 +11,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 section h2 {
-    margin-bottom: 1.5em;
+    margin-bottom: 15px;
 }
 
 table {
@@ -44,38 +44,6 @@ table tr th :first-child, table tr td :first-child {
 }
 table tr th :last-child, table tr td :last-child {
     margin-bottom: 0;
-}
-
-.jumbotron:before {
-    content: '';
-    background: url({{'/img/istaustria_central_building.jpg' | prepend: site.baseurl }}) center no-repeat;
-    background-size: cover;
-    position: absolute;
-    z-index: -1;
-    left: 0px;
-    right: 0px;
-    top: 0px;
-    bottom: 0px;
-    height: 400px;
-}
-
-.jumbotron {
-    margin: 100px 200px 200px 50px;
-    padding: 0;
-    color: white;
-    background: transparent;
-}
-@media (min-width: 768px) {
-    .jumbotron {
-        margin: 100px 200px 200px 200px;
-    }
-}
-
-.jumbotron span {
-    padding: 0 30px;
-    margin: 0 -30px;
-    background-color: rgb(54, 54, 54);
-    background-color: rgba(54, 54, 54, .5);
 }
 
 /*
@@ -270,4 +238,15 @@ table tr th :last-child, table tr td :last-child {
     position: relative;
     top: -85px;
     visibility: hidden;
+}
+
+/* News */
+
+@media only screen and (min-width: 768px) {
+    .dl-horizontal dt {
+        width: 80px;
+    }
+    .dl-horizontal dd {
+        margin-left: 100px;
+    }
 }
