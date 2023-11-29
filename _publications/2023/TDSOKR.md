@@ -18,7 +18,25 @@ publication: ACM Transactions on Graphics (Siggraph Asia 2023)
 date: 2023-12-01
 doi: https://dl.acm.org/doi/10.1145/3606033
 
-bibtex:
+bibtex: |
+  @article{KirchhoffHafner23,
+    author = {Hafner, Christian and Bickel, Bernd},
+    title = {The Design Space of Kirchhoff Rods},
+    year = {2023},
+    issue_date = {October 2023},
+    publisher = {Association for Computing Machinery},
+    address = {New York, NY, USA},
+    volume = {42},
+    number = {5},
+    issn = {0730-0301},
+    url = {https://doi.org/10.1145/3606033},
+    doi = {10.1145/3606033},
+    journal = {ACM Trans. Graph.},
+    month = {sep},
+    articleno = {171},
+    numpages = {20},
+    keywords = {Kirchhoff Rods, Digital Fabrication, Active Bending, Computational Design}
+  }
 
 grp: bickel
 paper: https://research-explorer.ista.ac.at/download/13188/13194/kirchhoff-rods.pdf
@@ -59,6 +77,10 @@ teaser:
 * [Notation Cheat Sheet (0.4 MB)]({{ page.cheatdoc }})
 * [Submission Video (268 MB)]({{ page.video }})
 * [Matlab Code (25 kB)]({{ page.code }})
+
+### Citation
+
+{% include citation.html citation=page.bibtex %}
 
 ### Acknowledgements
 We thank the anonymous reviewers for their generous feedback, and Julian Fischer for his help in proving Proposition 1. This project has received funding from the European Research Council (ERC) under the European Union’s Horizon 2020 research and innovation programme (grant agreement No. 715767).
