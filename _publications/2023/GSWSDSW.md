@@ -20,18 +20,30 @@ affiliations:
 
 
 grp: wojtan
-paper: https://drive.google.com/file/d/105e9f7HZu2m0t8oCMOLTGwMz2Oa5e2Gh/view
+paper: https://research-explorer.ista.ac.at/download/14240/14698/Dispersive_Waves_in_a_Shallow_Water_Framework_final.pdf
 video: https://drive.google.com/file/d/1WH7a1Xben4yfndnnva2KaCzktZoMFxWT/view
 publication: ACM Transactions on Graphics (SIGGRAPH 2023)
 date: 2023-08-10
+doi: https://dl.acm.org/doi/10.1145/3592098
 
 
 bibtex: |
-  @article {JW23,
-  journal = {ACM Transactions on Graphics (Proc. SIGGRAPH)}, 
-  title     = "Generalizing Shallow Water Simulations with Dispersive Surface Waves",
-  author    = "Jeschke, Stefan and Wojtan, Chris",
-  year      = "2023"
+  @article{10.1145/3592098,
+    author = {Jeschke, Stefan and Wojtan, Chris},
+    title = {Generalizing Shallow Water Simulations with Dispersive Surface Waves},
+    year = {2023},
+    issue_date = {August 2023},
+    publisher = {Association for Computing Machinery},
+    address = {New York, NY, USA},
+    volume = {42},
+    number = {4},
+    issn = {0730-0301},
+    url = {https://doi.org/10.1145/3592098},
+    doi = {10.1145/3592098},
+    month = {jul},
+    articleno = {83},
+    numpages = {12},
+    keywords = {real-time animation, natural phenomena, water animation}
   }
 
 abstract: |
@@ -61,11 +73,21 @@ teaser:
 
 ### Links
 
-* [Paper](https://drive.google.com/file/d/105e9f7HZu2m0t8oCMOLTGwMz2Oa5e2Gh/view)
-* [Video](https://drive.google.com/file/d/1WH7a1Xben4yfndnnva2KaCzktZoMFxWT/view)
+* [Paper (8 MB)](https://drive.google.com/file/d/105e9f7HZu2m0t8oCMOLTGwMz2Oa5e2Gh/view)
 * [NVIDIA project page](https://research.nvidia.com/labs/prl/shallow-water-simulation/)
 
-<br>
+### Submission Video
+
+{% include youtube.html id='KwLbYh-oVlo' %}
+
+### Errata
+
+We fixed three errors in the paper after publication and would like to acknowledge Tobias van den Hurk for bringing them to our attention:
+<ol>
+<li>The notation of \(h\) in the last line of the paragraph before Eq. 17.</li>
+<li>In Eq. 17 we replaced a "+" with a "-" (flow divergence needs to be subtracted).  Also, note that Eqs. 19 and 20 are defined just for <em>positive</em> flows, i.e., these need to be adapted for negative flows.</li>
+<li>The dispersion relation of the system (21) is actually \(\omega = \sqrt{gH}\cdot k\), which changes the required correction in Eq. 27 to \(\beta = \sqrt{\frac{2}{k \Delta x}} \cdot \sqrt{\sin \frac{k \Delta x}{2}}\).</li>
+</ol>
 
 ### Citation
 
