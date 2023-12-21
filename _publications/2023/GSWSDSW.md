@@ -71,23 +71,22 @@ teaser:
 
 {{ page.abstract }}
 
+
 ### Links
 
 * [Paper (8 MB)](https://drive.google.com/file/d/105e9f7HZu2m0t8oCMOLTGwMz2Oa5e2Gh/view)
+
+  **Errata:** We fixed three errors in the paper after publication and would like to acknowledge Tobias van den Hurk for bringing them to our attention:
+  <ol>
+  <li>The notation of \(h\) in the last line of the paragraph before Eq. 17.</li>
+  <li>In Eq. 17 we replaced a "+" with a "-" (flow divergence needs to be subtracted).  Also, note that Eqs. 19 and 20 are defined just for <em>positive</em> flows, i.e., these need to be adapted for negative flows.</li>
+  <li>The dispersion relation of the system (21) is actually \(\omega = \sqrt{gH}\cdot k\), which changes the required correction in Eq. 27 to \(\beta = \sqrt{\frac{2}{k \Delta x}} \cdot \sqrt{\sin \frac{k \Delta x}{2}}\).</li>
+  </ol>
 * [NVIDIA project page](https://research.nvidia.com/labs/prl/shallow-water-simulation/)
 
 ### Submission Video
 
 {% include youtube.html id='KwLbYh-oVlo' %}
-
-### Errata
-
-We fixed three errors in the paper after publication and would like to acknowledge Tobias van den Hurk for bringing them to our attention:
-<ol>
-<li>The notation of \(h\) in the last line of the paragraph before Eq. 17.</li>
-<li>In Eq. 17 we replaced a "+" with a "-" (flow divergence needs to be subtracted).  Also, note that Eqs. 19 and 20 are defined just for <em>positive</em> flows, i.e., these need to be adapted for negative flows.</li>
-<li>The dispersion relation of the system (21) is actually \(\omega = \sqrt{gH}\cdot k\), which changes the required correction in Eq. 27 to \(\beta = \sqrt{\frac{2}{k \Delta x}} \cdot \sqrt{\sin \frac{k \Delta x}{2}}\).</li>
-</ol>
 
 ### Citation
 
