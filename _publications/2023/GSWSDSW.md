@@ -20,7 +20,7 @@ affiliations:
 
 
 grp: wojtan
-paper: https://research-explorer.ista.ac.at/download/14240/14698/Dispersive_Waves_in_a_Shallow_Water_Framework_final.pdf
+paper: https://research-explorer.ista.ac.at/download/14240/14725/2023_ACMToG_Jeschke.pdf
 video: https://drive.google.com/file/d/1WH7a1Xben4yfndnnva2KaCzktZoMFxWT/view
 publication: ACM Transactions on Graphics (SIGGRAPH 2023)
 date: 2023-08-10
@@ -74,7 +74,7 @@ teaser:
 
 ### Links
 
-* [Paper (8 MB)](https://drive.google.com/file/d/105e9f7HZu2m0t8oCMOLTGwMz2Oa5e2Gh/view)
+* [Paper (8 MB)](https://research-explorer.ista.ac.at/download/14240/14725/2023_ACMToG_Jeschke.pdf)
 
   **Errata:** We fixed three errors in the paper after publication and would like to acknowledge Tobias van den Hurk for bringing them to our attention:
   <ol>
