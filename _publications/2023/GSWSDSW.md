@@ -81,6 +81,7 @@ teaser:
   <li>The notation of \(h\) in the last line of the paragraph before Eq. 17.</li>
   <li>In Eq. 17 we replaced a "+" with a "-" (flow divergence needs to be subtracted).  Also, note that Eqs. 19 and 20 are defined just for <em>positive</em> flows, i.e., these need to be adapted for negative flows.</li>
   <li>The dispersion relation of the system (21) is actually \(\omega = \sqrt{gH}\cdot k\), which changes the required correction in Eq. 27 to \(\beta = \sqrt{\frac{2}{k \Delta x}} \cdot \sqrt{\sin \frac{k \Delta x}{2}}\).</li>
+  <li>Constraint factor \(d\) in Eq. 13 is actually \(1/4\) and not \(1/100\) as stated in the paper.  In addition, \(h^2/64\) in Eq. 13 is clipped to \(1\) before applying the gradient constraint.</li>
   </ol>
 * [NVIDIA project page](https://research.nvidia.com/labs/prl/shallow-water-simulation/)
 
