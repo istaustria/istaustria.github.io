@@ -76,7 +76,7 @@ teaser:
 
 * [Paper (8 MB)](https://research-explorer.ista.ac.at/download/14240/14725/2023_ACMToG_Jeschke.pdf)
 
-  **Errata:** We fixed three errors in the paper after publication and would like to acknowledge Tobias van den Hurk for bringing them to our attention:
+  **Errata:** We fixed several errors in the paper after publication and would like to acknowledge Tobias van den Hurk for bringing them to our attention:
   <ol>
   <li>The notation of \(h\) in the last line of the paragraph before Eq. 17.</li>
   <li>In Eq. 17 we replaced a "+" with a "-" (flow divergence needs to be subtracted).  Also, note that Eqs. 19 and 20 are defined just for <em>positive</em> flows, i.e., these need to be adapted for negative flows.</li>
