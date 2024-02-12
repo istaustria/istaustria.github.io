@@ -27,7 +27,7 @@ doi: http://dx.doi.org/10.1145/2185520.2185549
 
 
 grp: wojtan
-paper: https://pub.ista.ac.at/group_wojtan/projects/tracking_surfaces/topoReg_web.pdf
+paper: https://research-explorer.ista.ac.at/download/3118/5359/IST-2016-602-v1%2B1_topoReg.pdf
 video: https://pub.ista.ac.at/group_wojtan/projects/tracking_surfaces/topoReg_final_med.mp4
 
 abstract: |
