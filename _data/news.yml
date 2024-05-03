@@ -1,3 +1,7 @@
+- date: 2024-05-03
+  content: >
+    We have 3 papers accepted to [Siggraph 2024 in Denver](https://s2024.siggraph.org/). Check them out on the [Publications page](./publications/)!
+
 - date: 2024-04-22
   content: >
     🏆 We are happy to announce that [Christian Hafner](https://chrishafner.github.io/) has received the [Eurographics 2024 PhD Award](https://www.eg.org/wp/eurographics-awards-programme/phd-award/). He is the fourth ISTA graduate among the awardees, after [Georg Sperl](https://sperl.me/) in 2023, [Ruslan Guseinov](https://ruslanguseinov.com/) in 2021, and [Morten Bojsen-Hansen](https://www.linkedin.com/in/morten-bojsen-hansen-63776a37?originalSubdomain=uk) in 2017.
@@ -16,19 +20,19 @@
 
 - date: 2023-05-08
   content: >
-    [Georg Sperl](https://sperl.me) is one of the recipient of the [2023 Eurographics PhD Award](https://www.eg.org/wp/eurographics-awards-programme/phd-award/). Congrats!
+    🏆 [Georg Sperl](https://sperl.me) is one of the recipient of the [2023 Eurographics PhD Award](https://www.eg.org/wp/eurographics-awards-programme/phd-award/). Congrats!
 
 - date: 2022-08-08
   content: >
-    [Bernd Bickel](./people/) received the [Honorable Mentions award](https://blog.siggraph.org/2022/07/siggraph-2022-technical-papers-awards-best-papers-and-honorable-mentions.html/) for Best Technical Papers in SIGGRAPH 2022. 
+    🏆 [Bernd Bickel](./people/) received the [Honorable Mentions award](https://blog.siggraph.org/2022/07/siggraph-2022-technical-papers-awards-best-papers-and-honorable-mentions.html/) for Best Technical Papers in SIGGRAPH 2022. 
     
 - date: 2022-06-25
   content: >
-    Mickaël Ly has won [the second best thesis award from GDR IG-RV](https://prixigrv2022.sciencesconf.org/), the French association for Computer Graphics, Virtual Reality and Visualization for his thesis directed by Florence Bertails-Decoubes & Mélina Skouras.
+    🏆 [Mickaël Ly](https://astcort.github.io/) has won [the second best thesis award from GDR IG-RV](https://prixigrv2022.sciencesconf.org/), the French association for Computer Graphics, Virtual Reality and Visualization for his thesis directed by Florence Bertails-Decoubes & Mélina Skouras.
 
 - date: 2022-02-15
   content: >
-    [Chris Wojtan](https://pub.ist.ac.at/~wojtan/) has received an ERC Consolidator Grant. Congratulations!
+    📜 [Chris Wojtan](https://pub.ist.ac.at/~wojtan/) has received an ERC Consolidator Grant. Congratulations!
     
 - date: 2021-12-01
   content: >
@@ -36,11 +40,11 @@
 
 - date: 2021-04-05
   content: >
-    Double Win! 🚀🎉 We are thrilled to announce that two of our scientists on campus have received a Eurographics Award for Best PhD Thesis 2021. Big congratulations to Michal Piovarči, postdoc in our group, and Ruslan Guseinov, TWIST fellow and former PhD student of the Bickel group, for this amazing achievement!
+    🏆🏆 Double Win! 🚀🎉 We are thrilled to announce that two of our scientists on campus have received a Eurographics Award for Best PhD Thesis 2021. Big congratulations to Michal Piovarči, postdoc in our group, and Ruslan Guseinov, TWIST fellow and former PhD student of the Bickel group, for this amazing achievement!
 
 - date: 2020-09-15
   content: >
-    Our project AutoMold won the [rizup GENIUS](https://www.riz-up.at/wettbewerbe/ideenpreis/#anchor_95) award in the category R&D. Congratulations!
+    🏆 Our project AutoMold won the [rizup GENIUS](https://www.riz-up.at/wettbewerbe/ideenpreis/#anchor_95) award in the category R&D. Congratulations!
 
 - date: 2020-08-11
   content: >
@@ -48,7 +52,7 @@
 
 - date: 2019-07-16
   content: >
-    We do have an additional opening for a [software engineer](http://visualcomputing.ist.ac.at/openpositions/) in the computational fabrication group! See the [official offer](http://pub.ist.ac.at/~bbickel/downloads/Software-Engineer_Bickel.pdf) for details. Update: Position filled.
+    We have an additional opening for a [software engineer](http://visualcomputing.ist.ac.at/openpositions/) in the computational fabrication group! See the [official offer](http://pub.ist.ac.at/~bbickel/downloads/Software-Engineer_Bickel.pdf) for details. Update: Position filled.
 
 - date: 2019-06-23
   content: >
@@ -64,7 +68,7 @@
 
 - date: 2018-08-09
   content: >
-    We do have open [PhD, Postdoc, and software engineering positions](http://visualcomputing.ist.ac.at/openpositions/) available! In case you are attending SIGGRAPH this year, there will be an opportunity to meet with Bernd Bickel and/or Chris Wojtan in person. If you are interested, please contact the group leader in advance to schedule a meeting.
+    We have open [PhD, Postdoc, and software engineering positions](http://visualcomputing.ist.ac.at/openpositions/) available! In case you are attending SIGGRAPH this year, there will be an opportunity to meet with Bernd Bickel and/or Chris Wojtan in person. If you are interested, please contact the group leader in advance to schedule a meeting.
 
 - date: 2018-08-01
   content: >
@@ -94,14 +98,17 @@
   content: >
     Information about our travel award for European students to attend SIGGRAPH 2018 can be found [here](./contest/). See you in Vancouver!
 
+- date: 2017-08-01
+  content: >
+    🏆 And the ACM SIGGRAPH [Significant New Researcher Award](https://history.siggraph.org/award/siggraph-2017-significant-new-researcher-award-bickel/) goes to Bernd Bickel! Congratulations!
+
 - date: 2017-05-04
   content: >
     IST AUSTRIA [travel award for SIGGRAPH student volunteers](./contest/) goes to Annemieke Verbraeck, currently enrolled in the Master Computer Science program at TU Delft. Congratulations!
 
 - date: 2017-04-27
   content: >
-    Morten Bojsen-Hansen has recieved the [Eurographics Best PhD Thesis Award](https://www.eg.org/wp/phd-award/). Congratulations!
-
+    🏆 Morten Bojsen-Hansen has recieved the [Eurographics Best PhD Thesis Award](https://www.eg.org/wp/phd-award/). Congratulations!
 
 - date: 2017-02-15
   content: >
@@ -117,11 +124,11 @@
 
 - date: 2016-08-23
   content: >
-    [Bernd Bickel](./people/) received the [ERC Starting Grant](http://ist.ac.at/news-media/news/news-detail/article/four-erc-starting-grants-for-ist-austria-professors/6/). Congratulations!
+    📜 [Bernd Bickel](./people/) received the [ERC Starting Grant](http://ist.ac.at/news-media/news/news-detail/article/four-erc-starting-grants-for-ist-austria-professors/6/). Congratulations!
 
 - date: 2016-07-18
   content: >
-    And the ACM SIGGRAPH [Significant New Researcher Award](http://s2016.siggraph.org/content/acm-siggraph-awards) goes to Chris Wojtan! Congratulations!
+    🏆 And the ACM SIGGRAPH [Significant New Researcher Award](https://history.siggraph.org/award/siggraph-2016-significant-new-researcher-award-wojtan/) goes to Chris Wojtan! Congratulations!
 
 - date: 2016-07-18
   content: >
@@ -153,8 +160,7 @@
 
 - date: 2015-05-08
   content: >
-    Our paper [A Dimension-reduced Pressure Solver for Liquid Simulations](#)
-    won best paper at [Eurographics 2015](http://www.eurographics2015.ch/).
+    🏆 Our paper [A Dimension-reduced Pressure Solver for Liquid Simulations](#) won best paper at [Eurographics 2015](http://www.eurographics2015.ch/).
 
 - date: 2015-04-20
   content: >

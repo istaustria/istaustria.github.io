@@ -1,7 +1,7 @@
 ---
 pid: michalpiovarci
 name: Piovarči, Michal
-type: postdoc # one of [faculty, assistant, postdoc, phdstudent, intern]
+type: alumni # one of [faculty, assistant, postdoc, phdstudent, intern]
 grp: bickel
 
 # optional fields

@@ -1,8 +1,23 @@
-- title: Hidden Degrees of Freedom in Implicit Vortex Filaments
-  authors: Sadashige Ishida, Chris Wojtan, Albert Chern
-  video: hidden-degrees.mp4
-  venue-year: Siggraph 2023
-  publication: HDFIVM
+- title: Multi-Material Mesh-Based Surface Tracking with Implicit Topology Changes
+  authors: Peter Heiss-Synak*, Aleksei Kalinov*, Malina Strugaru, Arian Etemadi, Huidong Yang, Chris Wojtan
+  video: multi-material-meshing.mp4
+  venue-year: Siggraph 2024
+  publication: SDTF
+- title: Primal–Dual Non-Smooth Friction for Rigid Body Animation
+  authors: Yi-Lu Chen, Mickaël Ly, Chris Wojtan
+  video: friction-frenzy.mp4
+  venue-year: Siggraph 2024
+  publication: PDNSF
+- title: "Spin-It Faster: Quadrics Solve All Topology Optimization Problems That Depend Only On Mass Moments"
+  authors: Christian Hafner, Mickaël Ly, Chris Wojtan
+  video: spin-it-faster.mp4
+  venue-year: Siggraph 2024
+  publication: SIF
+- title: The Design Space of Kirchhoff Rods
+  authors: Christian Hafner, Bernd Bickel
+  video: kirchhoff-rods.mp4
+  venue-year: Siggraph Asia 2023
+  publication: TDSOKR
 - title: Generalizing Shallow Water Simulations With Dispersive Surface Waves
   authors: Stefan Jeschke, Chris Wojtan
   video: wake-patterns.mp4
@@ -13,11 +28,11 @@
   video: procmeta.mp4
   venue-year: Siggraph 2023
   publication: ProcMeta
-- title: The Design Space of Kirchhoff Rods
-  authors: Christian Hafner, Bernd Bickel
-  video: kirchhoff-rods.mp4
-  venue-year: Siggraph Asia 2023
-  publication: TDSOKR
+- title: Hidden Degrees of Freedom in Implicit Vortex Filaments
+  authors: Sadashige Ishida, Chris Wojtan, Albert Chern
+  video: hidden-degrees.mp4
+  venue-year: Siggraph Asia 2022
+  publication: HDFIVM
 - title: Mechanics-Aware Deformation of Yarn Pattern Geometry
   authors: Georg Sperl, Rahul Narain, Chris Wojtan
   video: yarns.mp4
