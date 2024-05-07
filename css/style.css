@@ -258,6 +258,7 @@ pre {
 
 #publications ul.buttons li {
     padding: 0;
+    padding-bottom: 3px;
 }
 
 #publications ul.years {
