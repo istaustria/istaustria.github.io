@@ -4,7 +4,7 @@ layout: default
 ---
 <section id="publications">
 
-    <div class="container-fluid" data-spy="scroll" data-target="#pubscrollspy">
+    <div class="container-fluid" data-spy="scroll" data-target="#pubscrollspy" style="max-width: 1800px">
 
         {% assign current_year = 0 %}
         {% assign publications = site.publications | sort: 'date' | reverse %}
@@ -14,6 +14,7 @@ layout: default
 
         <div class="row">
             <nav class="col-xs-1" style="width: 68px;  padding-right: 0;" id="pubscrollspy">
+                <div class="container text-center"><h2>&nbsp;</h2></div>
                 <ul class="nav nav-pills nav-stacked">
                     {% for p in publications %}
                         {% assign year = p.date | split: '-' | first %}
@@ -37,18 +38,6 @@ layout: default
                     {% endif %}
                 </div>
 
-        
-        <!-- {% assign current_year = 0 %}
-        <ul class="years list-inline">
-        {% for p in publications %}
-            {% assign year = p.date | split: '-' | first %}
-            {% if year != current_year %}
-            <li><a href="#{{ year }}">{{ year }}</a></li>
-            {% endif %}
-            {% assign current_year = year %}
-        {% endfor %}
-        </ul> -->
-
         {% assign index = 1 %}
         {% assign current_year = 0 %}
         {% for p in publications %}
@@ -59,11 +48,12 @@ layout: default
                         <h4><a name="{{ year }}">{{ year }}</a></h4>
                     </div>-->
                 {% endif %}
-                <div class="well">
+                <div class="well publist-well">
+                    <a href="{{ p.url }}" class="publist-well-bg-link"><span></span></a>
                     {% if year != current_year %}
                         <a class="year-anchor" id="{{ year }}"></a>
                     {% endif %}
-                    <img class="img-responsive" style="margin: 0 auto;" src="{{ '/thumb.jpg' | prepend: p.url | prepend: site.baseurl }}" alt="{{ p.title }}">
+                    <img class="img-responsive" style="margin: 0 auto; border-radius: 4px" src="{{ '/thumb.jpg' | prepend: p.url | prepend: site.baseurl }}" alt="{{ p.title }}">
                     <h4>{{ p.title }}</h4>
                     {% if p.doi %}
                     <p><a href="{{p.doi}}">{{ p.publication }}</a></p>

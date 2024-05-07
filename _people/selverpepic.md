@@ -9,4 +9,6 @@ grp: wojtan
 
 left: 2015
 formerly: Intern
+career: PhD Student at Universität Heidelberg
+career-as-of: 2024
 ---

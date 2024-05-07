@@ -1,4 +1,4 @@
-<figure class="well">
+<figure class="well figure-well">
 <div class="row">
 {% for image in include.images %}
 {% case include.columns %}
@@ -11,7 +11,7 @@
     {% else %}
     <div class="col-lg-12">
 {% endcase %}
-        <img src="{{ image.url }}" alt="{{ image.alt }}" class="img-responsive">
+        <img src="{{ image.url }}" alt="{{ image.alt }}" class="img-responsive" style="border-radius: 4px;">
     </div>
 
 {% assign indexmod2 = forloop.index | modulo: 2 %}

@@ -11,7 +11,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 section h2 {
-    margin-bottom: 15px;
+    margin-bottom: 20px;
 }
 
 table {
@@ -44,6 +44,9 @@ table tr th :first-child, table tr td :first-child {
 }
 table tr th :last-child, table tr td :last-child {
     margin-bottom: 0;
+}
+pre {
+    background-color: white;
 }
 
 /*
@@ -186,6 +189,60 @@ table tr th :last-child, table tr td :last-child {
 /*
  * publications
  */
+
+.publist-well {
+    background-color: white;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    margin-bottom: 30px;
+    box-sizing: border-box;
+}
+
+.publist-well:hover {
+    border: 1px solid #f2f7fc;
+    background-color: #f2f7fc;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 30, 0.2), 0 6px 20px 0 rgba(0,0,30, 0.19);
+    cursor:pointer;
+}
+.publist-well-bg-link > span {
+    position:absolute;
+    width: calc(100% - 30px);
+    height: calc(100% - 30px);
+    top:0;
+    left:15px;
+    z-index:1;
+}
+
+.publist-well a:not(.publist-well-bg-link) {
+    position:relative;
+    z-index:2;
+}
+
+.publist-well button:not(.publist-well-bg-link) {
+    position:relative;
+    z-index:2;
+}
+
+.publist-well div {
+    position:relative;
+    z-index:2;
+    cursor:text;
+}
+
+.publist-well .btn-default:hover {
+    color: #333;
+    background-color: #bfdaf2;
+    border-color: dark(#ccc, 12%);
+}
+.publist-well .btn-default:focus {
+    color: #333;
+    background-color: #bfdaf2;
+    border-color: dark(#ccc, 12%);
+}
+
+.figure-well {
+    background-color: white;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
 
 #publications ul.authors li {
     padding: 0;
