@@ -6,7 +6,7 @@ authors:
   - name: Rao, Pramod
     url: https://people.mpi-inf.mpg.de/~prao/
     affiliations: [1]
-  - name: B R, Mallikarjun
+  - name: B R, Mallikarjun 
     affiliations: [1]
     url: https://people.mpi-inf.mpg.de/~mbr/
   - name: Fox, Gereon

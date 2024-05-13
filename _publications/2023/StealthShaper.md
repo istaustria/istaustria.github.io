@@ -6,7 +6,7 @@ authors:
   - name: Tojo, Kenji
     affiliations: [1]
     url: https://kenji-tojo.github.io/
-  - name: Ariel Shamir
+  - name: Shamir, Ariel
     affiliations: [2]
     url: https://faculty.runi.ac.il/arik/site/index.asp
   - name: Bickel, Bernd
@@ -24,8 +24,9 @@ affiliations:
   - name: Insitute of Science and Technology Austria 
     url: https://www.ista.ac.at/
     
-publication: SIGGRAPH 2023 Conference Papers
-date: 2023-08-11
+publication: ACM Siggraph 2023 Conference Papers
+date: 2023-07-23
+doi: https://doi.org/10.1145/3588432.3591542
 
 
 grp: bickel

@@ -16,7 +16,7 @@ affiliations:
   - name: ISTA
     url: https://ista.ac.at
 
-publication: ACM Siggraph 2024
+publication: ACM Siggraph 2024 Conference Papers
 date: 2024-08-11
 doi: 
 

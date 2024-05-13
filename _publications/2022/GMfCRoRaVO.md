@@ -10,8 +10,9 @@ authors:
   - name: Myszkowski, Karol
   - name: Serrano, Ana
 
-publication: ACM Transactions on Graphics 37
-date: 2022-12-10
+publication: ACM Siggraph Asia 2022 Conference Papers
+date: 2022-11-30
+doi: https://doi.org/10.1145/3550469.3555406
 
 paper: https://misop.github.io/projects/GlossManage/files/Chen2022.pdf
 project: https://misop.github.io/projects/GlossManage/index.html

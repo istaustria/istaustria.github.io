@@ -24,9 +24,10 @@ affiliations:
 grp: wojtan
 paper: https://arxiv.org/pdf/2206.02008.pdf
 video: https://youtu.be/nHG4Fmq-Jmk
-publication: ACM Transactions on Graphics (SIGGRAPH Asia 2022)
-date: 2022-12-01
+publication: ACM Transactions on Graphics (Siggraph Asia 2022)
+date: 2022-11-30
 project: https://sadashigeishida.bitbucket.io/implicit_filaments/
+doi: https://doi.org/10.1145/3550454.3555459
 
 bibtex: |
   @article{

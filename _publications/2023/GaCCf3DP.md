@@ -21,8 +21,9 @@ affiliations:
   - name: ISTA
     url: https://ista.ac.at
 
-publication: SIGGRAPH 2023 Conference Papers
-date: 2023-08-06
+publication: ACM Siggraph 2023 Conference Papers
+date: 2023-07-23
+doi: https://doi.org/10.1145/3588432.3591546
 
 
 grp: bickel

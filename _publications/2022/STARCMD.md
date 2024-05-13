@@ -31,8 +31,9 @@ affiliations:
   - name: University of Technology Sidney
     url: https://www.uts.edu.au/
 
-publication: Computer Graphics Forum 2022 
+publication: Computer Graphics Forum (2022) 
 date: 2022-08-22
+doi: https://doi.org/10.1111/cgf.14581
 
 grp: bickel
 paper: https://research-explorer.app.ist.ac.at/download/11993/11994/star_molding_preprint.pdf

@@ -23,9 +23,9 @@ affiliations:
   - name: EPFL
     url: https://www.epfl.ch/en/
 
-publication: Computer Graphics Forum (EUROGRAPHICS 2023)
-date: 2023-05-08
-
+publication: Computer Graphics Forum (Eurographics 2023)
+date: 2023-05-23
+doi: https://doi.org/10.1111/cgf.14770
 
 grp: bickel
 paper: https://misop.github.io/projects/Embroidery/files/Zhenyuan2023.pdf

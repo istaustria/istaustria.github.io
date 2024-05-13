@@ -49,7 +49,7 @@ layout: default
                     </div>-->
                 {% endif %}
                 <div class="well publist-well">
-                    <a href="{{ p.url }}" class="publist-well-bg-link"><span></span></a>
+                    <a href="{% if p.layout == 'publication' %}{{ p.url }}{% elsif p.project %}{{ p.project }}{% endif %}" class="publist-well-bg-link"><span></span></a>
                     {% if year != current_year %}
                         <a class="year-anchor" id="{{ year }}"></a>
                     {% endif %}
@@ -64,7 +64,7 @@ layout: default
                     <ul class="authors list-inline">
                     {% for author in p.authors %}
                     {% if author.name %}
-                        <li>{{ author.name | split: ',' | first }}</li>
+                        <li>{{author.name | split: ',' | last | lstrip | slice: 0}}. {{ author.name | split: ',' | first }}</li>
                     {% endif %}
                     {% endfor %}
                     </ul>

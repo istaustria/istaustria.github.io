@@ -17,8 +17,9 @@ affiliations:
   - name: ISTA
     url: https://ista.ac.at
 
-publication: ACM Transactions on Graphics (SIGGRAPH 2023)
-date: 2023-08-11
+publication: ACM Transactions on Graphics (Siggraph 2023)
+date: 2023-07-26
+doi: https://doi.org/10.1145/3592432
 
 
 grp: bickel

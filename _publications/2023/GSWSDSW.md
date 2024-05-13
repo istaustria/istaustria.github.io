@@ -22,8 +22,8 @@ affiliations:
 grp: wojtan
 paper: https://research-explorer.ista.ac.at/download/14240/14725/2023_ACMToG_Jeschke.pdf
 video: https://drive.google.com/file/d/1WH7a1Xben4yfndnnva2KaCzktZoMFxWT/view
-publication: ACM Transactions on Graphics (SIGGRAPH 2023)
-date: 2023-08-10
+publication: ACM Transactions on Graphics (Siggraph 2023)
+date: 2023-07-26
 doi: https://dl.acm.org/doi/10.1145/3592098
 
 

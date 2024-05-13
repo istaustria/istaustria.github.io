@@ -15,7 +15,7 @@ affiliations:
     url: https://ista.ac.at
 
 publication: ACM Transactions on Graphics (Siggraph Asia 2023)
-date: 2023-12-01
+date: 2023-09-20
 doi: https://dl.acm.org/doi/10.1145/3606033
 
 bibtex: |

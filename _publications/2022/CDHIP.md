@@ -25,9 +25,9 @@ affiliations:
   - name: Institute of Science and Technology Austria, ISTA
     url: https://ist.ac.at
 
-publication: ACM Transactions on Graphics (SIGGRAPH 2022)
-date: 2022-08-08
-doi: 
+publication: ACM Transactions on Graphics (Siggraph 2022)
+date: 2022-07-22
+doi: https://doi.org/10.1145/3528223.3530071
 
 bibtex: |
   @article{Chen-2022-HighLevelPuzzle,

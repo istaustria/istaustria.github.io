@@ -29,8 +29,8 @@ affiliations:
   - name: URJC
     url: https://www.urjc.es/
 
-publication: ACM Transactions on Graphics 41(4) (SIGGRAPH 2022)
-date: 2022-08-11
+publication: ACM Transactions on Graphics (Siggraph 2022)
+date: 2022-07-22
 doi: https://doi.org/10.1145/3528223.3530167
 
 bibtex: |

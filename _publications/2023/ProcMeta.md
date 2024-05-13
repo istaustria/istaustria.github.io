@@ -32,7 +32,7 @@ affiliations:
     url: https://ista.ac.at
 
 publication: ACM Transactions on Graphics (Siggraph 2023)
-date: 2023-08-11
+date: 2023-07-28
 doi: https://dl.acm.org/doi/10.1145/3605389
 
 bibtex: |

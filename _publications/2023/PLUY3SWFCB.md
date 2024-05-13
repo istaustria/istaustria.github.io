@@ -29,8 +29,8 @@ affiliations:
   - name: MFX
     url: https://mfx.loria.fr/
 
-publication: ACM Transactions on Graphics (SIGGRAPH 2023)
-date: 2023-05-12
+publication: ACM Transactions on Graphics (Siggraph 2023)
+date: 2023-07-26
 grp: bickel
 paper: https://manas-avi.github.io/projects/PCBend/files/FoldableElectronics-2023-camera-ready.pdf
 project: https://manas-avi.github.io/projects/PCBend/index.html

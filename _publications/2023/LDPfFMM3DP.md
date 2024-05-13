@@ -28,7 +28,7 @@ affiliations:
 
 publication: ICRA 2023
 date: 2023-05-29
-
+doi: https://doi.org/10.1109/ICRA48891.2023.10160465
 
 grp: bickel
 paper: https://misop.github.io/projects/LearningMMFFD/files/Liao2023.pdf
