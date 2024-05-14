@@ -84,7 +84,7 @@ teaser:
 {% include citation.html citation=page.bibtex %}
 
 ### Acknowledgements
-We thank Gianmarco Cherchi for his help in tailoring the Mesh Booleans code for this project, Stefan Jeschke for his help with the photographs, Irina-Malina Strugaru and Aleksei Kalinov for their help with the samples, and the anonymous reviewers as well as the members of the ISTA Visual Computing Group for their feedback. This project was funded in part by the European Research Council (ERC Consolidator Grant 101045083 CoDiNA).
+We thank Gianmarco Cherchi for his help in tailoring the Mesh Booleans code for this project, Stefan Jeschke for his help with the photographs, Malina Strugaru and Aleksei Kalinov for their help with the samples, and the anonymous reviewers as well as the members of the ISTA Visual Computing Group for their feedback. This project was funded in part by the European Research Council (ERC Consolidator Grant 101045083 CoDiNA).
 
 ![EU](flag_yellow_low.jpg){: width="150x"}
 ![ERC](LOGO-ERC.jpg){: width="150px"}
