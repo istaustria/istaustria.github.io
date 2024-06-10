@@ -11,7 +11,6 @@ authors:
   - name: Strugaru, Malina
     affiliations: [1]
   - name: Etemadi, Arian
-    url: https://github.com/AriEtemadi
     affiliations: [1]
   - name: Yang, Huidong
     url: https://www.linkedin.com/in/huidong-yang-3931b4ab/?originalSubdomain=at
