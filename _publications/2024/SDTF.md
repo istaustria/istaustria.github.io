@@ -74,6 +74,9 @@ teaser:
 
 {{ page.abstract }}
 
+### Author's note
+When this paper was first published, we regrettably neglected to address the important prior art of Yang et al. 2019, "A Semi-Explicit Surface Tracking Mechanism for Multi-Phase Immiscible Liquids." We thank Professor Christopher Batty of the University of Waterloo for bringing this to our attention. The "Author's version" of the paper published here has been modified to add an additional discussion of this important related work.
+
 ### Resources
 
 * [Paper (48 MB)]({{ page.paper }})
