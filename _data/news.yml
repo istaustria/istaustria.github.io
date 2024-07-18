@@ -1,3 +1,7 @@
+- date: 2024-07-18
+  content: >
+    The [source code](https://git.ista.ac.at/yichen/primal-dual-friction-public) for our new [rigid body solver with non-smooth friction](./publications/2024/PDNSF/) is now online!
+
 - date: 2024-06-19
   content: >
     🏆 We received an Honorable Mention from the [Siggraph 2024 Technical Papers Awards](https://blog.siggraph.org/2024/06/siggraph-2024-technical-papers-awards-best-papers-honorable-mentions-and-test-of-time.html/) for [one of our new papers](./publications/2024/SIF/).
