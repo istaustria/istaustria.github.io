@@ -19,7 +19,7 @@ affiliations:
 
 publication: ACM Transactions on Graphics (Siggraph 2024)
 date: 2024-08-11
-doi:
+doi: https://dl.acm.org/doi/10.1145/3658194
 
 bibtex: |
   @article{SpinItFasterHafner24,
@@ -41,9 +41,9 @@ bibtex: |
   }
 
 grp: wojtan
-paper: https://pub.ista.ac.at/group_wojtan/projects/2024_Hafner_SIF/sif-final.pdf
-suppldoc: https://pub.ista.ac.at/group_wojtan/projects/2024_Hafner_SIF/sif-supp-final.pdf
-video: https://pub.ista.ac.at/group_wojtan/projects/2024_Hafner_SIF/sif-video-final.mp4
+paper: https://research-explorer.ista.ac.at/download/17203/17204/sif-final.pdf
+suppldoc: https://research-explorer.ista.ac.at/download/17203/17205/sif-supp-final.pdf
+video: https://research-explorer.ista.ac.at/download/17203/17276/sif-video-final.mp4
 
 abstract: |
   The behavior of a rigid body primarily depends on its mass moments, which consist of the mass, center of mass, and moments of inertia. It is possible to manipulate these quantities without altering the geometric appearance of an object by introducing cavities in its interior. Algorithms that find cavities of suitable shapes and sizes have enabled the computational design of spinning tops, yo-yos, wheels, buoys, and statically balanced objects. Previous work is based, for example, on topology optimization on voxel grids, which introduces a large number of optimization variables and box constraints, or offset surface computation, which cannot guarantee that solutions to a feasible problem will always be found.

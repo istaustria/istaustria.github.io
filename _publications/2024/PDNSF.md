@@ -18,7 +18,7 @@ affiliations:
 
 publication: ACM Siggraph 2024 Conference Papers
 date: 2024-08-11
-doi: 
+doi: https://dl.acm.org/doi/10.1145/3641519.3657485
 
 bibtex: |
   @article{PrimalDualChen24,
@@ -35,10 +35,10 @@ bibtex: |
   }
 
 grp: wojtan
-paper: https://pub.ista.ac.at/group_wojtan/projects/2024_Chen_FrictionFrenzy/sig24_friction_authors.pdf
-supp: https://pub.ista.ac.at/group_wojtan/projects/2024_Chen_FrictionFrenzy/sig24_friction_supplementary.pdf
-video: https://pub.ista.ac.at/group_wojtan/projects/2024_Chen_FrictionFrenzy/friction_frenzy_main_video.mp4
-videosupp: https://pub.ista.ac.at/group_wojtan/projects/2024_Chen_FrictionFrenzy/friction_frenzy_supp_video.mp4
+paper: https://research-explorer.ista.ac.at/download/17214/17215/sig24_friction_authors.pdf
+supp: https://research-explorer.ista.ac.at/download/17214/17216/sig24_friction_supplementary.pdf
+video: https://research-explorer.ista.ac.at/download/17214/17218/friction_paper_video_finished.mp4
+videosupp: https://research-explorer.ista.ac.at/download/17214/17217/friction_paper_extra_video_finished.mp4
 sourcecode: https://git.ista.ac.at/yichen/primal-dual-friction-public
 
 abstract: |

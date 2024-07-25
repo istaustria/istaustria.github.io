@@ -27,7 +27,7 @@ affiliations:
 
 publication: ACM Transactions on Graphics (Siggraph 2024)
 date: 2024-08-11
-doi: 
+doi: https://dl.acm.org/doi/10.1145/3658223
 
 bibtex: |
   @article{MultimaterialMeshing24,
@@ -47,8 +47,8 @@ bibtex: |
   }
 
 grp: wojtan
-paper: https://pub.ista.ac.at/group_wojtan/projects/2024_MultimatMeshing/SuperDuperTopoFixer.pdf
-video: https://pub.ista.ac.at/group_wojtan/projects/2024_MultimatMeshing/sdtopofixer_final.mp4
+paper: https://research-explorer.ista.ac.at/download/17219/17317/2024_ACMToG_HeissSynak.pdf
+video: https://research-explorer.ista.ac.at/download/17219/17221/sdtopofixer_final.mp4
 
 abstract: |
   We introduce a multi-material non-manifold mesh-based surface tracking algorithm that converts self-intersections into topological changes. Our algorithm generalizes prior work on manifold surface tracking with topological changes: it preserves surface features like mesh-based methods, and it robustly handles topological changes like level set methods. Our method also offers improved efficiency and robustness over the state of the art. We demonstrate the effectiveness of the approach on a range of examples, including complex soap film simulations with thousands of interacting bubbles, and boolean unions of non-manifold meshes consisting of millions of triangles.
@@ -79,8 +79,8 @@ When this paper was first published, we regrettably neglected to address the imp
 
 ### Resources
 
-* [Paper (48 MB)]({{ page.paper }})
-* [Submission Video (66 MB)]({{ page.video }})
+* [Paper (49 MB)]({{ page.paper }})
+* [Submission Video (48 MB)]({{ page.video }})
 
 ### Citation
 
