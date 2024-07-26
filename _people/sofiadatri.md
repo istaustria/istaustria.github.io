@@ -1,9 +1,9 @@
 ---
 pid: sofiadatri
-name: d'Atri, Sofia
+name: D'Atri, Sofia
 room: Moonstone Building <br/> 3rd Floor, Room 034
 email: sofia.d'atri@ist.ac.at
-webpage: 
+webpage: https://cosmcif.github.io/
 type: intern
 
 grp: wojtan
