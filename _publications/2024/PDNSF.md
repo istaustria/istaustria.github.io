@@ -5,6 +5,7 @@ title: "Primal–Dual Non-Smooth Friction for Rigid Body Animation"
 authors:
   - name: Chen, Yi-Lu
     affiliations: [1]
+    url: https://pub.ista.ac.at/~yichen/
   - name: Ly, Mickaël
     affiliations: [1]
     url: https://astcort.github.io/

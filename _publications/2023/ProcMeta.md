@@ -11,7 +11,7 @@ authors:
     url: https://bohanwang123.com/
   - name: Chen, Yi-Lu
     affiliations: [2]
-    url: https://ist.ac.at/de/forschung/wojtan-gruppe/
+    url: https://pub.ista.ac.at/~yichen/
   - name: Deng, Bolei
     affiliations: [1]
     url: https://www.boleideng.com/
