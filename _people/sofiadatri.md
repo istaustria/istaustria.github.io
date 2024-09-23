@@ -4,7 +4,12 @@ name: D'Atri, Sofia
 room: Moonstone Building <br/> 3rd Floor, Room 034
 email: sofia.d'atri@ist.ac.at
 webpage: https://cosmcif.github.io/
-type: intern
+type: alumni
+
+left: 2024
+formerly: Intern
+career: Master Student at ETH Zurich
+career-as-of: 2024
 
 grp: wojtan
 bio: |
