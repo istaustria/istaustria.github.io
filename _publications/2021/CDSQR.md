@@ -35,8 +35,8 @@ affiliations:
   - name: IST Austria
     url: http://ist.ac.at
 
-publication: EEE Transactions on Visualization and Computer Graphics 27(6)
-date: 2021-6-01
+publication: IEEE Transactions on Visualization and Computer Graphics 27(6)
+date: 2019-12-03
 doi: https://doi.org/10.1109/TVCG.2019.2957218
 
 bibtex: |

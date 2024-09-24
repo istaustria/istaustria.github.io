@@ -18,7 +18,7 @@ affiliations:
   - name: IST Austria
     url: http://ist.ac.at	
 
-publication: ACM Transactions on Graphics 38(4) (SIGGRAPH 2019)
+publication: ACM Transactions on Graphics (Siggraph 2019)
 date: 2019-07-12
 doi: https://doi.org/10.1145/3306346.3323002
 
@@ -41,6 +41,7 @@ grp: wojtan
 paper: https://pub.ista.ac.at/group_wojtan/projects/2019_Schreck_FSfWWA/fsww_author_version.pdf 
 video: https://pub.ista.ac.at/group_wojtan/projects/2019_Schreck_FSfWWA/fsww_siggraph19_art130.mp4
 doi: https://doi.org/10.1145/3306346.3323002
+code: https://github.com/schreckc/FSWW
 
 abstract: |
   This paper investigates the use of fundamental solutions for animating detailed linear water surface waves. We first propose an analytical solution for efficiently animating circular ripples in closed form. We then show how to adapt the method of fundamental solutions (MFS) to create ambient waves interacting with complex obstacles. Subsequently, we present a novel wavelet-based discretization which outperforms the state of the art MFS approach for simulating time-varying water surface waves with moving obstacles. Our results feature high-resolution spatial details, interactions with complex boundaries, and large open ocean domains. Our method compares favorably with previous work as well as known analytical solutions. We also present comparisons between our method and real world examples.
@@ -71,7 +72,7 @@ teaser:
 
 * [Paper](https://pub.ista.ac.at/group_wojtan/projects/2019_Schreck_FSfWWA/fsww_author_version.pdf)
 * [Video](https://pub.ista.ac.at/group_wojtan/projects/2019_Schreck_FSfWWA/fsww_siggraph19_art130.mp4)
-* [Sources C++](https://github.com/schreckc/FSWW)
+* [Sources C++]({{page.code}})
 * [Houdini plugin (simplified version)](https://github.com/schreckc/FSWW_houdini)	
 <br>
 

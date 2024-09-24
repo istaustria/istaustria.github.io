@@ -34,6 +34,7 @@ date: 2023-07-26
 grp: bickel
 paper: https://manas-avi.github.io/projects/PCBend/files/FoldableElectronics-2023-camera-ready.pdf
 project: https://manas-avi.github.io/projects/PCBend/index.html
+code: https://github.com/mfremer/pcbend
 
 bibtex: |
   @article{freire:hal-04129354,
@@ -81,7 +82,7 @@ teaser:
 * [Paper](https://manas-avi.github.io/publications/2023/PCBend/FoldableElectronics-2023-camera-ready.pdf)
 * [Supplemental](https://manas-avi.github.io/publications/2023/PCBend/FoldableElectronics-2023-camera-ready-supplemental.pdf)
 * [Video](https://www.youtube.com/watch?v=nJspqdpyWq4)
-* [Code](https://github.com/mfremer/pcbend)
+* [Code]({{page.code}})
 <br>
 
 ### Video

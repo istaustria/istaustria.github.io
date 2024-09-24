@@ -190,6 +190,7 @@ pre {
  * publications
  */
 
+
 .publist-well {
     background-color: white;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
@@ -237,6 +238,11 @@ pre {
     color: #333;
     background-color: #bfdaf2;
     border-color: dark(#ccc, 12%);
+}
+
+.img-project-thumbnail {
+    margin: 0 auto;
+    border-radius: 4px;
 }
 
 .figure-well {
@@ -296,6 +302,42 @@ pre {
     position: relative;
     top: -85px;
     visibility: hidden;
+}
+
+/* Source Code */
+
+#code ul.authors li {
+    padding-right: 0;
+}
+
+#code ul.authors li:after {
+    content: ',';
+}
+
+#code ul.authors li:last-child:after {
+    content: '';
+}
+
+.code-well {
+    background-color: white;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    margin-bottom: 30px;
+    box-sizing: border-box;
+ }
+
+ .code-well .btn-default:hover {
+    color: #333;
+    background-color: #bfdaf2;
+    border-color: dark(#ccc, 12%);
+}
+.code-well .btn-default:focus {
+    color: #333;
+    background-color: #bfdaf2;
+    border-color: dark(#ccc, 12%);
+}
+
+.code-link h3 {
+    padding: 0px 0px 10px 0px;
 }
 
 /* News */

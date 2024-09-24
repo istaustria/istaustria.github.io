@@ -12,7 +12,7 @@ affiliations:
   - name: IST Austria
     url: http://ist.ac.at
 
-publication: Computer Graphics Forum 35(2)
+publication: Computer Graphics Forum (Eurographics 2016)
 date: 2016-05-01
 
 grp: wojtan
@@ -21,6 +21,7 @@ results: https://pub.ista.ac.at/group_wojtan/projects/2016_Jeschke_GDCI/addition
 video: https://pub.ista.ac.at/group_wojtan/projects/2016_Jeschke_GDCI/video_preprint.mp4
 binary: https://pub.ista.ac.at/group_wojtan/projects/2016_Jeschke_GDCI/GDCIEditorBinary.zip
 code: https://pub.ista.ac.at/group_wojtan/projects/2016_Jeschke_GDCI/GDCIEditorSource.zip
+doi: https://doi.org/10.1111/cgf.12812
 
 
 abstract: |

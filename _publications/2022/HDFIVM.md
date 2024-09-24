@@ -28,6 +28,7 @@ publication: ACM Transactions on Graphics (Siggraph Asia 2022)
 date: 2022-11-30
 project: https://sadashigeishida.bitbucket.io/implicit_filaments/
 doi: https://doi.org/10.1145/3550454.3555459
+code: https://github.com/sdsgisd/ImplicitVortexFilaments
 
 bibtex: |
   @article{
@@ -76,7 +77,7 @@ teaser:
 
 * [Paper](https://arxiv.org/pdf/2206.02008.pdf)
 * [Video](https://youtu.be/nHG4Fmq-Jmk)
-* [Code (Houdini Plugin)](https://github.com/sdsgisd/ImplicitVortexFilaments)
+* [Code (Houdini Plugin)]({{page.code}})
 
 <!--
 * [Official publisher page]({{page.doi}}) &nbsp; [![ACM](ACM_logo.svg){: width="40x"}]({{page.doi}})

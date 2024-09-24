@@ -19,7 +19,7 @@ affiliations:
   - name: Indian Institute of Technology Delhi
     url: http://www.iitd.ac.in/
 
-publication: ACM Transactions on Graphics 39(4) (SIGGRAPH 2020)
+publication: ACM Transactions on Graphics (Siggraph 2020)
 date: 2020-07-19
 doi: https://doi.org/10.1145/3386569.3392412
 
@@ -43,7 +43,7 @@ pseudo: https://pub.ista.ac.at/group_wojtan/projects/2020_Sperl_HYLC/2020_HYLC_p
 datacode: https://pub.ista.ac.at/group_wojtan/projects/2020_Sperl_HYLC/2020_HYLC_data_code.zip
 video: https://pub.ista.ac.at/group_wojtan/projects/2020_Sperl_HYLC/2020_HYLC_video.mp4
 allvideos: https://pub.ista.ac.at/group_wojtan/projects/2020_Sperl_HYLC/2020_HYLC_allvideos.zip
-repository_hylc: https://git.ist.ac.at/gsperl/HYLC
+code: https://git.ist.ac.at/gsperl/HYLC
 repository_arcsim: https://git.ist.ac.at/gsperl/ARCSim-HYLC
 
 abstract: |
@@ -96,7 +96,7 @@ Paper (40MB)             |  Supplementary |       Pseudo-Code
 * [Data & Fitting Code (~1MB)]({{ page.datacode }})
 * [Video File (~220MB)]({{ page.video }})
 * [Additional Videos (~320MB)]({{ page.allvideos }})
-* [Pattern Optimization Code]({{ page.repository_hylc }})
+* [Pattern Optimization Code]({{ page.code }})
 * [Cloth Simulation Code]({{ page.repository_arcsim }})
 
 ### Citation

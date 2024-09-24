@@ -19,9 +19,10 @@ affiliations:
   - name: Indian Institute of Technology Delhi
     url: http://www.iitd.ac.in/
 
-publication: ACM Transactions on Graphics 40(4) (SIGGRAPH 2021)
+publication: ACM Transactions on Graphics (Siggraph 2021)
 date: 2021-08-09
 doi: https://doi.org/10.1145/3450626.3459816
+code: https://git.ist.ac.at/gsperl/MADYPG
 
 bibtex: |
   @article{sperl2021madypg,
@@ -43,7 +44,6 @@ suppldoc: https://pub.ista.ac.at/group_wojtan/projects/2021_Sperl_MADYPG/2021_MA
 supplvids: https://pub.ista.ac.at/group_wojtan/projects/2021_Sperl_MADYPG/2021_MADYPG_suppl_videos.zip
 video: https://pub.ista.ac.at/group_wojtan/projects/2021_Sperl_MADYPG/2021_MADYPG_video.mp4
 fastforward: https://pub.ista.ac.at/group_wojtan/projects/2021_Sperl_MADYPG/2021_MADYPG_fastforward.mov
-repository_madypg: https://git.ist.ac.at/gsperl/MADYPG
 repository_hylc: https://git.ist.ac.at/gsperl/HYLC
 
 abstract: |
@@ -89,7 +89,7 @@ teaser:
 * [Main Video (320 MB)]({{ page.video }})
 * [Additional Videos (275 MB)]({{ page.supplvids }})
 * [Fast Forward (22 MB)]({{ page.fastforward }})
-* [Code (Gitlab)]({{ page.repository_madypg }})
+* [Code (Gitlab)]({{ page.code }})
 
 <!--
 * [Pattern Optimization Code]({{ page.repository_hylc }})

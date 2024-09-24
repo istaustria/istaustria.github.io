@@ -40,7 +40,7 @@ paper: https://research-explorer.ista.ac.at/download/17214/17215/sig24_friction_
 supp: https://research-explorer.ista.ac.at/download/17214/17216/sig24_friction_supplementary.pdf
 video: https://research-explorer.ista.ac.at/download/17214/17218/friction_paper_video_finished.mp4
 videosupp: https://research-explorer.ista.ac.at/download/17214/17217/friction_paper_extra_video_finished.mp4
-sourcecode: https://git.ista.ac.at/yichen/primal-dual-friction-public
+code: https://git.ista.ac.at/yichen/primal-dual-friction-public
 
 abstract: |
   Current numerical algorithms for simulating friction fall in one of two camps: smooth solvers sacrifice the stable treatment of static friction in exchange for fast convergence, and non-smooth solvers accurately compute friction at convergence rates that are often prohibitive for large graphics applications. We introduce a novel bridge between these two ideas that computes static and dynamic friction stably and efficiently. Our key idea is to convert the highly constrained non-smooth problem into an unconstrained smooth problem using logarithmic barriers that converges to the exact solution as accuracy increases. We phrase the problem as an interior point primal-dual problem that can be solved efficiently with Newton iteration. We observe quadratic convergence despite the non-smooth nature of the original problem, and our method is well-suited for large systems of tightly packed objects with many contact points. We demonstrate the efficacy of our method with stable piles of grains and stacks of objects, complex granular flows, and robust interlocking assemblies of rigid bodies.
@@ -72,7 +72,7 @@ teaser:
 * [Paper Supplemental (10 MB)]({{ page.supp }})
 * [Main Video (274 MB)]({{ page.video }})
 * [Supplemental Video (70 MB)]({{ page.videosupp }})
-* [**Source Code** (Git Repository)]({{ page.sourcecode }})
+* [**Source Code** (Git Repository)]({{ page.code }})
 
 ### Citation
 

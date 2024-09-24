@@ -29,7 +29,7 @@ affiliations:
   - name: IST Austria
     url: http://ist.ac.at
 
-publication: ACM Transactions on Graphics (SIGGRAPH 2018)
+publication: ACM Transactions on Graphics (Siggraph 2018)
 date: 2018-04-25
 
 
@@ -40,6 +40,7 @@ video: https://pub.ista.ac.at/group_wojtan/projects/2018_Jeschke_WaterSurfaceWav
 additional_video: https://pub.ista.ac.at/group_wojtan/projects/2018_Jeschke_WaterSurfaceWavelets/WaterSurfaceWavelets_additional.mp4
 binary: https://pub.ista.ac.at/group_wojtan/projects/2018_Jeschke_WaterSurfaceWavelets/WaterSurfaceWaveletsBinary.zip
 code: https://github.com/lecopivo/WaterSurfaceWavelets
+doi: https://dl.acm.org/doi/10.1145/3197517.3201336
 
 abstract: |
   The current state of the art in real-time two-dimensional water wave simulation requires developers to choose between efficient Fourier-based methods, which lack interactions with moving obstacles, and finite-difference or finite element methods, which handle environmental interactions but are significantly more expensive. This paper attempts to bridge this long-standing gap between complexity and performance, by proposing a new wave simulation method that can faithfully simulate wave interactions with moving obstacles in real time while simultaneously preserving minute details and accommodating very large simulation domains.

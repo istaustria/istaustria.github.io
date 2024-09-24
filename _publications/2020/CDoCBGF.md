@@ -39,7 +39,7 @@ affiliations:
   - name: KAUST
     url: https://kaust.edu.sa/en
 
-publication: ACM Transactions on Graphics 39(6) (SIGGRAPH Asia 2020)
+publication: ACM Transactions on Graphics (Siggraph Asia 2020)
 date: 2020-12-1
 doi: https://doi.org/http://dx.doi.org/10.1145/3414685.3417843
 

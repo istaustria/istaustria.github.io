@@ -25,6 +25,7 @@ video: https://diglib.eg.org/bitstream/handle/10.1111/cgf14478/paper1086_1.mp4?s
 doi: https://diglib.eg.org:443/handle/10.1111/cgf14478
 publication: Computer Graphics Forum (Eurographics 2022)
 date: 2022-01-10
+code: https://github.com/schreckc/Coupling_FSWW
 
 
 bibtex: |
@@ -68,7 +69,7 @@ teaser:
 
 * [Paper](https://diglib.eg.org/bitstream/handle/10.1111/cgf14478/v41i2pp343-353.pdf?sequence=1&isAllowed=y)
 * [Video](https://diglib.eg.org/bitstream/handle/10.1111/cgf14478/paper1086_1.mp4?sequence=2&isAllowed=y)
-* [Sources (Houdini plugin)](https://github.com/schreckc/Coupling_FSWW)
+* [Sources (Houdini plugin)]({{page.code}})
 <br>
 
 ### Citation

@@ -1,0 +1,48 @@
+---
+layout: default
+---
+
+<section id="code">
+<div class="container text-center">
+    <h2> Source Code </h2>
+</div>
+<div class="container">
+    {% assign publications = site.publications | sort: 'date' | reverse %}
+    <div class="row">
+        {% for p in publications %}
+        {% if p.code %}
+        <div class="col-sm-12">
+            <div class="well code-well">
+                <div class="row">
+                    <div class="col-xs-4">
+                        <img class="img-responsive img-project-thumbnail"
+                        style="max-height: 240px"
+                        src="{{ '/thumb.jpg' | prepend: p.url | prepend: site.baseurl }}">
+                    </div>
+                    <div class="col-xs-8" style="">
+                        <h4>{{ p.title }}</h4>
+                        {% if p.doi %}
+                        <p><a href="{{p.doi}}">{{ p.publication }}</a></p>
+                        {% else %}
+                        <p>{{ p.publication }}</p>
+                        {% endif %}
+                        <ul class="authors list-inline">
+                            {% for author in p.authors %}
+                            {% if author.name %}
+                                <li>{{author.name | split: ',' | last | lstrip}} {{ author.name | split: ',' | first }}</li>
+                            {% endif %}
+                            {% endfor %}
+                        </ul>
+                        <a class="code-link" href="{{ p.code }}"><h3><i class="fa fa-file-code-o"></i>&nbsp;&nbsp;Source Code</h3></a>
+                        <div style="">
+                            <a href="{% if p.layout == 'publication' %}{{ p.url }}{% elsif p.project %}{{ p.project }}{% endif %}" class="btn btn-default">Project Page</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        {% endif %}
+        {% endfor %}
+    </div>
+</div>
+</section>

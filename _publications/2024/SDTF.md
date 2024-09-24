@@ -49,7 +49,7 @@ bibtex: |
 grp: wojtan
 paper: https://research-explorer.ista.ac.at/download/17219/17317/2024_ACMToG_HeissSynak.pdf
 video: https://research-explorer.ista.ac.at/download/17219/17221/sdtopofixer_final.mp4
-sourcecode: https://git.ista.ac.at/psynak/superdupertopofixer
+code: https://git.ista.ac.at/psynak/superdupertopofixer
 
 abstract: |
   We introduce a multi-material non-manifold mesh-based surface tracking algorithm that converts self-intersections into topological changes. Our algorithm generalizes prior work on manifold surface tracking with topological changes: it preserves surface features like mesh-based methods, and it robustly handles topological changes like level set methods. Our method also offers improved efficiency and robustness over the state of the art. We demonstrate the effectiveness of the approach on a range of examples, including complex soap film simulations with thousands of interacting bubbles, and boolean unions of non-manifold meshes consisting of millions of triangles.
@@ -82,7 +82,7 @@ When this paper was first published, we regrettably neglected to address the imp
 
 * [Paper (49 MB)]({{ page.paper }})
 * [Submission Video (48 MB)]({{ page.video }})
-* [**Source Code** (Git Repository)]({{ page.sourcecode }})
+* [**Source Code** (Git Repository)]({{ page.code }})
 
 ### Citation
 
