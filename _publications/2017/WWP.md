@@ -17,7 +17,7 @@ affiliations:
   - name: NVIDIA
     url: http://nvidia.com
 
-publication: ACM Transactions on Graphics 36(4) (SIGGRAPH 2017)
+publication: ACM Transactions on Graphics (Siggraph 2017)
 date: 2017-07-10
 doi: http://dx.doi.org/10.1145/3072959.3073678
 
@@ -25,7 +25,7 @@ doi: http://dx.doi.org/10.1145/3072959.3073678
 grp: wojtan
 paper: https://pub.ista.ac.at/group_wojtan/projects/2017_Jeschke_WaterWavePackets/wavepackets_author.pdf
 video: https://pub.ista.ac.at/group_wojtan/projects/2017_Jeschke_WaterWavePackets/WavePacketsFinal.mp4
-versionedCode: https://zenodo.org/record/525184
+code: https://zenodo.org/record/525184
 originalCode: https://pub.ista.ac.at/group_wojtan/projects/2017_Jeschke_WaterWavePackets/water-wave-packets-v1.0.0.zip
 
 abstract: |
@@ -70,7 +70,7 @@ teaser:
 
 * [Paper]({{ page.paper }}) (13 MB)
 * [Supplementary video]({{ page.video }}) (219 MB)
-* [Source Code]({{ page.versionedCode }}) [(original)]({{ page.originalCode }}) [(most recent version)]({{ page.versionedCode }}) (1.4 MB)
+* [Source Code]({{ page.code }}) [(original)]({{ page.originalCode }}) [(most recent version)]({{ page.code }}) (1.4 MB)
 
 ### Citation
 

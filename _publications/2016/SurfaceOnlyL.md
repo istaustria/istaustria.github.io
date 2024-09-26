@@ -11,10 +11,12 @@ authors:
   - name: Grinspun, Eitan
 
 
-publication: ACM Transactions on Graphics 35(4) (SIGGRAPH 2016)
+publication: ACM Transactions on Graphics (Siggraph 2016)
 date: 2016-08-01
 
 grp: wojtan
 paper: http://www.cs.columbia.edu/cg/surfaceliquids/droplets.pdf
 project: http://www.cs.columbia.edu/cg/surfaceliquids/
+code: http://www.cs.columbia.edu/cg/surfaceliquids/code
+doi: https://doi.org/10.1145/2897824.2925899
 ---
