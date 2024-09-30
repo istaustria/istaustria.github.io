@@ -30,6 +30,7 @@ doi: https://doi.org/10.1111/cgf.14770
 grp: bickel
 paper: https://misop.github.io/projects/Embroidery/files/Zhenyuan2023.pdf
 project: https://misop.github.io/projects/Embroidery/index.html
+code: https://github.com/desmondlzy/embroidery-streamlines
 
 bibtex: |
   @article{zhenyuan2023embroidery,
