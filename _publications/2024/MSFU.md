@@ -32,8 +32,10 @@ affiliations:
     url: https://mfx.loria.fr/
   - name: MIT
     url: https://people.csail.mit.edu/
+  - name: U of T
+    url: https://www.utoronto.ca/
   - name: ETH
-    url: https://ethz.ch/en/the-eth-zurich.html
+    url: https://ethz.ch/
 
 publication: Computer Graphics Forum (Eurographics 2025)
 date: 2024-10-29
