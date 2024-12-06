@@ -9,6 +9,9 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
+  seminars:
+    output: true
+    permalink: /:collection/:path/
     
 social:
   - title: twitter
