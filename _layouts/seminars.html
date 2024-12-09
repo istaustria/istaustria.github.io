@@ -4,105 +4,110 @@ layout: default
 ---
 <section id="seminars">
 
-    <div class="container-fluid" data-spy="scroll" data-target="#pubscrollspy" style="max-width: 1800px">
+  <div class="container-fluid" data-spy="scroll" data-target="#pubscrollspy" style="max-width: 1800px">
 
-        {% assign current_year = 0 %}
-        {% assign seminars = site.seminars | sort: 'date' | reverse %}
+    {% assign current_year = 0 %}
+    {% assign seminars = site.seminars | sort: 'date' | reverse %}
 
-        <div class="row">
-            <nav class="col-xs-1" style="width: 68px;  padding-right: 0;" id="pubscrollspy">
-                <div class="container text-center"><h2>&nbsp;</h2></div>
-                <ul class="nav nav-pills nav-stacked">
-                    {% for p in seminars %}
-                        {% assign year = p.date | split: '-' | first %}
-                        {% if current_year == 0 %}
-                            <li><a href="#top-year">{{ year }}</a></li>
-                        {% elsif year != current_year %}
-                            <li><a href="#{{ year }}">{{ year }}</a></li>
-                        {% endif %}
-                        {% assign current_year = year %}
-                    {% endfor %}
-                </ul>
-            </nav>
+    <div class="row">
+      <nav class="col-xs-1" style="width: 68px;  padding-right: 0;" id="pubscrollspy">
+        <div class="container text-center"><h2>&nbsp;</h2></div>
+        <ul class="nav nav-pills nav-stacked">
+          {% for p in seminars %}
+          {% assign year = p.date | split: '-' | first %}
+          {% if current_year == 0 %}
+          <li><a href="#top-year">{{ year }}</a></li>
+          {% elsif year != current_year %}
+          <li><a href="#{{ year }}">{{ year }}</a></li>
+          {% endif %}
+          {% assign current_year = year %}
+          {% endfor %}
+        </ul>
+      </nav>
 
-            <div class="col-xs-11" style="width: calc(100% - 68px); padding-left: 0;">
+      <div class="col-xs-11" style="width: calc(100% - 68px); padding-left: 0;">
 
-                <div class="container text-center">
-                   <h2>Computer Graphics seminars</h2>
-                </div>
+        <div class="container text-center">
+          <h2>Computer Graphics seminars</h2>
+        </div>
 
         {% assign index = 1 %}
         {% assign current_year = 0 %}
         {% for p in seminars %}
-            {% assign year = p.date | split: '-' | first %}
-            <div class="publication text-center col-sm-6 col-md-4 col-lg-3">
-                {% if year != current_year %}
-                {% endif %}
-                <div class="well publist-well">
-                    <!--<a href="{% if p.layout == 'publication' %}{{ p.url }}{% elsif p.project %}{{ p.project }}{% endif %}" class="publist-well-bg-link"><span></span></a>-->
-                    {% if year != current_year %}
-                        <a class="year-anchor" id="{{ year }}"></a>
-                    {% endif %}
-                    <img class="img-responsive img-project-thumbnail" src="{{ '/thumb.jpg' | prepend: p.url | prepend: site.baseurl }}" alt="{{ p.title }}">
-                    <h4>{{ p.title }}</h4>
+        {% assign year = p.date | split: '-' | first %}
+        {% if year != current_year %}
+        {% endif %}
+        <div class="well publist-well">
+          <!--<a href="{% if p.layout == 'publication' %}{{ p.url }}{% elsif p.project %}{{ p.project }}{% endif %}" class="publist-well-bg-link"><span></span></a>-->
+          {% if year != current_year %}
+          <a class="year-anchor" id="{{ year }}"></a>
+          {% endif %}
 
-                    <ul class="authors list-inline">
-                    {% for author in p.authors %}
-                    {% if author.name %}
-                    <li>
-                      {% if author.url %}
-                      <a href={{author.url}}>
-                      {% endif %} <!-- url -->
-                      {{author.name | split: ',' | last | lstrip | slice: 0}}. {{ author.name | split: ',' | first }}
-                      {% if author.url %}
-                      </a>
-                      {% endif %} <!-- url -->
-                      {% for affiliation in p.affiliations %}
-                      {% if affiliation.url %}
-                      <a href={{affiliation.url}}>
-                      {% endif %} <!-- url -->
-                        , {{affiliation.name}}
-                      {% if affiliation.url %}
-                      </a>
-                      {% endif %} <!-- url -->
-                      {% endfor %}  <!-- affiliations -->
-                    </li>
-                    {% endif %} <!-- author -->
-                    {% endfor %}
-                    </ul>
-
-                    <ul class="buttons list-inline">
-                    {% if p.abstract %}
-                        <li>
-                        <button
-                            class="btn btn-default"
-                            type="button"
-                            data-toggle="collapse"
-                            data-target="#abstract{{ index }}"
-                            aria-expanded="false"
-                            aria-controls="abstract{{ index }}">Abstract</button>
-                        </li>
-                    {% endif %}
-                    </ul>
-
-                    {% if p.abstract %}
-                    <div class="collapse" id="abstract{{ index }}">
-                        <p class="text-left">{{ p.abstract }}</p>
-                    </div>
-                    {% endif %}
-                </div>
+          <div class="row">
+            <div class="col-xs-4">
+              <img class="img-responsive img-project-thumbnail"
+                   style="max-height: 240px"
+                   src="{{ '/thumb.jpg' | prepend: p.url | prepend: site.baseurl }}">
             </div>
-            {% assign current_year = year %}
-            {% assign indexmod2 = index | modulo: 2 %}
-            {% assign indexmod3 = index | modulo: 3 %}
-            {% assign indexmod4 = index | modulo: 4 %}
-            {% assign index = index | plus: 1 %}
-            {% if indexmod2 == 0 %}<div class="clearfix visible-xs visible-sm"></div>{% endif %}
-            {% if indexmod3 == 0 %}<div class="clearfix visible-md"></div>{% endif %}
-            {% if indexmod4 == 0 %}<div class="clearfix visible-lg"></div>{% endif %}
+            <div class="col-xs-8" style="">
+              <h4>{{ p.title }}</h4>
+              {% if p.doi %}
+              <p><a href="{{p.doi}}">{{ p.publication }}</a></p>
+              {% else %}
+              <p>{{ p.publication }}</p>
+              {% endif %}
+              <ul class="authors list-inline">
+                {% for author in p.authors %}
+                {% if author.name %}
+                <li>
+                  {% if author.url %}
+                  <a href={{author.url}}>
+                    {% endif %} <!-- url -->
+                    {{author.name | split: ',' | last | lstrip }} {{ author.name | split: ',' | first }}
+                    {% if author.url %}
+                  </a>
+                  {% endif %} <!-- url -->
+                  {% for affiliation in p.affiliations %}
+                  {% if affiliation.url %}
+                  <a href={{affiliation.url}}>
+                    {% endif %} <!-- url -->
+                    , {{affiliation.name}}
+                    {% if affiliation.url %}
+                  </a>
+                  {% endif %} <!-- url -->
+                  {% endfor %}  <!-- affiliations -->
+                </li>
+                {% endif %}
+                {% endfor %}
+              </ul>
+              <div style="">
+                <ul class="buttons list-inline">
+                  {% if p.abstract %}
+                  <li>
+                    <button
+                      class="btn btn-default"
+                      type="button"
+                      data-toggle="collapse"
+                      data-target="#abstract{{ index }}"
+                      aria-expanded="false"
+                      aria-controls="abstract{{ index }}">Abstract</button>
+                  </li>
+                  {% endif %}
+                </ul>
+                {% if p.abstract %}
+                <div class="collapse" id="abstract{{ index }}">
+                  <p class="text-left">{{ p.abstract }}</p>
+                </div>
+                {% endif %}
+              </div>
+            </div>
+          </div>
+
+        </div>
+        
         {% endfor %}
 
-        </div>
-        </div>
+      </div>
     </div>
+  </div>
 </section>
