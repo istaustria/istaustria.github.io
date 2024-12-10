@@ -82,7 +82,7 @@ pre {
 }
 
 #pubscrollspy {
-    top: 65px;
+    top: 110px;
     position: sticky;
 }
 
@@ -91,7 +91,7 @@ pre {
 }
 
 #seminarscrollspy {
-    top: 00px;
+    top: 110px;
     position: sticky;
 }
 

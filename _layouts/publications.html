@@ -6,6 +6,15 @@ layout: default
 
     <div class="container-fluid" data-spy="scroll" data-target="#pubscrollspy" style="max-width: 1800px">
 
+        
+        <div class="container text-center">
+            {% if page.grpid == 'all' %}
+                <h2>Publications</h2>
+            {% else %}
+                <h2>Publications <small>of the</small> {{ page.grpname }} group </h2>
+            {% endif %}
+        </div>
+
         {% assign current_year = 0 %}
         {% assign publications = site.publications | sort: 'date' | reverse %}
         {% if page.grpid != 'all' %}
@@ -14,7 +23,7 @@ layout: default
 
         <div class="row">
             <nav class="col-xs-1" style="width: 68px;  padding-right: 0;" id="pubscrollspy">
-                <div class="container text-center"><h2>&nbsp;</h2></div>
+                <div class="container text-center" style="height:0px">&nbsp;</div>
                 <ul class="nav nav-pills nav-stacked">
                     {% for p in publications %}
                         {% assign year = p.date | split: '-' | first %}
@@ -30,13 +39,6 @@ layout: default
 
             <div class="col-xs-11" style="width: calc(100% - 68px); padding-left: 0;">
 
-                <div class="container text-center">
-                    {% if page.grpid == 'all' %}
-                        <h2>Publications</h2>
-                    {% else %}
-                        <h2>Publications <small>of the</small> {{ page.grpname }} group </h2>
-                    {% endif %}
-                </div>
 
         {% assign index = 1 %}
         {% assign current_year = 0 %}

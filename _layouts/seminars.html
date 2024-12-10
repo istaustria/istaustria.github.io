@@ -16,6 +16,7 @@ layout: default
 
     <div class="row">
       <nav class="col-xs-1" style="width: 88px;  padding-right: 20px;" id="seminarscrollspy">
+        <div class="container text-center" style="height:0px">&nbsp;</div> <!-- This makes the scrollspy stick at the right place -->
         <ul class="nav nav-pills nav-stacked">
           {% for p in seminars %}
           {% assign year = p.date | split: '-' | first %}
