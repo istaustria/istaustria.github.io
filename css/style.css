@@ -90,6 +90,16 @@ pre {
     padding: 5px 10px;
 }
 
+#seminarscrollspy {
+    top: 00px;
+    position: sticky;
+}
+
+#seminarscrollspy a {
+    padding: 5px 10px;
+}
+
+
 /* Dropdown Button */
 .dropbtn {
     padding: 10px;

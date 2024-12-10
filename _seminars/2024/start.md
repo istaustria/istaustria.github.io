@@ -14,6 +14,8 @@ affiliations:
 
 date: 2024-09-01
 
+publication: An optional relevant paper
+doi: LinkToThePaper
 
 abstract: |
   Computer Graphics seminars at ISTA! Exciting talks and amazing people!
