@@ -38,7 +38,8 @@ bibtex: |
 
 
 grp: wojtan
-paper: https://pub.ista.ac.at/group_wojtan/projects/2019_Schreck_FSfWWA/fsww_author_version.pdf 
+paper: https://pub.ista.ac.at/group_wojtan/projects/2019_Schreck_FSfWWA/fsww_author_version.pdf
+suppl: https://pub.ista.ac.at/group_wojtan/projects/2019_Schreck_FSfWWA/schreck-fund-sol-suppl.zip
 video: https://pub.ista.ac.at/group_wojtan/projects/2019_Schreck_FSfWWA/fsww_siggraph19_art130.mp4
 doi: https://doi.org/10.1145/3306346.3323002
 code: https://github.com/schreckc/FSWW
@@ -70,8 +71,9 @@ teaser:
 
 ### Links
 
-* [Paper](https://pub.ista.ac.at/group_wojtan/projects/2019_Schreck_FSfWWA/fsww_author_version.pdf)
-* [Video](https://pub.ista.ac.at/group_wojtan/projects/2019_Schreck_FSfWWA/fsww_siggraph19_art130.mp4)
+* [Paper]({{page.paper}})
+* [Supplementary Material]({{page.suppl}})
+* [Video]({{page.video}})
 * [Sources C++]({{page.code}})
 * [Houdini plugin (simplified version)](https://github.com/schreckc/FSWW_houdini)	
 <br>
