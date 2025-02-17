@@ -112,7 +112,7 @@ layout: default
 
                     {% if p.abstract %}
                     <div class="collapse" id="abstract{{ index }}">
-                        <p class="text-left">{{ p.abstract }}</p>
+                        <p class="text-left">{{ p.abstract | markdownify }}</p>
                     </div>
                     {% endif %}
                     {% if p.bibtex %}
