@@ -17,7 +17,7 @@ affiliations:
 
 publication: Computer Graphics Forum (Eurographics 2020)
 date: 2020-05-15
-doi: 
+doi:  https://doi.org/10.1111/cgf.13914
 
 bibtex: |
   @article{SW_ampm20,

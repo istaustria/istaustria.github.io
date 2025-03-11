@@ -17,7 +17,7 @@ affiliations:
   - name: ISTA
     url: https://ista.ac.at
 
-publication: ACM SIGGRAPH/Eurographics Symposium on Computer Animation (SCA'23 Posters)
+publication: ACM SIGGRAPH/Eurographics Symposium on Computer Animation (SCA 2023 Posters)
 date: 2023-08-01
 doi: https://dl.acm.org/doi/10.1145/3606037.3606836
 

@@ -51,11 +51,10 @@ layout: default
                     </div>-->
                 {% endif %}
                 <div class="well publist-well">
-                    <a href="{% if p.layout == 'publication' %}{{ p.url }}{% elsif p.project %}{{ p.project }}{% endif %}" class="publist-well-bg-link"><span></span></a>
                     {% if year != current_year %}
                         <a class="year-anchor" id="{{ year }}"></a>
                     {% endif %}
-                    <img class="img-responsive img-project-thumbnail" src="{{ '/thumb.jpg' | prepend: p.url | prepend: site.baseurl }}" alt="{{ p.title }}">
+                    <a href="{% if p.layout == 'publication' %}{{ p.url }}{% elsif p.project %}{{ p.project }}{% endif %}"><img class="img-responsive img-project-thumbnail" src="{{ '/thumb.jpg' | prepend: p.url | prepend: site.baseurl }}" alt="{{ p.title }}"></a>
                     <h4>{{ p.title }}</h4>
                     {% if p.doi %}
                     <p><a href="{{p.doi}}">{{ p.publication }}</a></p>

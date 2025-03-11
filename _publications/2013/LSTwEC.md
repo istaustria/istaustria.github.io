@@ -13,10 +13,10 @@ authors:
     url: https://pub.ista.ac.at/~wojtan/
 
 affiliations:
-  - name: IST Austria
+  - name: ISTA
     url: http://ist.ac.at
 
-publication: ACM Transactions on Graphics 32(4) (SIGGRAPH 2013)
+publication: ACM Transactions on Graphics (Siggraph 2013)
 date: 2013-08-01
 doi: http://dx.doi.org/10.1145/2461912.2461991
 

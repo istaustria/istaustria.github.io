@@ -1,4 +1,5 @@
 ---
+layout: publication
 title: "Hidden Degrees of Freedom in Implicit Vortex Filaments"
 
 authors:
@@ -23,10 +24,8 @@ affiliations:
 
 grp: wojtan
 paper: https://arxiv.org/pdf/2206.02008.pdf
-video: https://youtu.be/nHG4Fmq-Jmk
 publication: ACM Transactions on Graphics (Siggraph Asia 2022)
 date: 2022-11-30
-project: https://sadashigeishida.bitbucket.io/implicit_filaments/
 doi: https://doi.org/10.1145/3550454.3555459
 code: https://github.com/sdsgisd/ImplicitVortexFilaments
 
@@ -58,11 +57,11 @@ teaser:
 
 ---
 
-[comment]: # Below is the old local page. Remove the "project" and add "layout: publication" above "title"
-
 ## {{ page.title }}
 
 {% include figure.html caption=page.teaser.caption images=page.teaser.images columns=1 %}
+
+<a href="https://sadashigeishida.bitbucket.io/implicit_filaments/"><span class="glyphicon glyphicon-new-window"></span> Author's project page</a>
 
 {% include authors.html authors=page.authors affiliations=page.affiliations %}
 
@@ -75,18 +74,12 @@ teaser:
 
 ### Links
 
-* [Paper](https://arxiv.org/pdf/2206.02008.pdf)
-* [Video](https://youtu.be/nHG4Fmq-Jmk)
+* [Paper](https://dl.acm.org/doi/pdf/10.1145/3550454.3555459)
 * [Code (Houdini Plugin)]({{page.code}})
-
-<!--
-* [Official publisher page]({{page.doi}}) &nbsp; [![ACM](ACM_logo.svg){: width="40x"}]({{page.doi}})
--->
-
 
 ### Video
 
-{% include youtube.html id='nHG4Fmq-Jmk' %}
+{% include youtube.html id='f6YL37L5a9w' %}
 
 ### Citation
 

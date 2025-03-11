@@ -28,9 +28,9 @@ affiliations:
   - name: IST Austria
     url: http://ist.ac.at
 
-publication: Computer Graphics Forum (SCA '20)
+publication: Computer Graphics Forum (SCA 2020)
 date: 2020-10-6
-
+doi:  https://doi.org/10.1111/cgf.14100
 
 grp: wojtan
 paper: http://pub.ist.ac.at/~chafner/JeschkeWaveCages.pdf

@@ -24,8 +24,9 @@ affiliations:
   - name: Weta Digital
     url: https://www.wetafx.co.nz/
 
-publication: ACM Transactions on Graphics (SIGGRAPH 2020)
+publication: ACM Transactions on Graphics (Siggraph 2020)
 date: 2020-07-19
+doi: https://doi.org/10.1145/3386569.3392466
 
 bibtex: |
   @article{skrivan2020wc,

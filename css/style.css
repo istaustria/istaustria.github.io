@@ -6,7 +6,6 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
     font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
-    text-transform: uppercase;
     font-weight: 700;
 }
 
@@ -212,26 +211,8 @@ pre {
     border: 1px solid #f2f7fc;
     background-color: #f2f7fc;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 30, 0.2), 0 6px 20px 0 rgba(0,0,30, 0.19);
-    cursor:pointer;
-}
-.publist-well-bg-link > span {
-    position:absolute;
-    width: calc(100% - 30px);
-    height: calc(100% - 30px);
-    top:0;
-    left:15px;
-    z-index:1;
 }
 
-.publist-well a:not(.publist-well-bg-link) {
-    position:relative;
-    z-index:2;
-}
-
-.publist-well button:not(.publist-well-bg-link) {
-    position:relative;
-    z-index:2;
-}
 
 .publist-well div {
     position:relative;
