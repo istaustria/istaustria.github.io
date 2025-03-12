@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Area formula for spherical polygons via prequantization"
+title: "Area Formula for Spherical Polygons via Prequantization"
 
 authors:
   - name: Chern, Albert
@@ -16,7 +16,7 @@ affiliations:
   - name: ISTA
     url: https://ista.ac.at
 
-publication: SIAM Journal on Applied Algebra and Geometry (SIAGA)
+publication: SIAM Journal on Applied Algebra and Geometry (SIAGA, 2024)
 date: 2024-09-23
 doi: https://doi.org/10.1137/23M1565255
 

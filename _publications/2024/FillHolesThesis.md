@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Filling the holes of non-manifold self-intersecting meshes for implicit topology changes in surface tracking"
+title: "Filling the Holes of Non-Manifold Self-Intersecting Meshes for Implicit Topology Changes in Surface Tracking"
 
 authors:
   - name: Etemadi, Arian
@@ -10,7 +10,7 @@ affiliations:
   - name: ISTA
     url: http://ista.ac.at
 
-publication: ISTA (Master's Thesis)
+publication: ISTA (Master's Thesis, 2024)
 date: 2024-10-15
 doi: https://doi.org/10.15479/at:ista:18301
 

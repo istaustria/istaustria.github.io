@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Fast approximations for boundary element based brittle fracture simulation
+title: Fast Approximations for Boundary Element Based Brittle Fracture Simulation
 
 grp: wojtan
 

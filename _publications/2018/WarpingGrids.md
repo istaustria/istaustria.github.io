@@ -31,7 +31,7 @@ affiliations:
   - name: NII
     url: https://www.nii.ac.jp/en/
 
-publication: IEEE Transactions on Visualization and Computer Graphics
+publication: IEEE Transactions on Visualization and Computer Graphics (2018)
 date: 2018-11-30
 doi: https://doi.org/10.1109/TVCG.2018.2883628
 

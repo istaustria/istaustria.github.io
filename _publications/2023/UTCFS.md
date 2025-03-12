@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Unified treatment of contact, friction and shock-propagation in rigid body animation"
+title: "Unified Treatment of Contact, Friction and Shock-Propagation in Rigid Body Animation"
 
 authors:
   - name: Chen, Yi-Lu

@@ -12,7 +12,7 @@ affiliations:
   - name: IST Austria
     url: http://ist.ac.at
 
-publication: ISTA (PhD Thesis)
+publication: ISTA (PhD Thesis, 2016)
 date: 2016-09-15
 doi: http://dx.doi.org/10.15479/AT:ISTA:th_640
 

@@ -54,7 +54,7 @@ teaser:
   caption: |
 
   images:
-  - url: thumb.JPG
+  - url: thumb.jpg
 
 ---
 

@@ -16,7 +16,7 @@ affiliations:
   - name: Department of Decision Sciences and BIDSA, Bocconi University
     url: https://dec.unibocconi.eu/
 
-publication: Foundations of Computational Mathematics (FoCM)
+publication: Foundations of Computational Mathematics (FoCM, 2024)
 date: 2024-11-12
 doi: https://doi.org/10.1007/s10208-024-09686-3
 
