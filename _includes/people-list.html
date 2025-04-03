@@ -33,7 +33,7 @@
                         <a href="mailto:{{ p.email }}">{{ p.email | truncate: 25, '..' }}</a>
                     </li>
                 {% endif %}
-                {% if p.phone and (p.type == 'assistant' or p.type == 'faculty')%}
+                {% if p.phone and (p.type == 'assistant' or p.type == 'faculty' or p.type == 'engineer')%}
                     <li>
                         <span class="glyphicon glyphicon-earphone" aria-hidden="true"></span>
                         {{ p.phone }}
