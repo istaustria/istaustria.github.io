@@ -62,6 +62,18 @@ pre {
  text-decoration:underline;
 }
 
+@media (min-width: 500px) {
+    .navbar-nav>li.navlist-others {
+        display: none;
+    }
+}
+
+@media not (min-width: 500px) {
+    .navbar-nav>li.navlist-hideonsmall {
+        display: none;
+    }
+}
+
 .navbar-nav>li, .navbar-nav {
     float: left !important;
   }
@@ -71,6 +83,7 @@ pre {
   position: relative;
   display: inline-block;
 }
+
 
 #dropdown a {
     color:inherit;

@@ -9,7 +9,7 @@
         </button>-->
 
             <ul class="nav navbar-nav" id="navbar">
-                <li id="navbar-nodropdown"><a href="{{ '/' | prepend: site.baseurl }}">Home</a>
+                <li id="navbar-nodropdown"><a href="{{ '/' | prepend: site.baseurl }}">Home</a></li>
                 <li class="navlist">
                   <div class="dropdown">
                     <a>
@@ -26,6 +26,7 @@
                       <a href="https://cvml.ista.ac.at/" target="_blank">Lampert Group &nbsp;<span class="glyphicon glyphicon-new-window"></span></a>
                     </div>
                   </div> 
+                </li>
                 <li class="navlist">
                   <div class="dropdown">
                     <a>
@@ -39,9 +40,21 @@
                       <a href="{{ '/publications/grpwojtan' | prepend: site.baseurl }}">Wojtan Group</a>
                     </div>
                   </div>
-                <li id="navbar-nodropdown"><a href="{{ '/code' | prepend: site.baseurl }}">Code</a> 
-                <li id="navbar-nodropdown"><a href="{{ '/seminars' | prepend: site.baseurl }}">Graphics Seminar</a> 
-                <li id="navbar-nodropdown"><a href="{{ '/openpositions' | prepend: site.baseurl }}">Jobs</a>
+                </li>
+                <li id="navbar-nodropdown" class="navlist-hideonsmall"><a href="{{ '/code' | prepend: site.baseurl }}">Code</a></li>
+                <li id="navbar-nodropdown" class="navlist-hideonsmall"><a href="{{ '/seminars' | prepend: site.baseurl }}">Seminar</a></li>
+                <li id="navbar-nodropdown" class="navlist-hideonsmall"><a href="{{ '/openpositions' | prepend: site.baseurl }}">Jobs</a></li>
+
+                <li class="navlist navlist-others">
+                  <div class="dropdown">
+                    <a><button class="dropbtn">Others <span class="caret"></span></button></a>
+                    <div class="dropdown-content">
+                      <a href="{{ '/code' | prepend: site.baseurl }}">Code</a> 
+                      <a href="{{ '/seminars' | prepend: site.baseurl }}">Seminar</a> 
+                      <a href="{{ '/openpositions' | prepend: site.baseurl }}">Jobs</a>
+                    </div>
+                  </div>
+                </li>
             </ul>
     </div>
 </nav>
