@@ -5,6 +5,6 @@ email: arietemadi@gmail.com
 type: alumni
 grp: wojtan
 
-left: 2024
+left: 2025
 formerly: Master Student
 ---
