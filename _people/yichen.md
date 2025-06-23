@@ -1,7 +1,7 @@
 ---
 pid: yichen
 name: Chen, Yi-Lu
-room: Moonstone Building <br/> 3rd Floor, Room 036
+room: Moonstone Building <br/> 3rd Floor, Room 034
 email: yi-lu.chen@ist.ac.at
 bio: Physics-based simulation
 type: phdstudent

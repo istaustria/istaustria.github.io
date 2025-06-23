@@ -1,7 +1,7 @@
 ---
 pid: sadashigeishida
 name: Ishida, Sadashige
-room: Moonstone Building <br/> 3rd Floor, Room 036
+room: Moonstone Building <br/> 3rd Floor, Room 034
 email: sadashige.ishida@ist.ac.at
 webpage: https://sadashigeishida.bitbucket.io/
 type: phdstudent
