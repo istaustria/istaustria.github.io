@@ -78,7 +78,7 @@ teaser:
 
 ### Acknowledgements
 
-We wish to thank the anonymous reviewers and the members of the Visual Computing Group at IST Austria and MFX Team at INRIA for their valuable feedback. This research was supported by the Scientific Service Units (SSU) of IST Austria through resources provided by Scientific Computing.
+We wish to thank the anonymous reviewers and the members of the Visual Computing Group at IST Austria and MFX Team at INRIA for their valuable feedback. We also thank SideFX for the Houdini software licenses.This research was supported by the Scientific Service Units (SSU) of IST Austria through resources provided by Scientific Computing.
 This project has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme under grant agreement No. 638176.
 
 ![EU](flag_yellow_low.jpg){: width="150x"}

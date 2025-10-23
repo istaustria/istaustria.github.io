@@ -88,7 +88,7 @@ teaser:
 
 ### Acknowledgements
 
-We wish to thank the anonymous reviewers and the members of the Visual Computing Group at IST Austria for their valuable feedback. This research was supported by the Scientific Service Units (SSU) of IST Austria through resources provided by Scientific Computing. We would also like to thank Stefan Jeschke for providing the videos and pictures for the comparisons with previous works.
+We wish to thank the anonymous reviewers and the members of the Visual Computing Group at IST Austria for their valuable feedback. This research was supported by the Scientific Service Units (SSU) of IST Austria through resources provided by Scientific Computing. We would also like to thank Stefan Jeschke for providing the videos and pictures for the comparisons with previous works and SideFX for providing Houdini licenses.
 This project has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme under grant agreement No. 638176 and No. 715767, and Marie Sklodowska-Curie grant agreement No. 665385.
 
 

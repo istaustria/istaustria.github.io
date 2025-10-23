@@ -74,6 +74,7 @@ teaser:
 The authors acknowledge anonymous referees for their reviews and
 insightful suggestions, and Chris Wojtan for his continuous support through discussions. The second author thanks Anna Sisak for a fruitful discussion on prequantum bundles. This project
 was funded in part by the European Research Council (ERC Consolidator Grant 101045083 CoDiNA) and the National Science Foundation CAREER Award 2239062.
+Houdini software used for the figures courtesy of SideFX.
 
 ![EU](flag_yellow_low.jpg){: width="150x"}
 ![ERC](LOGO-ERC.jpg){: width="150px"}

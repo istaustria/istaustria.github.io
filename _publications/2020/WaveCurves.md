@@ -94,7 +94,7 @@ Please note that one of the test scenes in the original publication used an inco
 
 ### Acknowledgements
 
-We wish to thank the anonymous reviewers and the members of the Visual Computing Group at IST Austria for their valuable feedback. This research was supported by the Scientific Service Units (SSU) of IST Austria through resources provided by Scientific Computing. This project has received funding from the European Research Council (ERC) under the European Union’s Horizon 2020 research and innovation programme under grant agreements No 638176 and Marie Sklodowska-Curie Grant Agreement No. 665385W.
+We wish to thank the anonymous reviewers and the members of the Visual Computing Group at IST Austria for their valuable feedback. This research was supported by the Scientific Service Units (SSU) of IST Austria through resources provided by Scientific Computing and by SideFX through Houdini Education licenses. This project has received funding from the European Research Council (ERC) under the European Union’s Horizon 2020 research and innovation programme under grant agreements No 638176 and Marie Sklodowska-Curie Grant Agreement No. 665385W. 
 
 ![EU](flag_yellow_low.jpg){: width="150x"}
 ![ERC](LOGO-ERC.jpg){: width="150px"}
