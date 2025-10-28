@@ -4,7 +4,7 @@ title: Architecture, Geometry, and Computer Science
 
 authors:
   - name: Rist, Florian
-    url: https://faculty.cc.gatech.edu/~bozhu/
+    url: https://cemse.kaust.edu.sa/profiles/florian-rist
 
 affiliations:
   - name: KAUST

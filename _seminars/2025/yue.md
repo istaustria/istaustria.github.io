@@ -4,7 +4,7 @@ title: Efficient Computational Models for Forward and Inverse Elasticity Problem
 
 authors:
   - name: Li, Yue
-    url: https://faculty.cc.gatech.edu/~bozhu/
+    url: https://liyuesolo.github.io/
 
 affiliations:
   - name: ETH Zurich
