@@ -14,8 +14,8 @@ collections:
     permalink: /:collection/:path/
     
 social:
-  - title: twitter
-    url: https://twitter.com/istaustria
+  - title: bluesky
+    url: https://bsky.app/profile/istaresearch.bsky.social
   - title: facebook
     url: https://www.facebook.com/ISTAustria
   - title: github
