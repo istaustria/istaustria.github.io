@@ -48,6 +48,7 @@ bibtex: |
 
 grp: wojtan
 paper: https://research-explorer.ista.ac.at/download/17219/17317/2024_ACMToG_HeissSynak.pdf
+authors_paper: https://research-explorer.ista.ac.at/download/17219/20633/SuperDuperTopoFixer.pdf
 video: https://research-explorer.ista.ac.at/download/17219/17221/sdtopofixer_final.mp4
 
 abstract: |
@@ -80,6 +81,7 @@ When this paper was first published, we regrettably neglected to address the imp
 ### Resources
 
 * [Paper (49 MB)]({{ page.paper }})
+* [Author's version of the manuscript (48 MB)]({{ page.authors_paper }})
 * [Submission Video (48 MB)]({{ page.video }})
 
 ### Citation
