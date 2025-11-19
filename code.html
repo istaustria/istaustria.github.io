@@ -33,7 +33,9 @@ layout: default
                             {% endif %}
                             {% endfor %}
                         </ul>
-                        <a class="code-link" href="{{ p.code }}"><h3><i class="fa fa-file-code-o"></i>&nbsp;&nbsp;Source Code</h3></a>
+                        {% for c in p.code %} {% if c.link %} <a class="code-link" href="{{ c.link }}"><h3><i class="fa fa-file-code-o"></i>&nbsp;&nbsp;{{c.name}}</h3></a>
+                        {% else %} <a class="code-link" href="{{ c }}"><h3><i class="fa fa-file-code-o"></i>&nbsp;&nbsp;Source code</h3></a>
+                        {% endif %} {% endfor %}
                         <div style="">
                             <a href="{% if p.layout == 'publication' %}{{ p.url }}{% elsif p.project %}{{ p.project }}{% endif %}" class="btn btn-default">Project Page</a>
                         </div>
