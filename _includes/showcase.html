@@ -39,6 +39,51 @@
         playVideo(i_next_video);
     };
 
+
+    var is_mobile = navigator.userAgent.includes("Mobi"); 
+    // https://stackoverflow.com/questions/47557135/detect-the-type-of-error-when-trying-to-load-a-html5-video-using-a-source-elemen
+    // Have to check if the mobile video exists with a listener
+    source_element.addEventListener("error", function(e) {        
+        // Check that the error is that the mobile video was not provided
+        if (source_element.getAttribute('src') == getMobileVideoName(i_current_video)) {
+            //console.log("Mobile version", source_element.getAttribute('src'), "not found, loading normal video");
+            // Backup: load normal video
+            loadMainVideo(i_current_video);
+        }
+    });
+
+    function getMainVideoName(i_next_video) {
+        return baseurl.concat('videos/').concat(video_sources[i_next_video]);
+    }
+    
+    function loadMainVideo(i_next_video) {
+        var next_video_source = getMainVideoName(i_next_video);
+        source_element.setAttribute('src', next_video_source);
+        video_element.load();
+        //console.log("Loading normal video", next_video_source);
+    }
+
+    function getMobileVideoName(i_next_video) {
+        var next_video_source = getMainVideoName(i_next_video);
+        var is_mobile = navigator.userAgent.includes("Mobi");
+        if (!is_mobile) {
+            return next_video_source;
+        }
+        var next_video_split = next_video_source.split('.')
+        var next_video_source_name = next_video_split.slice(0, -1).join('.');
+        var next_video_source_ext = next_video_split.pop();
+        var next_video_mobile = next_video_source_name.concat("-mobile.").concat(next_video_source_ext);
+        return next_video_mobile;
+    }
+  
+    function loadMobileVideo(i_next_video) {
+        var next_video_source = getMobileVideoName(i_next_video);
+        source_element.setAttribute('src', next_video_source);
+        video_element.load();
+        //console.log("Loading mobile video", next_video_source);
+    }
+    
+
     function playVideo(i_next_video) {
         if (i_current_video >= 0) {
             var old_check_element = document.getElementById("showcase-check-".concat(i_current_video));
@@ -52,14 +97,19 @@
                 old_check_element.className = "glyphicon glyphicon-expand";
             } else {
                 video_element.pause();
-                old_check_element.className = " glyphicon glyphicon-collapse-down";
+                old_check_element.className = "glyphicon glyphicon-collapse-down";
             } 
             return; 
         }
 
-        source_element.setAttribute('src', baseurl.concat('videos/').concat(video_sources[i_next_video]));
-        video_element.load();
-
+        if (is_mobile) {
+            // Try to load a lower resolution for mobile devices
+            loadMobileVideo(i_next_video);
+        } else {
+            // Normal load
+            loadMainVideo(i_next_video);
+        }
+            
         var url = "location.href='".concat(video_urls[i_next_video]).concat("'");
         description_element.setAttribute('onclick', url);
         title_element.innerHTML = video_titles[i_next_video];
