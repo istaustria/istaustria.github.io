@@ -45,6 +45,18 @@
             old_check_element.className = "glyphicon glyphicon-unchecked";
         }
 
+        if (i_next_video == i_current_video) {
+            var old_check_element = document.getElementById("showcase-check-".concat(i_current_video));
+            if (video_element.paused) {
+                video_element.play();
+                old_check_element.className = "glyphicon glyphicon-expand";
+            } else {
+                video_element.pause();
+                old_check_element.className = " glyphicon glyphicon-collapse-down";
+            } 
+            return; 
+        }
+
         source_element.setAttribute('src', baseurl.concat('videos/').concat(video_sources[i_next_video]));
         video_element.load();
 
@@ -55,7 +67,6 @@
 
         var check_element = document.getElementById("showcase-check-".concat(i_next_video));
         check_element.className = "glyphicon glyphicon-expand";
-
         i_current_video = i_next_video;
     }
     playVideo(Math.floor(Math.random() * num_videos));
