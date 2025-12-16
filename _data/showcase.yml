@@ -1,17 +1,22 @@
 - title: Multi-Material Mesh-Based Surface Tracking with Implicit Topology Changes
   authors: Peter Heiss-Synak*, Aleksei Kalinov*, Malina Strugaru, Arian Etemadi, Huidong Yang, Chris Wojtan
   video: multi-material-meshing.mp4
-  venue-year: Siggraph 2024
+  venue-year: Siggraph North America 2024
   publication: SDTF
-- title: Primal–Dual Non-Smooth Friction for Rigid Body Animation
+- title: Numerical Homogenization of Sand from Grain-level Simulations
   authors: Yi-Lu Chen, Mickaël Ly, Chris Wojtan
-  video: friction-frenzy.mp4
-  venue-year: Siggraph 2024
-  publication: PDNSF
+  video: homogenized-grains.mp4
+  venue-year: Siggraph Asia 2025
+  publication: HomogenizedSand
+#- title: Primal–Dual Non-Smooth Friction for Rigid Body Animation 
+#  authors: Yi-Lu Chen, Mickaël Ly, Chris Wojtan 
+#  video: friction-frenzy.mp4 
+#  venue-year: Siggraph North America 2024 
+#  publication: PDNSF 
 - title: "Spin-It Faster: Quadrics Solve All Topology Optimization Problems That Depend Only On Mass Moments"
   authors: Christian Hafner, Mickaël Ly, Chris Wojtan
   video: spin-it-faster.mp4
-  venue-year: Siggraph 2024
+  venue-year: Siggraph North America 2024
   publication: SIF
 - title: The Design Space of Kirchhoff Rods
   authors: Christian Hafner, Bernd Bickel
@@ -21,12 +26,12 @@
 - title: Generalizing Shallow Water Simulations With Dispersive Surface Waves
   authors: Stefan Jeschke, Chris Wojtan
   video: wake-patterns.mp4
-  venue-year: Siggraph 2023
+  venue-year: Siggraph North America 2023
   publication: GSWSDSW
 - title: "Procedural Metamaterials: A Unified Procedural Graph for Metamaterial Design"
   authors: Liane Makatura, Bohan Wang, Yi-Lu Chen, Bolei Deng, Chris Wojtan, Bernd Bickel, Wojciech Matusik
   video: procmeta.mp4
-  venue-year: Siggraph 2023
+  venue-year: Siggraph North America 2023
   publication: ProcMeta
 - title: Hidden Degrees of Freedom in Implicit Vortex Filaments
   authors: Sadashige Ishida, Chris Wojtan, Albert Chern
@@ -36,5 +41,5 @@
 - title: Mechanics-Aware Deformation of Yarn Pattern Geometry
   authors: Georg Sperl, Rahul Narain, Chris Wojtan
   video: yarns.mp4
-  venue-year: Siggraph 2021
+  venue-year: Siggraph North America 2021
   publication: MADYPG
