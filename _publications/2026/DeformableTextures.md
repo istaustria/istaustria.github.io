@@ -39,7 +39,7 @@ bibtex: |
     journal = {ACM Trans. Graph.},
     month = {jul},
     articleno = {154},
-    numpages = {23},
+    numpages = {13},
     keywords = {procedural animation, procedural textures}
   }
 
