@@ -1,3 +1,8 @@
+- title: Physics-inspired procedural texturing of extremely deformable surfaces
+  authors:  Aleksei Kalinov, Mickaël Ly, Christian Hafner, Chris Wojtan
+  video: deformabletextures.mp4
+  venue-year: Siggraph North America 2026
+  publication: DeformableTextures
 - title: Multi-Material Mesh-Based Surface Tracking with Implicit Topology Changes
   authors: Peter Heiss-Synak*, Aleksei Kalinov*, Malina Strugaru, Arian Etemadi, Huidong Yang, Chris Wojtan
   video: multi-material-meshing.mp4
