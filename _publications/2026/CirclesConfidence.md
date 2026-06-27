@@ -48,7 +48,7 @@ bibtex: |
   }
 
 grp: wojtan
-paper: #
+paper: https://research-explorer.ista.ac.at/download/22129/22132/document%283%29.pdf
      
 abstract: |
   Inside–outside classification is widely used for geometry processing tasks such as surface reconstruction, geometry completion, and calculating signed distance fields. We introduce a new integral formulation of this problem, which assigns confidence scores that points are inside or outside, given incomplete boundary geometry. Even though our geometric construction does not appear in previous work, we show that it is unexpectedly linked to both the well-established generalized winding number (GWN) and pseudonormal methods for geometry completion, and it provably reduces to either one of them for specific values of a control parameter. The results obtained with our method frequently outperform screened Poisson surface reconstruction (PSR), GWN, and the pseudonormal method in terms of quality, and are at least on par with them on all of our examples. Unlike these methods, our algorithm naturally extends to the multi-label setting, in which regions with an arbitrary number of colors or physical materials can be reconstructed, and non-manifold features such as T-junctions may appear in the interface and boundary geometry.
