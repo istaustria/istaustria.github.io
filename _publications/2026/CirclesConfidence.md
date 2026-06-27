@@ -76,7 +76,7 @@ teaser:
 
 ### Resources
 
-* [Paper (62 MB)]({{ page.paper }})
+* [Paper]({{ page.paper }})
 
 {% for c in page.code %} {% if c.link %}* [**{{ c.name }}** (Git Repository)]({{ c.link }})
 {% else %} * [**Source Code** (Git Repository)]({{ page.code }})
