@@ -78,10 +78,10 @@ teaser:
 
 ### Resources
 
-* [Paper (62 MB)]({{ page.paper }})
-* [Paper Supplemental (7 MB)]({{ page.supp }})
-* [Main Video (164 MB)]({{ page.video }})
-* [Supplemental Video (72 MB)]({{ page.videosupp }})
+* [Paper]({{ page.paper }})
+* [Paper Supplemental]({{ page.supp }})
+* [Main Video]({{ page.video }})
+* [Supplemental Video]({{ page.videosupp }})
 {% for c in page.code %} {% if c.link %}* [**{{ c.name }}** (Git Repository)]({{ c.link }})
 {% else %} * [**Source Code** (Git Repository)]({{ page.code }})
 {% endif %} {% endfor %}
