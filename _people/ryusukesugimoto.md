@@ -8,6 +8,6 @@ grp: wojtan
 room: Moonstone Building <br/> 2nd Floor, Room 038
 email: ryusuke.sugimoto@ista.ac.at
 
-bio: Ryusuke Sugimoto is a Postdoctoral Researcher at ISTA with Prof. Chris Wojtan with focus on computer graphics and physics simulation. His research explores the use of integral equations and Monte Carlo methods for non-rendering tasks. He completed his PhD in computer science at the University of Waterloo, under the supervision of Prof. Toshiya Hachisuka and Prof. Christopher Batty. He received his bachelor's degree in computer science and mathematics from HKUST, where he worked with Prof. Pedro V. Sander. He has also interned at SideFX, contributing to the development of the visual effects software Houdini, and at Adobe, conducting graphics research. 
+bio: Ryusuke Sugimoto is a postdoctoral researcher (ISTA Fellow) at ISTA, working with Prof. Chris Wojtan. His research focuses on computer graphics, with an emphasis on computational techniques that utilize integral equation representations and Monte Carlo methods for physics simulation and geometry processing.
 webpage: https://rsugimoto.net/
 ---
