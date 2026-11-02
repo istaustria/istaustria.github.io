@@ -4,7 +4,7 @@ title: "Directionality-Aware Design of Embroidery Patterns"
 
 authors:
   - name: Zhenyuan, Liu
-    affiliations: [1,2]
+    affiliations: [1]
     url: https://desmondlzy.me/
   - name: Piovarci, Michal
     affiliations: [1]
@@ -21,8 +21,6 @@ authors:
 affiliations:
   - name: ISTA
     url: https://ista.ac.at
-  - name: EPFL
-    url: https://www.epfl.ch/en/
 
 publication: Computer Graphics Forum (Eurographics 2023)
 date: 2023-05-23
