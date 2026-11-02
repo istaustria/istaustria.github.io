@@ -11,6 +11,7 @@ authors:
     url: https://misop.github.io/
   - name: Hafner, Christian
     affiliations: [1]
+    url: https://chrishafner.github.io/
   - name: Charrondiere, Raphael
     affiliations: [1]
   - name: Bickel, Bernd
